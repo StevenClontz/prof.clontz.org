@@ -33,8 +33,10 @@ quickly material is covered in lecture.
 - Mon Jun 05
     - [C01: SurfaceEQ.](../standards/c01/)
 - Tue Jun 06
+    - [C01: SurfaceEQ.](../standards/c01/)
     - [C02: VectFunc.](../standards/c02/)
 - Wed Jun 07
+    - [C02: VectFunc.](../standards/c02/)
     - C03: VectCalc.
 - Thu Jun 08
     - C03: VectCalc.
