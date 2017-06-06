@@ -22,40 +22,50 @@ quickly material is covered in lecture.
     - [S01: 3DSpace.](../standards/s01/)
     - [S02: DotProd.](../standards/s02/)
 - Thu Jun 01
+    - Quiz on S01
     - [S02: DotProd.](../standards/s02/)
     - [S03: CrossProd.](../standards/s03/)
 - Fri Jun 02
+    - Quiz on S01,S02
     - [S03: CrossProd.](../standards/s03/)
     - [C01: SurfaceEQ.](../standards/c01/)
 
 ## Week 2
 
 - Mon Jun 05
+    - Quiz on S01,S02,S03
     - [C01: SurfaceEQ.](../standards/c01/)
 - Tue Jun 06
+    - Quiz on S02,S03
     - [C01: SurfaceEQ.](../standards/c01/)
     - [C02: VectFunc.](../standards/c02/)
 - Wed Jun 07
+    - Quiz on S03,C01
     - [C02: VectFunc.](../standards/c02/)
-    - C03: VectCalc.
 - Thu Jun 08
+    - Quiz on C01,C02
     - C03: VectCalc.
-    - C04: VectFuncSTNB.
 - Fri Jun 09
+    - Quiz on C01,C02,C03
     - C04: VectFuncSTNB.
 
 ## Week 3
 
 - Mon Jun 12
+    - Quiz on C01,C02,C03,C04
     - S04: Kinematics.
 - Tue Jun 13
+    - Quiz on C02,C03,C04,S04
     - S05: MulivarFunc.
 - Wed Jun 14
+    - Quiz on C03,C04,S04,S05
     - C05: MultivarCalc.
 - Thu Jun 15
+    - Quiz on C04,S04,S05
     - C05: MultivarCalc.
     - C06: ChainRule.
 - Fri Jun 16
+    - Quiz on S05,C05
     - C06: ChainRule.
 
 ## Week 4
