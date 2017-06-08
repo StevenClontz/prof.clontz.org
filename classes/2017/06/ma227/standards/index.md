@@ -12,7 +12,7 @@ At the end of the course, each student should be able to...
   Identify and sketch surfaces in three-dimensional Euclidean space.
 - [**C02: VectFunc.**](c02/)
   Model curves in Euclidean space with vector functions.
-- **C03: VectCalc.**
+- [**C03: VectCalc.**](c03/)
   Compute and apply vector function limits, derivatives, and integrals.
 - **C04: VectFuncSTNB.**
   Compute and apply the arclength parameter and TNB frame for a vector
@@ -37,13 +37,13 @@ At the end of the course, each student should be able to...
 
 ## Supporting Standards
 
-- [**S01: 3DSpace.**](s01/)
+- [**S01: 3DSpace.**](s01/) <!-- TODO retitle PtsVects -->
   Plot and analyze points and vectors in Euclidean space.
 - [**S02: DotProd.**](s02/)
   Compute and apply the dot product of two vectors.
 - [**S03: CrossProd.**](s03/)
   Compute and apply the cross product of two vectors.
-- **S04: Kinematics.**
+- [**S04: Kinematics.**](s04/)
   Compute and apply position, velocity, and acceleration vector functions.
 - **S05: MulivarFunc.**
   Sketch and analyze the domain, level curves, and graph of a two-variable

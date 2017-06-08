@@ -42,18 +42,19 @@ quickly material is covered in lecture.
 - Wed Jun 07
     - Quiz on S03,C01
     - [C02: VectFunc.](../standards/c02/)
+    - [C03: VectCalc.](../standards/c03/)
 - Thu Jun 08
     - Quiz on C01,C02
-    - C03: VectCalc.
+    - [C03: VectCalc.](../standards/c03/)
 - Fri Jun 09
     - Quiz on C01,C02,C03
-    - C04: VectFuncSTNB.
+    - S04: Kinematics.
 
 ## Week 3
 
 - Mon Jun 12
     - Quiz on C01,C02,C03,C04
-    - S04: Kinematics.
+    - C04: VectFuncSTNB.
 - Tue Jun 13
     - Quiz on C02,C03,C04,S04
     - S05: MulivarFunc.
