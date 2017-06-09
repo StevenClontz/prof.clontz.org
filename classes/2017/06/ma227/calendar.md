@@ -48,12 +48,13 @@ quickly material is covered in lecture.
     - [C03: VectCalc.](../standards/c03/)
 - Fri Jun 09
     - Quiz on C01,C02,C03
-    - S04: Kinematics.
+    - [S04: Kinematics.](../standards/s04/)
 
 ## Week 3
 
 - Mon Jun 12
-    - Quiz on C01,C02,C03,C04
+    - Quiz on C01,C02,C03
+    - [S04: Kinematics.](../standards/s04/)
     - C04: VectFuncSTNB.
 - Tue Jun 13
     - Quiz on C02,C03,C04,S04
