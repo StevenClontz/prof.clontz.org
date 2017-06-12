@@ -14,7 +14,7 @@ At the end of the course, each student should be able to...
   Model curves in Euclidean space with vector functions.
 - [**C03: VectCalc.**](c03/)
   Compute and apply vector function limits, derivatives, and integrals.
-- **C04: VectFuncSTNB.**
+- [**C04: VectFuncSTNB.**](c04/)
   Compute and apply the arclength parameter and TNB frame for a vector
   function.
 - **C05: MultivarCalc.**

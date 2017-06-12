@@ -55,9 +55,10 @@ quickly material is covered in lecture.
 - Mon Jun 12
     - Quiz on C01,C02,C03
     - [S04: Kinematics.](../standards/s04/)
-    - C04: VectFuncSTNB.
+    - [C04: VectFuncSTNB.](../standards/c04/)
 - Tue Jun 13
-    - Quiz on C02,C03,C04,S04
+    - Quiz on C02,C03,S04
+    - [C04: VectFuncSTNB.](../standards/c04/)
     - S05: MulivarFunc.
 - Wed Jun 14
     - Quiz on C03,C04,S04,S05
@@ -67,7 +68,7 @@ quickly material is covered in lecture.
     - C05: MultivarCalc.
     - C06: ChainRule.
 - Fri Jun 16
-    - Quiz on S05,C05
+    - Quiz on C04,S05,C05
     - C06: ChainRule.
 
 ## Week 4
