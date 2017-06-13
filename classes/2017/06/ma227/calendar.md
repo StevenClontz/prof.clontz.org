@@ -59,9 +59,9 @@ quickly material is covered in lecture.
 - Tue Jun 13
     - Quiz on C02,C03,S04
     - [C04: VectFuncSTNB.](../standards/c04/)
-    - S05: MulivarFunc.
 - Wed Jun 14
-    - Quiz on C03,C04,S04,S05
+    - Quiz on C03,C04,S04
+    - S05: MulivarFunc.
     - C05: MultivarCalc.
 - Thu Jun 15
     - Quiz on C04,S04,S05
