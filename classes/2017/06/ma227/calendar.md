@@ -60,13 +60,12 @@ quickly material is covered in lecture.
     - Quiz on C02,C03,S04
     - [C04: VectFuncSTNB.](../standards/c04/)
 - Wed Jun 14
-    - Quiz on C03,C04,S04
+    - Quiz on C03,S04
+    - [C04: VectFuncSTNB.](../standards/c04/)
     - S05: MulivarFunc.
-    - C05: MultivarCalc.
 - Thu Jun 15
-    - Quiz on C04,S04,S05
+    - Quiz on C04,S04
     - C05: MultivarCalc.
-    - C06: ChainRule.
 - Fri Jun 16
     - Quiz on C04,S05,C05
     - C06: ChainRule.
