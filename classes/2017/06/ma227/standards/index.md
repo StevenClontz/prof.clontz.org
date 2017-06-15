@@ -17,7 +17,7 @@ At the end of the course, each student should be able to...
 - [**C04: VectFuncSTNB.**](c04/)
   Compute and apply the arclength parameter and TNB frame for a vector
   function.
-- **C05: MultivarCalc.**
+- [**C05: MultivarCalc.**](c05/)
   Compute and apply the partial derivatives, gradient, and directional
   derivatives of a multivariable real-valued function.
 - **C06: ChainRule.**
@@ -45,7 +45,7 @@ At the end of the course, each student should be able to...
   Compute and apply the cross product of two vectors.
 - [**S04: Kinematics.**](s04/)
   Compute and apply position, velocity, and acceleration vector functions.
-- **S05: MulivarFunc.**
+- [**S05: MulivarFunc.**](s05/)
   Sketch and analyze the domain, level curves, and graph of a two-variable
   real-valued function.
 - **S06: Lineariz.**

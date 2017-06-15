@@ -62,12 +62,14 @@ quickly material is covered in lecture.
 - Wed Jun 14
     - Quiz on C03,S04
     - [C04: VectFuncSTNB.](../standards/c04/)
-    - S05: MulivarFunc.
+    - [S05: MulivarFunc.](../standards/s05/)
 - Thu Jun 15
     - Quiz on C04,S04
-    - C05: MultivarCalc.
+    - [S05: MulivarFunc.](../standards/s05/)
+    - [C05: MultivarCalc.](../standards/c05/)
 - Fri Jun 16
-    - Quiz on C04,S05,C05
+    - Quiz on C04,S05
+    - [C05: MultivarCalc.](../standards/c05/)
     - C06: ChainRule.
 
 ## Week 4
