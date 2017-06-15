@@ -10,6 +10,7 @@ description: "Calculus II - 2017 Summer"
 - [Standards][standards]
 - [Calendar][calendar]
 - [**★** Reattempt Form](pdf/star-reattempt.pdf)
+- [Old Quizzes](https://github.com/StevenClontz/prof.clontz.org/tree/gh-pages/classes/2017/06/ma126/pdf)
 
 ---
 
