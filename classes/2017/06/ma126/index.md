@@ -147,7 +147,7 @@ if so, participation on the survey will be required to earn that week's AP.
 Students may spend their Attempt Points to individually demonstrate mastery
 of the Core and Supporting Standards.
 
-* During the first 15 minutes of days without an IRQ/TRQ, students are given
+* During the first 15 minutes each class, students are given
   a **Mastery Quiz** containing several
   **In-Class Exercises** based on several of the most recently covered
   Standards.
