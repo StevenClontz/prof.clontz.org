@@ -70,11 +70,13 @@ quickly material is covered in lecture.
 - Fri Jun 16
     - Quiz on C04,S05
     - [C05: MultivarCalc.](../standards/c05/)
-    - C06: ChainRule.
+    - [C06: ChainRule.](../standards/c06)
 
 ## Week 4
 
 - Mon Jun 19
+    - Quiz on C04,S05,C05
+    - [C06: ChainRule.](../standards/c06)
     - S06: Lineariz.
 - Tue Jun 20
     - S07: Optimiz.

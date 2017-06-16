@@ -20,7 +20,7 @@ At the end of the course, each student should be able to...
 - [**C05: MultivarCalc.**](c05/)
   Compute and apply the partial derivatives, gradient, and directional
   derivatives of a multivariable real-valued function.
-- **C06: ChainRule.**
+- [**C06: ChainRule.**](c06/)
   Apply the multivariable Chain Rule to compute derivatives.
 - **C07: DoubleInt.**
   Compute and apply double integrals.
