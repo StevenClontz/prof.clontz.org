@@ -77,30 +77,40 @@ quickly material is covered in lecture.
 - Mon Jun 19
     - Quiz on C04,S05,C05
     - [C06: ChainRule.](../standards/c06)
-    - S06: Lineariz.
 - Tue Jun 20
-    - S07: Optimiz.
+    - Quiz on C04,S05,C05
+    - [C06: ChainRule.](../standards/c06)
+    - S06: Lineariz.
 - Wed Jun 21
-    - C07: DoubleInt.
+    - Quiz on C05,C06,S06
+    - S07: Optimiz.
 - Thu Jun 22
+    - Quiz on C05,C06,S06
+    - S07: Optimiz.
     - C07: DoubleInt.
-    - C08: TripleInt.
 - Fri Jun 23
+    - Quiz on C06,S06,S07
+    - C07: DoubleInt.
     - C08: TripleInt.
 
 ## Week 5
 
 - Mon Jun 26
+    - Quiz on C06,S07,C07
+    - C08: TripleInt.
     - S08: TransVar.
 - Tue Jun 27
+    - Quiz on S07,C07,C08
     - S08: TransVar.
     - C09: PolCylSph.
 - Wed Jun 28
+    - Quiz on C07,C08,S08
     - C09: PolCylSph.
 - Thu Jun 29
     - Review
 - Fri Jun 30
     - **Midterm Exam**
+    - Covers C01-C06 and S01-S07
 
 ## Week 6
 
