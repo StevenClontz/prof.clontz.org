@@ -48,7 +48,7 @@ At the end of the course, each student should be able to...
 - [**S05: MulivarFunc.**](s05/)
   Sketch and analyze the domain, level curves, and graph of a two-variable
   real-valued function.
-- **S06: Lineariz.**
+- [**S06: Lineariz.**](s06/)
   Compute the linearization of a two-variable real-valued function at a
   point and use it for approximation.
 - **S07: Optimiz.**

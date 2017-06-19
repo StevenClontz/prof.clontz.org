@@ -80,7 +80,7 @@ quickly material is covered in lecture.
 - Tue Jun 20
     - Quiz on C04,S05,C05
     - [C06: ChainRule.](../standards/c06)
-    - S06: Lineariz.
+    - [S06: Lineariz.](../standards/s06)
 - Wed Jun 21
     - Quiz on C05,C06,S06
     - S07: Optimiz.
