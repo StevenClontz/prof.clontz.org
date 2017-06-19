@@ -61,8 +61,10 @@ C## and S## codes refer to the [course standards][standards].
 - Wed Jun 21
     - C07: WashShell.
 - Thu Jun 22
+    - C07: WashShell.
     - C08: Work.
 - Fri Jun 23
+    - C08: Work.
     - S07: WorkDiff.
 
 ## Week 5
