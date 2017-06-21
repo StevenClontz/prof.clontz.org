@@ -80,9 +80,9 @@ quickly material is covered in lecture.
 - Tue Jun 20
     - Quiz on C04,S05,C05
     - [C06: ChainRule.](../standards/c06)
-    - [S06: Lineariz.](../standards/s06)
 - Wed Jun 21
-    - Quiz on C05,C06,S06
+    - Quiz on C05,C06
+    - [S06: Lineariz.](../standards/s06)
     - S07: Optimiz.
 - Thu Jun 22
     - Quiz on C05,C06,S06
@@ -96,7 +96,7 @@ quickly material is covered in lecture.
 ## Week 5
 
 - Mon Jun 26
-    - Quiz on C06,S07,C07
+    - Quiz on C06,S06,S07,C07
     - C08: TripleInt.
     - S08: TransVar.
 - Tue Jun 27
