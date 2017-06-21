@@ -83,7 +83,7 @@ quickly material is covered in lecture.
 - Wed Jun 21
     - Quiz on C05,C06
     - [S06: Lineariz.](../standards/s06)
-    - S07: Optimiz.
+    - [S07: Optimiz.](../standards/s07)
 - Thu Jun 22
     - Quiz on C05,C06,S06
     - S07: Optimiz.

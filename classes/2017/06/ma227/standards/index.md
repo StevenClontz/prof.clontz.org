@@ -51,7 +51,7 @@ At the end of the course, each student should be able to...
 - [**S06: Lineariz.**](s06/)
   Compute the linearization of a two-variable real-valued function at a
   point and use it for approximation.
-- []**S07: Optimiz.**](s07/)
+- [**S07: Optimiz.**](s07/)
   Use the first-derivative test and Lagrange multipliers to optimize a
   real-valued multivariable function.
 - **S08: TransVar.**
