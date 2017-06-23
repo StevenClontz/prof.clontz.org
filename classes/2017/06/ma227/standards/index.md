@@ -22,7 +22,7 @@ At the end of the course, each student should be able to...
   derivatives of a multivariable real-valued function.
 - [**C06: ChainRule.**](c06/)
   Apply the multivariable Chain Rule to compute derivatives.
-- **C07: DoubleInt.**
+- [**C07: DoubleInt.**](c07/)
   Compute and apply double integrals.
 - **C08: TripleInt.**
   Compute and apply triple integrals.
