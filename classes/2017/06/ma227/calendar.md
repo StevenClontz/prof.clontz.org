@@ -87,20 +87,21 @@ quickly material is covered in lecture.
     - Quiz on C05,C06,S06
     - [S07: Optimiz.](../standards/s07)
 - Fri Jun 23
-    - Quiz on C06,S06,S07
-    - C07: DoubleInt.
+    - Quiz on C06,S06
+    - [S07: Optimiz.](../standards/s07)
+    - [C07: DoubleInt.](../standards/c07)
 
 ## Week 5
 
 - Mon Jun 26
-    - Quiz on C06,S06,S07,C07
-    - C08: TripleInt.
+    - Quiz on C06,S06,S07
+    - [C07: DoubleInt.](../standards/c07)
 - Tue Jun 27
+    - Quiz on S07,C07
+    - C08: TripleInt.
+- Wed Jun 28
     - Quiz on S07,C07,C08
     - S08: TransVar.
-- Wed Jun 28
-    - Quiz on C07,C08,S08
-    - C09: PolCylSph.
 - Thu Jun 29
     - No Quiz
     - Review for Midterm
@@ -111,12 +112,11 @@ quickly material is covered in lecture.
 ## Week 6
 
 - Mon Jul 03
-    - C10: VectField.
+    - C09: PolCylSph.
 - Tue Jul 04
     - *Independence Day holiday*
 - Wed Jul 05
     - C10: VectField.
-    - C11: LineInt.
 - Thu Jul 06
     - C11: LineInt.
 - Fri Jul 07
