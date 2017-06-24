@@ -24,7 +24,7 @@ At the end of the course, each student should be able to...
   Apply the multivariable Chain Rule to compute derivatives.
 - [**C07: DoubleInt.**](c07/)
   Compute and apply double integrals.
-- **C08: TripleInt.**
+- [**C08: TripleInt.**](c08/)
   Compute and apply triple integrals.
 - **C09: PolCylSph.**
   Apply polar, cylindrical, and spherical transformations of variables.

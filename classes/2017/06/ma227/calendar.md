@@ -97,11 +97,12 @@ quickly material is covered in lecture.
     - Quiz on C06,S06,S07
     - [C07: DoubleInt.](../standards/c07)
 - Tue Jun 27
-    - Quiz on S07,C07
-    - C08: TripleInt.
+    - Quiz on S07
+    - [C07: DoubleInt.](../standards/c07)
+    - [C08: TripleInt.](../standards/c08)
 - Wed Jun 28
-    - Quiz on S07,C07,C08
-    - S08: TransVar.
+    - Quiz on S07,C07
+    - [C08: TripleInt.](../standards/c08)
 - Thu Jun 29
     - No Quiz
     - Review for Midterm
@@ -112,37 +113,43 @@ quickly material is covered in lecture.
 ## Week 6
 
 - Mon Jul 03
-    - C09: PolCylSph.
+    - Quiz on C07,C08
+    - S08: TransVar.
 - Tue Jul 04
     - *Independence Day holiday*
 - Wed Jul 05
-    - C10: VectField.
+    - Quiz on C07,C08
+    - S08: TransVar.
+    - C09: PolCylSph.
 - Thu Jul 06
-    - C11: LineInt.
+    - Quiz on C07,C08,S08
+    - C09: PolCylSph.
+    - C10: VectField.
 - Fri Jul 07
-    - S09: ParamSurf.
+    - Quiz on C08,S08,C09
+    - C10: VectField.
+    - C11: LineInt.
 
 ## Week 7
 
 - Mon Jul 10
-    - S09: ParamSurf.
-    - S10: SurfInt.
+    - C11: LineInt.
 - Tue Jul 11
-    - S10: SurfInt.
+    - S09: ParamSurf.
 - Wed Jul 12
-    - C12: FundThmLine.
+    - S10: SurfInt.
 - Thu Jul 13
+    - S10: SurfInt.
     - C12: FundThmLine.
-    - S11: GreenStokes.
 - Fri Jul 14
-    - S11: GreenStokes.
+    - C12: FundThmLine.
 
 ## Week 8
 
 - Mon Jul 17
-    - S12: DivThm.
+    - S11: GreenStokes.
 - Tue Jul 18
-    - Flex
+    - S12: DivThm.
 - Wed Jul 19
     - Flex
 - Thu Jul 20
