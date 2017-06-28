@@ -115,7 +115,7 @@ responsible for reviewing in preparation for class each week.
 
 ### Quizzes
 
-On the first day of class each week, students will first be given an
+<!-- On the first day of class each week, students will first be given an
 **Individual Readiness Quiz (IRQ)** of multiple-choice
 questions to check their understanding of the online materials.
 
@@ -124,7 +124,10 @@ each Team will come together to take an
 identical **Team Readiness Quiz (TRQ)**, discussing each member's choices and
 agreeing on a solution. These responses are immediately revealed as correct
 or incorrect, and the Team will keep guessing until the correct answer is
-found.
+found. -->
+
+Individual/Readiness Quizzes have been replaced with Review Days - email
+the instructor for details.
 
 ### Activities
 

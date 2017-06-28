@@ -73,33 +73,31 @@ C## and S## codes refer to the [course standards][standards].
     - **IRQ/TRQ**
     - Covers Sections 4.1-4.4
 - Tue Jun 27
-    - C09: Param.
+    - C09: Param. (Section 4.1)
 - Wed Jun 28
-    - S08: ParamAppl.
+    - S08: ParamAppl. (Section 4.2)
 - Thu Jun 29
-    - C10: Polar.
+    - C10: Polar. (Section 4.3)
 - Fri Jun 30
-    - S09: PolarAppl.
+    - S09: PolarAppl. (Section 4.4)
 
 ## Week 6
 
 - Mon Jul 03
-    - **IRQ/TRQ**
-    - Covers Sections 5.1-5.3
+    - *Review Day*
 - Tue Jul 04
     - *Independence Day holiday*
 - Wed Jul 05
-    - S10: SeqForm.
+    - S10: SeqForm. (Section 5.1)
 - Thu Jul 06
-    - C11: SeqLim.
+    - C11: SeqLim. (Section 5.2)
 - Fri Jul 07
-    - C12: PartSum.
+    - C12: PartSum. (Section 5.3)
 
 ## Week 7
 
 - Mon Jul 10
-    - **IRQ/TRQ**
-    - Covers Sections 5.4-5.7
+    - *Review Day*
 - Tue Jul 11
     - S11: AltSeries.
 - Wed Jul 12
@@ -112,8 +110,7 @@ C## and S## codes refer to the [course standards][standards].
 ## Week 8
 
 - Mon Jul 17
-    - **IRQ/TRQ**
-    - Covers Sections 5.8-6.4
+    - *Review Day*
 - Tue Jul 18
     - C13: SerTech.
 - Wed Jul 19

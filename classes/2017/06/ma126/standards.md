@@ -90,8 +90,7 @@ At the end of the course, each student should be able to...
   of liquid as a definite integral.
     - [Section 3.5](/resources/calculus2/3/5/)
 - **S08: ParamAppl.**
-  Parametrize a curve to express an arclength or area as a definite
-  integral.
+  Parametrize a curve to find arclengths, surface areas, and slopes.
     - [Section 4.2](/resources/calculus2/4/2/)
 - **S09: PolarAppl.**
   Use polar coordinates to express an arclength or area as a definite
