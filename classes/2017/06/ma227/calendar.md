@@ -99,9 +99,9 @@ quickly material is covered in lecture.
 - Tue Jun 27
     - Quiz on S07
     - [C07: DoubleInt.](../standards/c07)
-    - [C08: TripleInt.](../standards/c08)
 - Wed Jun 28
-    - Quiz on S07,C07
+    - Quiz on S07
+    - [C07: DoubleInt.](../standards/c07)
     - [C08: TripleInt.](../standards/c08)
 - Thu Jun 29
     - No Quiz
@@ -113,22 +113,21 @@ quickly material is covered in lecture.
 ## Week 6
 
 - Mon Jul 03
-    - Quiz on C07,C08
+    - Quiz on C07
+    - [C08: TripleInt.](../standards/c08)
     - S08: TransVar.
 - Tue Jul 04
     - *Independence Day holiday*
 - Wed Jul 05
     - Quiz on C07,C08
     - S08: TransVar.
-    - C09: PolCylSph.
 - Thu Jul 06
     - Quiz on C07,C08,S08
     - C09: PolCylSph.
-    - C10: VectField.
 - Fri Jul 07
-    - Quiz on C08,S08,C09
+    - Quiz on C07,C08,S08
+    - C09: PolCylSph.
     - C10: VectField.
-    - C11: LineInt.
 
 ## Week 7
 
