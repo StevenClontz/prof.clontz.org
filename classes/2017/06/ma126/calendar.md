@@ -73,13 +73,17 @@ C## and S## codes refer to the [course standards][standards].
     - **IRQ/TRQ**
     - Covers Sections 4.1-4.4
 - Tue Jun 27
-    - C09: Param. (Section 4.1)
+    - C09: Param.
+    - [Section 4.1](/resources/calculus2/4/1/)
 - Wed Jun 28
-    - S08: ParamAppl. (Section 4.2)
+    - S08: ParamAppl.
+    - [Section 4.2](/resources/calculus2/4/2/)
 - Thu Jun 29
-    - C10: Polar. (Section 4.3)
+    - C10: Polar.
+    - [Section 4.3](/resources/calculus2/4/3/)
 - Fri Jun 30
-    - S09: PolarAppl. (Section 4.4)
+    - S09: PolarAppl.
+    - [Section 4.4](/resources/calculus2/4/4/)
 
 ## Week 6
 
