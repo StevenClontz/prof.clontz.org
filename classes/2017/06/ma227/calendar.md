@@ -115,7 +115,6 @@ quickly material is covered in lecture.
 - Mon Jul 03
     - Quiz on C07
     - [C08: TripleInt.](../standards/c08)
-    - S08: TransVar.
 - Tue Jul 04
     - *Independence Day holiday*
 - Wed Jul 05
