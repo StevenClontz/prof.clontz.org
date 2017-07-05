@@ -119,9 +119,10 @@ quickly material is covered in lecture.
     - *Independence Day holiday*
 - Wed Jul 05
     - Quiz on C07,C08
-    - S08: TransVar.
+    - [S08: TransVar.](../standards/s08)
 - Thu Jul 06
-    - Quiz on C07,C08,S08
+    - Quiz on C07,C08
+    - [S08: TransVar.](../standards/s08)
     - C09: PolCylSph.
 - Fri Jul 07
     - Quiz on C07,C08,S08
