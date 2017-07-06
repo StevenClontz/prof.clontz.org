@@ -92,24 +92,31 @@ C## and S## codes refer to the [course standards][standards].
 - Tue Jul 04
     - *Independence Day holiday*
 - Wed Jul 05
-    - S10: SeqForm. (Section 5.1)
+    - S10: SeqForm.
+    - [Section 5.1](/resources/calculus2/5/1/)
 - Thu Jul 06
-    - C11: SeqLim. (Section 5.2)
+    - C11: SeqLim.
+    - [Section 5.2](/resources/calculus2/5/2/)
 - Fri Jul 07
-    - C12: PartSum. (Section 5.3)
+    - C12: PartSum.
+    - [Section 5.3](/resources/calculus2/5/3/)
 
 ## Week 7
 
 - Mon Jul 10
     - *Review Day*
 - Tue Jul 11
-    - S11: AltSeries.
+    - S11: GeoAlt.
+    - [Section 5.4](/resources/calculus2/5/4/)
 - Wed Jul 12
     - S12: IntTest.
+    - [Section 5.5](/resources/calculus2/5/5/)
 - Thu Jul 13
     - S13: RatioRoot.
+    - [Section 5.6](/resources/calculus2/5/6/)
 - Fri Jul 14
     - S14: CompTests.
+    - [Section 5.7](/resources/calculus2/5/7/)
 
 ## Week 8
 
@@ -117,19 +124,25 @@ C## and S## codes refer to the [course standards][standards].
     - *Review Day*
 - Tue Jul 18
     - C13: SerTech.
+    - [Section 5.8](/resources/calculus2/5/8/)
 - Wed Jul 19
     - C14: PowSer.
+    - [Section 6.1](/resources/calculus2/6/1/)
 - Thu Jul 20
     - C15: TaySer.
+    - [Section 6.2](/resources/calculus2/6/2/)
 - Fri Jul 21
     - S15: PowSerConv.
+    - [Section 6.3](/resources/calculus2/6/3/)
 
 ## Week 9
 
 - Mon Jul 24
     - C16: Approx.
+    - [Section 6.4](/resources/calculus2/6/4/)
 - Tue Jul 25
     - S16: TaySerConv.
+    - [Section 6.4](/resources/calculus2/6/4/)
 
 ## Final Exam
 
