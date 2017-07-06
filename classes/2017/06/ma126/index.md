@@ -158,10 +158,8 @@ of the Core and Supporting Standards.
   do not cost AP.
 * Each day during office hours, students may attempt up to two
   **Office Exercises** based on
-  any Standard covered so far during the course. Each attempt costs 2AP
-  (whether or not it is completed successfully) plus the following:
-    * +2AP on a second daily attempt.
-    * +1AP for each week past the Standard's [deadline][standards].
+  any Standard covered so far during the course (but both attempts cannot
+  be for the same Standard). Each attempt costs 2AP.
 * The **Final Exam** will contain several **Final Exercises**: two for each Core
   Standard, and one for each Supporting Standard.
   Students may submit their attempts for up to 16 different exercises.
