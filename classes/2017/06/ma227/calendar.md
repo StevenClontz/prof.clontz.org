@@ -127,40 +127,54 @@ quickly material is covered in lecture.
 - Fri Jul 07
     - Quiz on C07,C08,S08
     - C09: PolCylSph.
-    - C10: VectField.
 
 ## Week 7
 
 - Mon Jul 10
-    - C11: LineInt.
+    - Quiz on C08,S08,C09
+    - C10: VectField.
 - Tue Jul 11
-    - S09: ParamSurf.
+    - Quiz on S08,C09,C10
+    - C11: LineInt.
 - Wed Jul 12
-    - S10: SurfInt.
+    - Quiz on C09,C10
+    - C11: LineInt.
+    - S09: ParamSurf.
 - Thu Jul 13
+    - Quiz on C09,C10,C11
+    - S09: ParamSurf.
     - S10: SurfInt.
-    - C12: FundThmLine.
 - Fri Jul 14
-    - C12: FundThmLine.
+    - Quiz on C10,C11,S09
+    - S10: SurfInt.
 
 ## Week 8
 
 - Mon Jul 17
-    - S11: GreenStokes.
+    - Quiz on C11,S09,S10
+    - C12: FundThmLine.
 - Tue Jul 18
-    - S12: DivThm.
+    - Quiz on C11,S09,S10
+    - C12: FundThmLine.
+    - S11: GreenStokes.
 - Wed Jul 19
-    - Flex
+    - Quiz on S10,C12
+    - S11: GreenStokes.
+    - S12: DivThm.
 - Thu Jul 20
-    - Flex
+    - Quiz on C12,S11
+    - S12: DivThm.
 - Fri Jul 21
-    - Flex
+    - Quiz on C12,S11,S12
+    - Review
 
 ## Week 9
 
 - Mon Jul 24
-    - Flex
+    - Quiz on C12,S11,S12
+    - Review
 - Tue Jul 25
+    - Quiz on S12
     - Review
 
 ## Final Exam

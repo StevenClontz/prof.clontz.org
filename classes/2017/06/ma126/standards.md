@@ -99,8 +99,9 @@ At the end of the course, each student should be able to...
 - **S10: SeqForm.**
   Define and use explicit and recursive formulas for sequences.
     - [Section 5.1](/resources/calculus2/5/1/)
-- **S11: AltSeries.**
-  Determine if an alternating series is convergent or divergent.
+- **S11: GeoAlt.**
+  Determine if a geometric series or alternating series is convergent or
+  divergent.
     - [Section 5.4](/resources/calculus2/5/4/)
 - **S12: IntTest.**
   Use the integral test to determine series convergence.
