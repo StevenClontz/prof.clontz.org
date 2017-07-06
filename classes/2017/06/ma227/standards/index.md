@@ -54,7 +54,7 @@ At the end of the course, each student should be able to...
 - [**S07: Optimiz.**](s07/)
   Use the first-derivative test and Lagrange multipliers to optimize a
   real-valued multivariable function.
-- **S08: TransVar.**
+- [**S08: TransVar.**](s08/)
   Compute and apply a transformation of variables.
 - **S09: ParamSurf.**
   Parametrize surfaces in three-dimensional Euclidean space.
