@@ -123,10 +123,10 @@ quickly material is covered in lecture.
 - Thu Jul 06
     - Quiz on C07,C08
     - [S08: TransVar.](../standards/s08)
-    - C09: PolCylSph.
+    - [C09: PolCylSph.](../standards/c09)
 - Fri Jul 07
     - Quiz on C07,C08,S08
-    - C09: PolCylSph.
+    - [C09: PolCylSph.](../standards/c09)
 
 ## Week 7
 

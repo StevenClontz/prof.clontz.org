@@ -26,7 +26,7 @@ At the end of the course, each student should be able to...
   Compute and apply double integrals.
 - [**C08: TripleInt.**](c08/)
   Compute and apply triple integrals.
-- **C09: PolCylSph.**
+- [**C09: PolCylSph.**](c09/)
   Apply polar, cylindrical, and spherical transformations of variables.
 - **C10: VectField.**
   Analyze vector fields, including computing curl and divergence.
