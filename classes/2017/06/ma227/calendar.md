@@ -123,27 +123,27 @@ quickly material is covered in lecture.
 - Thu Jul 06
     - Quiz on C07,C08
     - [S08: TransVar.](../standards/s08)
-    - [C09: PolCylSph.](../standards/c09)
 - Fri Jul 07
-    - Quiz on C07,C08,S08
+    - Quiz on C07,C08
+    - [S08: TransVar.](../standards/s08)
     - [C09: PolCylSph.](../standards/c09)
 
 ## Week 7
 
 - Mon Jul 10
     - Quiz on C08,S08,C09
+    - [C09: PolCylSph.](../standards/c09)
     - C10: VectField.
 - Tue Jul 11
     - Quiz on S08,C09,C10
+    - C10: VectField.
     - C11: LineInt.
 - Wed Jul 12
-    - Quiz on C09,C10
+    - Quiz on S08,C09,C10
     - C11: LineInt.
-    - S09: ParamSurf.
 - Thu Jul 13
     - Quiz on C09,C10,C11
     - S09: ParamSurf.
-    - S10: SurfInt.
 - Fri Jul 14
     - Quiz on C10,C11,S09
     - S10: SurfInt.
