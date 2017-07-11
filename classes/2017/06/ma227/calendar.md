@@ -135,43 +135,42 @@ quickly material is covered in lecture.
     - [C09: PolCylSph.](../standards/c09)
     - C10: VectField.
 - Tue Jul 11
-    - Quiz on S08,C09,C10
+    - Quiz on S08
+    - [C09: PolCylSph.](../standards/c09)
+    - C10: VectField.
+- Wed Jul 12
+    - Quiz on S08,C09
     - C10: VectField.
     - C11: LineInt.
-- Wed Jul 12
-    - Quiz on S08,C09,C10
-    - C11: LineInt.
 - Thu Jul 13
-    - Quiz on C09,C10,C11
-    - S09: ParamSurf.
+    - Quiz on C09,C10
+    - C11: LineInt.
 - Fri Jul 14
-    - Quiz on C09,C10,C11,S09
-    - S10: SurfInt.
+    - Quiz on C09,C10,C11
+    - C12: FundThmLine.
 
 ## Week 8
 
 - Mon Jul 17
-    - Quiz on C11,S09,S10
-    - C12: FundThmLine.
+    - Quiz on C11,C12
+    - S09: ParamSurf.
 - Tue Jul 18
-    - Quiz on C11,S09,S10
-    - C12: FundThmLine.
-    - S11: GreenStokes.
+    - Quiz on C11,C12,S09
+    - S10: SurfInt.
 - Wed Jul 19
-    - Quiz on S10,C12
+    - Quiz on C11,C12,S09,S10
     - S11: GreenStokes.
-    - S12: DivThm.
 - Thu Jul 20
-    - Quiz on C12,S11
+    - Quiz on C12,S09,S10,S11
     - S12: DivThm.
 - Fri Jul 21
-    - Quiz on C12,S11,S12
+    - Quiz on S10,S11,S12
     - Review
 
 ## Week 9
 
 - Mon Jul 24
-    - Quiz on C12,S11,S12
+    - Quiz on S11,S12
     - Review
 - Tue Jul 25
     - Quiz on S12
