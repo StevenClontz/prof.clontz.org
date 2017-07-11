@@ -131,7 +131,7 @@ quickly material is covered in lecture.
 ## Week 7
 
 - Mon Jul 10
-    - Quiz on C08,S08,C09
+    - Quiz on C08,S08
     - [C09: PolCylSph.](../standards/c09)
     - C10: VectField.
 - Tue Jul 11
@@ -145,7 +145,7 @@ quickly material is covered in lecture.
     - Quiz on C09,C10,C11
     - S09: ParamSurf.
 - Fri Jul 14
-    - Quiz on C10,C11,S09
+    - Quiz on C09,C10,C11,S09
     - S10: SurfInt.
 
 ## Week 8
