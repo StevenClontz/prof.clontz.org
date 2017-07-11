@@ -133,18 +133,16 @@ quickly material is covered in lecture.
 - Mon Jul 10
     - Quiz on C08,S08
     - [C09: PolCylSph.](../standards/c09)
-    - C10: VectField.
 - Tue Jul 11
     - Quiz on S08
     - [C09: PolCylSph.](../standards/c09)
-    - C10: VectField.
 - Wed Jul 12
     - Quiz on S08,C09
-    - C10: VectField.
-    - C11: LineInt.
+    - [C10: VectField.](../standards/c10)
+    - [C11: LineInt.](../standards/c11)
 - Thu Jul 13
     - Quiz on C09,C10
-    - C11: LineInt.
+    - [C11: LineInt.](../standards/c11)
 - Fri Jul 14
     - Quiz on C09,C10,C11
     - C12: FundThmLine.

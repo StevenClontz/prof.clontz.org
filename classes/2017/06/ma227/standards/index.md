@@ -30,7 +30,7 @@ At the end of the course, each student should be able to...
   Apply polar, cylindrical, and spherical transformations of variables.
 - [**C10: VectField.**](c10/)
   Analyze vector fields, including computing curl and divergence.
-- **C11: LineInt.**
+- [**C11: LineInt.**](c11/)
   Compute and apply line integrals.
 - **C12: FundThmLine.**
   Apply the Fundamental Theorem of Line Integrals.
