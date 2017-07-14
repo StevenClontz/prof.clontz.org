@@ -32,7 +32,7 @@ At the end of the course, each student should be able to...
   Analyze vector fields, including computing curl and divergence.
 - [**C11: LineInt.**](c11/)
   Compute and apply line integrals.
-- **C12: FundThmLine.**
+- [**C12: FundThmLine.**](c12/)
   Apply the Fundamental Theorem of Line Integrals.
 
 ## Supporting Standards
@@ -56,11 +56,11 @@ At the end of the course, each student should be able to...
   real-valued multivariable function.
 - [**S08: TransVar.**](s08/)
   Compute and apply a transformation of variables.
-- **S09: ParamSurf.**
+- [**S09: ParamSurf.**](s09/)
   Parametrize surfaces in three-dimensional Euclidean space.
-- **S10: SurfInt.**
+- [**S10: SurfInt.**](s10/)
   Compute and apply surface integrals.
-- **S11: GreenStokes.**
+- [**S11: GreenStokes.**](s11/)
   Apply Green's Theorem and Stokes's Theorem.
-- **S12: DivThm.**
+- [**S12: DivThm.**](s12/)
   Apply the Divergence Theorem.
