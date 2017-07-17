@@ -146,35 +146,34 @@ quickly material is covered in lecture.
 - Fri Jul 14
     - Quiz on C09,C10
     - [C11: LineInt.](../standards/c11)
-    - [C12: FundThmLine.](../standards/c12)
 
 ## Week 8
 
 - Mon Jul 17
-    - Quiz on C09,C10,C11
+    - Quiz on C09,C10
+    - [C11: LineInt.](../standards/c11)
     - [C12: FundThmLine.](../standards/c12)
-    - [S09: ParamSurf.](../standards/s09)
 - Tue Jul 18
     - Quiz on C10,C11,C12
     - [S09: ParamSurf.](../standards/s09)
-    - [S10: SurfInt.](../standards/s10)
 - Wed Jul 19
-    - Quiz on C10,C11,C12,S09
+    - Quiz on C10,C11,C12
+    - [S09: ParamSurf.](../standards/s09)
+    - [S10: SurfInt.](../standards/s10)
+- Thu Jul 20
+    - Quiz on C11,C12,S09
     - [S10: SurfInt.](../standards/s10)
     - [S11: GreenStokes.](../standards/s11)
-- Thu Jul 20
+- Fri Jul 21
     - Quiz on C11,C12,S09,S10
     - [S11: GreenStokes.](../standards/s11)
-    - [S12: DivThm.](../standards/s12)
-- Fri Jul 21
-    - Quiz on C12,S09,S10,S11
     - [S12: DivThm.](../standards/s12)
 
 ## Week 9
 
 - Mon Jul 24
-    - Quiz on S10,S11,S12
-    - Review
+    - Quiz on S09,S10,S11
+    - [S12: DivThm.](../standards/s12)
 - Tue Jul 25
     - Quiz on S11,S12
     - Review
