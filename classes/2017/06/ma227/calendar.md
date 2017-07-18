@@ -154,7 +154,8 @@ quickly material is covered in lecture.
     - [C11: LineInt.](../standards/c11)
     - [C12: FundThmLine.](../standards/c12)
 - Tue Jul 18
-    - Quiz on C10,C11,C12
+    - Quiz on C10,C11
+    - [C12: FundThmLine.](../standards/c12)
     - [S09: ParamSurf.](../standards/s09)
 - Wed Jul 19
     - Quiz on C10,C11,C12
@@ -172,7 +173,7 @@ quickly material is covered in lecture.
 ## Week 9
 
 - Mon Jul 24
-    - Quiz on S09,S10,S11
+    - Quiz on C12,S09,S10,S11
     - [S12: DivThm.](../standards/s12)
 - Tue Jul 25
     - Quiz on S11,S12
