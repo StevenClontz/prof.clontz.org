@@ -174,7 +174,7 @@ quickly material is covered in lecture.
     - Quiz on C12,S09,S10,S11
     - [S12: DivThm.](../standards/s12)
 - Tue Jul 25
-    - Quiz on S11,S12
+    - Quiz on C07,C09,C11,S10,S11,S12
     - Review
 
 ## Final Exam
