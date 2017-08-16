@@ -4,6 +4,10 @@ title: "Classes"
 description: "Information on my courses"
 ---
 
+## 2017 Fall
+
+- [MA 237 - Linear Algebra (USAOnline)](https://southalabama.edu/ecampus)
+
 ## 2017 Summer
 
 - [MA 126 - Calculus II](/classes/2017/06/ma126/)
