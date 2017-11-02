@@ -6,7 +6,6 @@ description: "Linear Algebra - 2018 Spring"
 
 #### Quick Links
 
-- [Lectures and Notes][text]
 - [Standards][standards]
 - [Calendar][calendar]
 
@@ -31,26 +30,23 @@ description: "Linear Algebra - 2018 Spring"
     * Mon/Wed 12:20pm-2:20pm
 
 
-## Course Description
-
-TODO
-
-
 
 ## Grading
 
 Grades in this course are determined based upon your mastery of
-twenty-three **Course Standards**. Each time you successfully demonstrate
+twenty-four **Course Standards**. Each time you successfully demonstrate
 mastery of a Standard by correctly solving a relevant problem, you will
 earn a **✓**. Up to two **✓** per Standard will be awarded, for a maximum
-of **46✓**.
+of **48✓**. An additional **3✓** may be earned by solving
+**Theory/Application Exercises**.
 
-Letter grades are assigned based on how many **✓** you earn.
+Letter grades are assigned based on how many **✓** are earned by a student.
 
-* **A**: **45✓** out of 46.
-* **B**: **40✓** out of 46.
-* **C**: **35✓** out of 46.
-* **D**: **25✓** out of 46.
+* **A**: **48✓**,
+  including three **✓** from Theory/Application Exercises.
+* **B**: **42✓**.
+* **C**: **36✓**.
+* **D**: **30✓**.
 
 
 ## Textbook and Resources
@@ -59,167 +55,178 @@ Much of the material for this course will be provided on this website.
 Homework will be assigned from *Linear Algebra with Applications (2nd ed)*
 by Jeffrey Holt, but students may choose to complete homework from
 other sources instead (the first edition, another textbook, the internet,
-etc.).
+old quizzes, etc.).
 
-## TODO
+All students are highly encouraged to acquire a calculator that supports
+matrix manipulations (row reduction, multiplication, etc.). There are
+several cheap/free smart device apps that can provide this functionality
+while studying, but unfortunately only a dedicated calculator that cannot
+message or connect to the internet may be used during assessments.
 
+## Teams
 
-<!-- ## Team Formation
+Teams will be organized randomly at the beginning of the semester. Most
+class activities will be done within teams, allowing students to master the
+course standards in an environment where they may discuss topics and ask
+questions freely with their peers and the instructor. These teams will not
+be adjusted during the semester except to accommodate for adds/drops.
 
-Teams of 5-6 students will be formed using based upon an online survey.
-These Teams will collaborate throughout the semester, working together to
-master the course material. Failure by a student
-to complete this survey will result
-in a deduction in that student's Participation Grade.
+## Course Modules and Standards
 
+The course is split into six **Modules**, each of which is split into
+several **Standards** of learning. These are listed on the course
+[Standards][standards] webpage.
 
-## Participation
+## Class Activities
 
-The [class calendar][calendar] outlines the
-sections of [online lectures][text] that students will be responsible for
-viewing in preparation for class. Participation in this preparation and
-in class will be assessed through three mechanisms.
+On a typical day of class,
+each team will be seated at a table with a computer station and whiteboard.
+The instructor will provide slides that may be viewed at each station.
+Students will work through the material covered on these slides within their
+teams, with the support of the instructor as needed.
 
-Students will be given an **Individual Readiness Quiz** of multiple-choice
-questions to check their understanding
-of the online lectures. Responses to these IRQs are accumulated at the end of
-the semester, with correct responses worth 4 points, and all other responses
-worth 2 points.
+Slides describing **Activities** should be completed by each team on the
+provided whiteboard. All details must be shown on the whiteboard (not on
+personal notes or scratch paper), and the Activity's number should also
+be marked. Each completed activity will be photographed and uploaded to a
+Google Drive folder provided by the instructor, to serve as notes for that
+team (including students that were absent that day).
 
-Immediately following the IRQ (before solutions are revealed),
-each Team will come together to take an
-identical **Team Readiness Quiz**, discussing each member's choices and
-agreeing on a solution. These responses are immediately revealed as correct
-or incorrect, and the Team will keep guessing until the correct answer is
-found. Responses to these TRQs are accumulated at the end of the semester,
-scoring 4 points for each correct first guess, 2 points for each correct
-second guess, and 1 point for each correct third guess. All Team members
-will share the same TRQ grade.
+## Readiness Assurance
 
-Following the TRQ, Teams will collaborate on review exercises for
-additional practice. The instructor will be available to answer questions
-and provide guidance during this time.
+Before each module of the course, students are given a list of materials
+for review. Readiness for that module will be assessed on a Readiness
+Assurance Test, first individually (iRAT), and then as a team (tRAT).
+High scores reflect sufficient preparedness for the module, while low
+scores demonstrate a need for further review. These tests will be
+done in place of the usual class activities for that day.
 
-Occasionally during the semester, students will be asked to complete a
-**Peer Evaulation Survey** to assess the participation of their Teammates.
-The results of the final PES (given during the last two weeks of class)
-will be used by the instructor to assign a grade
-between 50% and 100%, where 50% represents consistently poor peer reviews,
-85% represents average peer reviews, and 100% represents consistently excellent
-peer reviews. Failure by a student
-to complete a PES will result in a deduction in that
-student's Participation Grade.
+## Mastery Quizzes
 
-Each student's **Participation Grade** is the average of their percentage of IRQ
-points earned, their Team's percentage of TRQ points earned, and their grade
-earned from the PES.
+Beginning with the third Friday of classes, each Friday is set aside
+for a weekly **Mastery Quiz**. Every student will receive a personalized
+quiz generated based on their most recent progress report. This generated
+quiz will include one exercise for every course Standard covered in class
+for which the student can earn a **✓** by demonstrating mastery.
+Each student may submit solutions for up to 10 of these exercises each week.
+All submissions are due by the end of the class period (50 minutes).
 
+### Marking Quizzes
 
-## Standards
+Each submitted solution will be marked as follows:
 
-The main goal of this course is for students to master the
-**Core Standards** for this course.
-Students should also attempt to master as many of the
-**Supplemental Standards** for this course as possible. A list of
-these standards is available on the
-[Standards page][standards].
+* **✓** ("checkmark" or "mastery" mark):
+  The solution demonstrates complete mastery of the given standard.
+* **✱** ("star" or "revision" mark):
+  The solution might demonstrate complete mastery of the given standard,
+  but needs to be revised for clarity/accuracy.
+* **⚠** ("caution" or "issues" mark):
+  The solution demonstrates partial understanding of the given standard,
+  but has one or more issues that suggest that further study is required to
+  develop complete mastery.
+* **✘**:
+  The solution demonstrates negligible understanding of the given
+  standard.
 
-A student may demonstrate **mastery** of a Core or Supplemental Standard
-either during a **Standard Assessment** or in office hours.
+Only **✓** contribute to improving students' letter grades.
 
-* Standard Assessments will be given to students throughout the semester,
-  as scheduled on the course [calendar][calendar]. Students will complete
-  these assessments individually.
-  Each question is based on Core or Supplemental Standard. Each response
-  will be assigned one of the following marks:
-    * **✓**: The response is demonstrates complete understanding of the Standard.
-    * **★**: The response may indicate full understanding of the Standard,
-      but clarification or minor corrections are required.
-    * **×**: The response does not demonstrate complete understanding of the
-      Standard.
-    * **?**: The student was absent.
-* Students may replace a **★** mark with a **✓** mark by making the appropriate
-  clarifications or corrections and showing the revised problem to the
-  instructor during office hours. This must be done within one week
-  of the return of the marked Assessment.
-* Students may attempt to replace a **★** or **×** mark with a
-  **✓** mark by working a similar problem chosen by the instructor during office
-  hours on a whiteboard. This must be done within four weeks of the return of
-  the marked Assessment. Students are limited to a total of three such attempts
-  per week (for all Standards, not each). The instructor may require
-  appointments for such attempts to be made in advance or may require an
-  attempt be rescheduled.
-* Students may attempt to replace a **?** mark with a **✓** mark as described
-  above for a **×** mark, but only if
-  the instructor is provided acceptable documentation excusing the absence.
+### Revising Solutions
 
-A Core Standard is considered **Partially Mastered** by a student who has
-received **one ✓** mark, and **Mastered** by a student who has received
-**two ✓** marks.
-Each Core Standard will appear three times on the written
-Standard Assessments.
+A student may improve a solution marked as **✱** to **✓** by completing a
+[Revision Form][revision-form] outside of class and submitting it as one of
+their ten Mastery Quiz submissions. This submission will be marked
+as usual, but the student may not also attempt the exercise for the matching
+standard on the Mastery Quiz.
 
-A Supplemental Standard is considered **Mastered** by a
-student who has received **one ✓** mark.
-Each Supplemental Standard will appear two times on the written Standard
-Assessments.
+### Appealing Marks
 
-Students who have Mastered 12/16 of the Core Standards and 13/16 Supplemental
-Standards after Standard Assessment 7
-will be given the opportunity to demonstrate mastery of the remaining three
-Core Standards in office hours, including those standards that haven't appeared
-yet on a Standard Assessment.
+A student who believes their solution was erroneously marked as **⚠**
+or **✘** rather than **✱**
+may complete an [Appeal Form][appeal-form] outside of class and
+submitting it as one of their ten Mastery Quiz submissions.
+If the reason for the appeal is accepted, this submission will be marked
+as usual; otherwise the submission will not be marked.
+The student may not also attempt the exercise for the matching
+standard on the Mastery Quiz.
 
-All marks are considered final as of the last scheduled day of classes for
-the semester, with one exception. A **Final Standard Assessment** will be given
-during the university's scheduled Final Exam period for the course.
-Standards that have not yet been assessed will be on this exam, and each
-student will be given the opportunity to choose
-the other Standards that will appear (up to a maximum of 15 exercises).
-Since there's no opportunity for revisions after the final exam,
-three **★** marks will be automatically converted to **✓** marks.
+In the extremely rare case of a solution erroneously marked as **⚠**
+or **✘** rather than **✓**, show the solution to the instructor; if no
+mistakes can be found in the original submission, the **✓** will be
+awarded automatically.
 
+### Office Reassessments
 
+During Wednesday office hours, each student may submit up to
+two [Office Reassessment Forms][office-form]. Students that satisfactorily
+meet the requirements given on this form will be given the opportunity
+to solve an exercise in front of the instructor that will be marked as
+usual. Each submitted form counts as one of the students' ten Mastery
+Quiz submissions for that week. A student receiving a **✓** in this way may
+not also attempt the same standard on that week's Mastery Quiz.
 
+This privilege is not offered on any other day, but students are encouraged
+to meet with the instructor during Monday office hours to discuss
+course content.
 
+### Theory/Application Questions
 
-## Student Data
+During each Mastery Quiz, each student will have the opportunity to solve a
+**Theory/Application Exercise** to demonstrate how to apply the course material
+to solve new problems, and is marked similarly to other exercises:
 
-Student data will be stored on the instructor's Google Drive provided by
-the University. Students who want electronic access to their personal data
-for this course must sign a [Memorandum of Understanding][memo] agreeing
-that progress reports containing their personal data
-may be shared to their Google Drive provided by the University, and that
-student data may also be communicated via JagMail. Students who do not sign
-this agreement may only access their data by visiting the instructor during
-office hours.
+* **✓**:
+  The solution demonstrates complete mastery of how to apply course
+  concepts to the given exercise.
+* **✱**:
+  The solution demonstrates partial understanding of how to apply course
+  concepts to the given exercise, but needs to be revised to demonstrate
+  mastery.
+* **⚠**:
+  The solution references a few relevant concepts covered in class, but
+  does not demonstrate satisfactory understanding of how to apply them
+  to solve the given exercise.
+* **✘**:
+  The solution demonstrates negligible understanding of the
+  relevant concepts covered in class.
 
+These may be similarly revised and appealed as other solutions, but
+cannot be attempted in office hours.
 
-## Academic Honesty
+## Final Exam
 
-Any violations of academic honesty will be reported to the University
-and will result in **automatic and immediate failure of the course**. Refer to
-South's [Additional Academic Course Policies][usacoursepolicies] for
-more information.
+The **Final Exam** has the exact same structure as the Mastery Quizzes, with
+the following exceptions:
 
+* Students have 120 minutes to submit up to twenty solutions.
+* Two Theory/Application Exercises are available. Students may submit
+  solutions for both.
+* Solutions from the last Mastery Quiz marked as **✱** are returned for
+  revision during the exam; they must be revised during the exam period.
+  Other solutions from the last Mastery Quiz may not be appealed.
 
-## Syllabus
+## Data Collection
 
-The official syllabus for this course is hosted on [USAOnline][usaonline].
-South's
-[Additional Academic Course Policies][usacoursepolicies] also apply to this
-course. Students are asked to sign a [Memorandum of Understanding][memo]
-acknowledging that they have read and understood these policies. -->
+The instructor will collect the following data to evaluate student
+participation and the effectiveness of the course.
+
+- Attendance
+- iRAT/tRAT results
+- Quality of team responses to class activities uploaded to Google Drive
+- Peer evaluation feedback
+- Variance of student performance within each team
+
+This data will not be directly used in assigning letter grades for the
+course, but students who have good attendance, score well on readiness
+tests, get long with their peers, and so on tend to do well in the course
+anyway.
+However, purposeful negligence with regards to the above (except attendance)
+will be treated as disruptive academic behavior and will be addressed as such.
 
 
 [usaonline]: https://ecampus.southalabama.edu/portal/site/4eed09d5-644d-44ed-985f-de0673e68b1a
 
 [usacoursepolicies]: https://www.southalabama.edu/departments/academicaffairs/resources/policies/additionalacademiccoursepolicies.pdf
 
-[text]: /resources/calculus2/
+[calendar]: calendar/
 
-[calendar]: /classes/2017/01/ma126/calendar/
-
-[standards]: /classes/2017/01/ma126/standards/
-
-[memo]: https://goo.gl/forms/eTJAPzwyLhVRsBcF3
+[standards]: standards/
