@@ -43,7 +43,7 @@ of **48✓**. An additional **3✓** may be earned by solving
 Letter grades are assigned based on how many **✓** are earned by a student.
 
 * **A**: **48✓**,
-  including three **✓** from Theory/Application Exercises.
+  including **3✓** from Theory/Application Exercises.
 * **B**: **42✓**.
 * **C**: **36✓**.
 * **D**: **30✓**.
@@ -60,8 +60,9 @@ old quizzes, etc.).
 All students are highly encouraged to acquire a calculator that supports
 matrix manipulations (row reduction, multiplication, etc.). There are
 several cheap/free smart device apps that can provide this functionality
-while studying, but unfortunately only a dedicated calculator that cannot
-message or connect to the internet may be used during assessments.
+while studying, but unfortunately only a dedicated calculator without
+communication functionality and without internet connectivity may be
+used during assessments.
 
 ## Teams
 
@@ -128,7 +129,9 @@ Each submitted solution will be marked as follows:
   The solution demonstrates negligible understanding of the given
   standard.
 
-Only **✓** contribute to improving students' letter grades.
+Only **✓** contribute to improving a student's letter grade for the course,
+but accumulating other marks does not negatively affect a student's letter
+grade.
 
 ### Revising Solutions
 
@@ -140,8 +143,8 @@ standard on the Mastery Quiz.
 
 ### Appealing Marks
 
-A student who believes their solution was erroneously marked as **⚠**
-or **✘** rather than **✱**
+In the rare case of a solution erroneously marked as **⚠**
+or **✘** rather than **✱**, the affected student
 may complete an [Appeal Form][appeal-form] outside of class and
 submitting it as one of their ten Mastery Quiz submissions.
 If the reason for the appeal is accepted, this submission will be marked
@@ -149,8 +152,9 @@ as usual; otherwise the submission will not be marked.
 The student may not also attempt the exercise for the matching
 standard on the Mastery Quiz.
 
-In the extremely rare case of a solution erroneously marked as **⚠**
-or **✘** rather than **✓**, show the solution to the instructor; if no
+In the extremely rare case of a solution erroneously marked as **✱/⚠/✘**
+rather than **✓**, the student may simply
+show the solution to the instructor; if no
 mistakes can be found in the original submission, the **✓** will be
 awarded automatically.
 
@@ -203,6 +207,9 @@ the following exceptions:
 * Solutions from the last Mastery Quiz marked as **✱** are returned for
   revision during the exam; they must be revised during the exam period.
   Other solutions from the last Mastery Quiz may not be appealed.
+* Up to five **✱** (including at most one Theory/Application **✱**)
+  will be automatically improved to **✓**. Further **✱** marks cannot
+  be improved.
 
 ## Data Collection
 
@@ -214,6 +221,7 @@ participation and the effectiveness of the course.
 - Quality of team responses to class activities uploaded to Google Drive
 - Peer evaluation feedback
 - Variance of student performance within each team
+- Collegiality of student interactions during class
 
 This data will not be directly used in assigning letter grades for the
 course, but students who have good attendance, score well on readiness
@@ -221,11 +229,20 @@ tests, get long with their peers, and so on tend to do well in the course
 anyway.
 However, purposeful negligence with regards to the above (except attendance)
 will be treated as disruptive academic behavior and will be addressed as such.
+(Refer to [USA's Course Policies][usa-course-policies] for more details.)
+
+## USAOnline and USA Course Policies
+
+The official syllabus for this course is available on
+[USAOnline][usaonline]. Grade data will be provided to students via weekly
+printed progress reports.
+
+[USA's Course Policies][usa-course-policies] apply to this course.
 
 
 [usaonline]: https://ecampus.southalabama.edu/portal/site/4eed09d5-644d-44ed-985f-de0673e68b1a
 
-[usacoursepolicies]: https://www.southalabama.edu/departments/academicaffairs/resources/policies/additionalacademiccoursepolicies.pdf
+[usa-course-policies]: https://www.southalabama.edu/departments/academicaffairs/resources/policies/additionalacademiccoursepolicies.pdf
 
 [calendar]: calendar/
 
