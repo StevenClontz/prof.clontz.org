@@ -23,6 +23,10 @@ and the event will conclude with a metapuzzle requiring teams
 to combine all the solutions they've uncovered throughout the game
 to solve a final enigma.
 
+Here's a rough approximation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LTTlczKbTYA" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
 ## Oh man, do I need to be a math major to solve these puzzles?
 
 NO! These puzzles are designed to be enjoyed by a general
