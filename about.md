@@ -18,10 +18,12 @@ My students are encouraged
 to use my South email address <sclontz@southalabama.edu>
 for class-related communications. You can also mail or visit
 my office at the following address.
+(Note that the Instructional Laboratory Building [ILB] has been
+renamed to the Mathematical Sciences and Physics Building [MSPB].)
 
 Department of Mathematics and Statistics  
 University of South Alabama  
-411 University Boulevard North, ILB #314  
+411 University Boulevard North, MSPB #314  
 Mobile, AL 36688-0002
 
 If you're coming by, your best bet is to take advantage of

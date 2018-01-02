@@ -34,10 +34,11 @@ description: "Linear Algebra - 2018 Spring"
 ## Grading
 
 Grades in this course are determined based upon your mastery of
-twenty-four **Course Standards**. Each time you successfully demonstrate
-mastery of a Standard by correctly solving a relevant problem, you will
+twenty-five **[Course Standards][standards]**.
+Each time you successfully demonstrate
+mastery of a Standard by correctly solving a relevant exercise, you will
 earn a **✓**. Up to two **✓** per Standard will be awarded, for a maximum
-of **48✓**. An additional **3✓** may be earned by solving
+of **50✓**. An additional **3✓** may be earned by solving
 **Theory/Application Exercises**.
 
 Letter grades are assigned based on how many **✓** are earned by a student.
@@ -48,11 +49,16 @@ Letter grades are assigned based on how many **✓** are earned by a student.
 * **C**: **36✓**.
 * **D**: **30✓**.
 
+An unofficial grade of **A+** will be awarded to students who earn **53✓**.
+The university does not maintain records of grades higher than **A**, but
+the instructor will use this data if asked (e.g.) for a written
+recommendation.
+
 
 ## Textbook and Resources
 
 Much of the material for this course will be provided on this website.
-Homework will be assigned from *Linear Algebra with Applications (2nd ed)*
+Homework will be recommended from *Linear Algebra with Applications (2nd ed)*
 by Jeffrey Holt, but students may choose to complete homework from
 other sources instead (the first edition, another textbook, the internet,
 old quizzes, etc.).
@@ -69,8 +75,7 @@ used during assessments.
 Teams will be organized randomly at the beginning of the semester. Most
 class activities will be done within teams, allowing students to master the
 course standards in an environment where they may discuss topics and ask
-questions freely with their peers and the instructor. These teams will not
-be adjusted during the semester except to accommodate for adds/drops.
+questions freely with their peers and the instructor.
 
 ## Course Modules and Standards
 
@@ -99,18 +104,21 @@ Before each module of the course, students are given a list of materials
 for review. Readiness for that module will be assessed on a Readiness
 Assurance Test, first individually (iRAT), and then as a team (tRAT).
 High scores reflect sufficient preparedness for the module, while low
-scores demonstrate a need for further review. These tests will be
-done in place of the usual class activities for that day.
+scores demonstrate a need for further review.
 
 ## Mastery Quizzes
 
-Beginning with the third Friday of classes, each Friday is set aside
+Beginning with the second Friday of classes, each Friday is set aside
 for a weekly **Mastery Quiz**. Every student will receive a personalized
 quiz generated based on their most recent progress report. This generated
 quiz will include one exercise for every course Standard covered in class
 for which the student can earn a **✓** by demonstrating mastery.
 Each student may submit solutions for up to 10 of these exercises each week.
-All submissions are due by the end of the class period (50 minutes).
+All submissions are due by the end of the class period.
+
+When possible, the full class period will be set aside for these quizzes.
+However, up to 25 minutes of Friday classes may be used to wrap up coverage
+of material, leaving at least 25 minutes for the Mastery Quiz.
 
 ### Marking Quizzes
 
@@ -129,9 +137,8 @@ Each submitted solution will be marked as follows:
   The solution demonstrates negligible understanding of the given
   standard.
 
-Only **✓** contribute to improving a student's letter grade for the course,
-but accumulating other marks does not negatively affect a student's letter
-grade.
+Only **✓** contribute to improving a student's letter grade for the course;
+all other accumulated marks will be ignored at the end of the semester.
 
 ### Revising Solutions
 
@@ -163,12 +170,13 @@ awarded automatically.
 During Wednesday office hours, each student may submit up to
 two [Office Reassessment Forms][office-form]. Students that satisfactorily
 meet the requirements given on this form will be given the opportunity
-to solve an exercise in front of the instructor that will be marked as
+to solve a new exercise that will be immediately marked as
 usual. Each submitted form counts as one of the students' ten Mastery
 Quiz submissions for that week. A student receiving a **✓** in this way may
 not also attempt the same standard on that week's Mastery Quiz.
 
-This privilege is not offered on any other day, but students are encouraged
+Unless an exception is granted by the instructor,
+this privilege is not offered on any other day, but students are encouraged
 to meet with the instructor during Monday office hours to discuss
 course content.
 
@@ -186,12 +194,13 @@ to solve new problems, and is marked similarly to other exercises:
   concepts to the given exercise, but needs to be revised to demonstrate
   mastery.
 * **⚠**:
-  The solution references a few relevant concepts covered in class, but
+  The solution references some of the relevant concepts covered in class, but
   does not demonstrate satisfactory understanding of how to apply them
   to solve the given exercise.
 * **✘**:
   The solution demonstrates negligible understanding of the
-  relevant concepts covered in class.
+  relevant concepts covered in class or how to apply them to
+  the given exercise.
 
 These may be similarly revised and appealed as other solutions, but
 cannot be attempted in office hours.
@@ -211,24 +220,37 @@ the following exceptions:
   will be automatically improved to **✓**. Further **✱** marks cannot
   be improved.
 
+## Makeup Policy
+
+Since any missed exercises may be completely made up on future assessments,
+make-up Mastery Quizzes are not available. However, a student may request for
+additional time and responses on the Final Exam if they can
+demonstrate that their progress has been limited by multiple excusable
+absences throughout the semester. Documentation from a medical
+professional or university official asking the instructor to excuse an
+absence is usually required for this purpose.
+
 ## Data Collection
 
-The instructor will collect the following data to evaluate student
+The instructor may also collect the following data to evaluate student
 participation and the effectiveness of the course.
 
 - Attendance
 - iRAT/tRAT results
 - Quality of team responses to class activities uploaded to Google Drive
-- Peer evaluation feedback
+- Peer evaluation survey feedback
 - Variance of student performance within each team
 - Collegiality of student interactions during class
 
 This data will not be directly used in assigning letter grades for the
 course, but students who have good attendance, score well on readiness
 tests, get long with their peers, and so on tend to do well in the course
-anyway.
-However, purposeful negligence with regards to the above (except attendance)
-will be treated as disruptive academic behavior and will be addressed as such.
+anyway. This data will also be used by the instructor if (e.g.)
+a written recommendation is requested by a student.
+
+Note also that purposeful negligence with regards to the above
+(except attendance) will be treated as disruptive academic behavior
+and will be addressed as such.
 (Refer to [USA's Course Policies][usa-course-policies] for more details.)
 
 ## USAOnline and USA Course Policies
