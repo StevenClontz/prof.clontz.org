@@ -4,15 +4,23 @@ title: "MA 237 Standards"
 description: "Linear Algebra - 2018 Spring"
 ---
 
+Suggested homework exercises for each standard are taken from
+*Linear Algebra with Applications (2nd ed)* by Jeffrey Holt.
+The **closest examples** to exercises asked on assessments are given in
+**bold**.
+
 At the end of the course, each student should be able to...
 
 - **E1 [SysMat]:**
   translate back and forth between a system of linear equations
   and the corresponding augmented matrix.
+    - §1.2 – **1-4**, 11-18, **19-32**
 - **E2 [Rref]:**
   put a matrix in reduced row echelon form.
+    - §1.2 – **1-4**, 11-18, **19-32**
 - **E3 [SlvSys]:**
   compute the solution set for a system of linear equations.
+    - §1.2 – **1-4**, 11-18, **19-32**
 - **V1 [VecPrp]:**
   show why an example satisfies a given vector space property, but does not satisfy another given property.
 - **V2 [VecId]:**
