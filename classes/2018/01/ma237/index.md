@@ -54,6 +54,11 @@ The university does not maintain records of grades higher than **A**, but
 the instructor will use this data if asked (e.g.) for a written
 recommendation.
 
+## Course Modules and Standards
+
+The course is split into six **Modules**, each of which is split into
+several **Standards** of learning. These are listed on the course
+[Standards][standards] webpage.
 
 ## Textbook and Resources
 
@@ -72,16 +77,10 @@ used during assessments.
 
 ## Teams
 
-Teams will be organized randomly at the beginning of the semester. Most
+Teams will be organized near the beginning of the semester. Most
 class activities will be done within teams, allowing students to master the
 course standards in an environment where they may discuss topics and ask
 questions freely with their peers and the instructor.
-
-## Course Modules and Standards
-
-The course is split into six **Modules**, each of which is split into
-several **Standards** of learning. These are listed on the course
-[Standards][standards] webpage.
 
 ## Class Activities
 
@@ -143,7 +142,8 @@ all other accumulated marks will be ignored at the end of the semester.
 ### Revising Solutions
 
 A student may improve a solution marked as **✱** to **✓** by completing a
-[Revision Form][revision-form] outside of class and submitting it as one of
+[Revision Form][revision-form] outside of class and submitting it on
+the upcoming Friday as one of
 their ten Mastery Quiz submissions. This submission will be marked
 as usual, but the student may not also attempt the exercise for the matching
 standard on the Mastery Quiz.
@@ -153,7 +153,8 @@ standard on the Mastery Quiz.
 In the rare case of a solution erroneously marked as **⚠**
 or **✘** rather than **✱**, the affected student
 may complete an [Appeal Form][appeal-form] outside of class and
-submitting it as one of their ten Mastery Quiz submissions.
+submitting it on the upcoming Friday as one of their ten Mastery Quiz
+submissions.
 If the reason for the appeal is accepted, this submission will be marked
 as usual; otherwise the submission will not be marked.
 The student may not also attempt the exercise for the matching
