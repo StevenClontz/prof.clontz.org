@@ -9,6 +9,11 @@ Suggested homework exercises for each standard are taken from
 The **closest examples** to exercises asked on assessments are given in
 **bold**.
 
+An overview of course modules is available on
+[this introductory handout](../pdf/handout-I.pdf).
+
+---
+
 At the end of the course, each student should be able to...
 
 - **E1 [SysMat]:**
