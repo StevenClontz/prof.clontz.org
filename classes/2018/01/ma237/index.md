@@ -31,10 +31,16 @@ description: "Linear Algebra - 2018 Spring"
 
 
 
+## Course Content
+
+The course is split into six **Modules**, each of which is split into
+several **Standards** of learning. These are listed on the course
+[Standards][standards] page.
+
 ## Grading
 
-Grades in this course are determined based upon your mastery of
-twenty-five **[Course Standards][standards]**.
+Grades in this course are determined based upon your mastery of the
+twenty-five Course Standards.
 Each time you successfully demonstrate
 mastery of a Standard by correctly solving a relevant exercise, you will
 earn a **✓**. Up to two **✓** per Standard will be awarded, for a maximum
@@ -53,12 +59,6 @@ An unofficial grade of **A+** will be awarded to students who earn **53✓**.
 The university does not maintain records of grades higher than **A**, but
 the instructor will use this data if asked (e.g.) for a written
 recommendation.
-
-## Course Modules and Standards
-
-The course is split into six **Modules**, each of which is split into
-several **Standards** of learning. These are listed on the course
-[Standards][standards] webpage.
 
 ## Textbook and Resources
 
