@@ -10,8 +10,10 @@ description: "Linear Algebra - 2018 Spring"
     - *First day of classes*
     - Orientation
 - **Wed, Jan 10**
-    - Module E iRAT/tRAT [[Prerequisites][module-E-prereqs]]
-    - [Section E.0][module-E-0]
+    - Module E
+      [[Prerequisites][module-E-readiness]]
+      [[iRAT/tRAT][module-E-rat]]
+    - Section E.0 [[notes][module-E-0]]
 - **Fri, Jan 12**
     - Section E.1
 
@@ -45,4 +47,5 @@ description: "Linear Algebra - 2018 Spring"
 
 
 [module-E-readiness]: ../pdf/handout-E-readiness.pdf
+[module-E-rat]: ../pdfrat-1-E.pdf
 [module-E-0]: ../pdf/handout-E-0.pdf
