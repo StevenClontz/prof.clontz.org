@@ -47,5 +47,5 @@ description: "Linear Algebra - 2018 Spring"
 
 
 [module-E-readiness]: ../pdf/handout-E-readiness.pdf
-[module-E-rat]: ../rat-1-E.pdf
+[module-E-rat]: ../pdf/rat-1-E.pdf
 [module-E-0]: ../pdf/handout-E-0.pdf
