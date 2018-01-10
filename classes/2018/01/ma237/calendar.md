@@ -11,7 +11,7 @@ description: "Linear Algebra - 2018 Spring"
     - Orientation
 - **Wed, Jan 10**
     - Module E iRAT/tRAT [[Prerequisites][module-E-prereqs]]
-    - Section E.0
+    - [Section E.0][module-E-0]
 - **Fri, Jan 12**
     - Section E.1
 
@@ -44,4 +44,5 @@ description: "Linear Algebra - 2018 Spring"
     - Mastery Quiz
 
 
-[module-E-prereqs]: ../pdf/handout-E-readiness.pdf
+[module-E-readiness]: ../pdf/handout-E-readiness.pdf
+[module-E-0]: ../pdf/handout-E-0.pdf
