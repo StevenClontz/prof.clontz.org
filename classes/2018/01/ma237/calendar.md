@@ -15,7 +15,7 @@ description: "Linear Algebra - 2018 Spring"
       [[iRAT/tRAT][module-E-rat]]
     - Section E.0 [[notes][module-E-0]]
 - **Fri, Jan 12**
-    - Section E.1
+    - Section E.1 [[notes][module-E-1]
 
 ### Week 2
 
@@ -49,3 +49,4 @@ description: "Linear Algebra - 2018 Spring"
 [module-E-readiness]: ../pdf/handout-E-readiness.pdf
 [module-E-rat]: ../pdf/rat-1-E.pdf
 [module-E-0]: ../pdf/handout-E-0.pdf
+[module-E-1]: ../pdf/handout-E-1.pdf
