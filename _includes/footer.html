@@ -5,7 +5,7 @@
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 <ul class="list-inline text-center">
                     <li>
-                        <a href="{{ "/feed.xml" | prepend: site.baseurl }}">
+                        <a href="{{ "/feed.xml" }}">
                             <span class="fa-stack fa-lg">
                                 <i class="fa fa-circle fa-stack-2x"></i>
                                 <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
@@ -71,16 +71,16 @@
 </footer>
 
 <!-- jQuery -->
-<script src="{{ "/assets/js/jquery.min.js " | prepend: site.baseurl }}"></script>
+<script src="{{ "/assets/js/jquery.min.js " }}"></script>
 
 <!-- Bootstrap Core JavaScript -->
-<script src="{{ "/assets/js/bootstrap.min.js " | prepend: site.baseurl }}"></script>
+<script src="{{ "/assets/js/bootstrap.min.js " }}"></script>
 
 <!-- Custom Theme JavaScript -->
-<script src="{{ "/assets/js/clean-blog.js " | prepend: site.baseurl }}"></script>
+<script src="{{ "/assets/js/clean-blog.js " }}"></script>
 
 <!-- QRCode JavaScript -->
-<script src="{{ "/assets/js/qrcode.js " | prepend: site.baseurl }}"></script>
+<script src="{{ "/assets/js/qrcode.js " }}"></script>
 <script type="text/javascript">
 current_href = window.location.href;
 qrcode = document.getElementById("qrcode");
@@ -96,4 +96,4 @@ new QRCode(qrcode, {
 </script>
 
 <!-- mathjax -->
-<script src='https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>

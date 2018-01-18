@@ -22,9 +22,10 @@ description: "Linear Algebra - 2018 Spring"
 - **Mon, Jan 15**
     - *MLK Holiday - No class*
 - **Wed, Jan 17**
-    - Section E.2
+    - *Weather Day - No class*
+    - Take-home Mastery Quiz due Friday (to be posted)
 - **Fri, Jan 19**
-    - Mastery Quiz
+    - Section E.2
 
 ### Week 3
 

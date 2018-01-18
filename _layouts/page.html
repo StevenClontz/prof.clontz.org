@@ -3,7 +3,7 @@ layout: default
 ---
 
 <!-- Page Header -->
-<header class="intro-header" style="background-image: url('{{ site.baseurl }}{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
+<header class="intro-header" style="background-image: url('{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
@@ -22,7 +22,7 @@ layout: default
 
   <!-- https://gist.github.com/csgruenebe/8f7beef9858c1b8625d6 -->
   <ol class="breadcrumb">
-    <li><a href="{{ site.baseurl }}/">Home</a></li>
+    <li><a href="/">Home</a></li>
     {% capture page_url_without_index_html %}{{ page.url | remove: "/index.html" }}{% endcapture %}
     {% assign splitted_url_parts = page_url_without_index_html | split: '/' %}
     {% capture forLoopMaxInt %}{{ splitted_url_parts.size | minus:1 }}{% endcapture %}
@@ -35,7 +35,7 @@ layout: default
             {% assign j = forLoopMaxInt | plus: 0 %}
                 <li {% if i == j %}class="active"{% endif %}>
                     {% capture breadcrumb_page_page_url_without_index_html %}{{ breadcrumb_page.url | remove: "index.html" }}{% endcapture %}
-                    <a href="{{ site.baseurl }}{{breadcrumb_page_page_url_without_index_html}}">
+                    <a href="{{breadcrumb_page_page_url_without_index_html}}">
                       {% if breadcrumb_page.breadcrumb %}
                         {{breadcrumb_page.breadcrumb}}
                       {% else %}
@@ -62,7 +62,7 @@ layout: default
         {% capture subpage_parent_path %}{% for item in subpage_path_array %}{% unless forloop.last %}{{ item }}/{% endunless %}{% endfor %}{% endcapture %}
         {% if page_path == subpage_parent_path  %}
             <li>
-              <a href="{{ site.baseurl }}{{subpage_path}}">
+              <a href="{{subpage_path}}">
                 {% if subpage.breadcrumb %}
                   {{subpage.breadcrumb}}
                 {% elsif subpage.title %}
