@@ -23,7 +23,8 @@ description: "Linear Algebra - 2018 Spring"
     - *MLK Holiday - No class*
 - **Wed, Jan 17**
     - *Weather Day - No class*
-    - Take-home Mastery Quiz due Friday (to be posted)
+    - [Take-home Mastery Quiz][take-home-01-19]
+      due Friday
 - **Fri, Jan 19**
     - Section E.2
 
@@ -51,3 +52,4 @@ description: "Linear Algebra - 2018 Spring"
 [module-E-rat]: ../pdf/rat-1-E.pdf
 [module-E-0]: ../pdf/handout-E-0.pdf
 [module-E-1]: ../pdf/handout-E-1.pdf
+[take-home-01-19]: ../pdf/quiz-take-home-2018-01-19.pdf
