@@ -47,6 +47,36 @@ description: "Linear Algebra - 2018 Spring"
 - **Fri, Feb 02**
     - Mastery Quiz
 
+### Week 5
+
+- **Mon, Feb 05**
+    - Section V.4
+- **Wed, Feb 07**
+    - Module S iRAT/tRAT
+    - Section S.0
+- **Fri, Feb 09**
+    - Mastery Quiz
+
+### Week 6
+
+- **Mon, Feb 12**
+    - Section S.1
+- **Wed, Feb 14**
+    - Section S.2
+- **Fri, Feb 16**
+    - Mastery Quiz
+
+### Week 7
+
+- **Mon, Feb 19**
+    - Section S.3
+- **Wed, Feb 21**
+    - Module A iRAT/tRAT
+    - Section A.0
+- **Fri, Feb 23**
+    - SGIF Feedback
+    - Mastery Quiz
+
 
 [module-E-readiness]: ../pdf/handout-E-readiness.pdf
 [module-E-rat]: ../pdf/rat-1-E.pdf
