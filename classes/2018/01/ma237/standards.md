@@ -12,6 +12,9 @@ The **closest examples** to exercises asked on assessments are given in
 An overview of course modules is available on
 [this introductory handout](../pdf/handout-I.pdf).
 
+Sample solutions for exercises representing each standard are
+available in [this handout](../pdf/sample-exercises.pdf).
+
 ---
 
 At the end of the course, each student should be able to...
