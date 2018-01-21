@@ -15,7 +15,7 @@ description: "Linear Algebra - 2018 Spring"
       [[iRAT/tRAT][module-E-rat]]
     - Section E.0 [[notes][module-E-0]]
 - **Fri, Jan 12**
-    - Section E.1 [[notes][module-E-1]
+    - Section E.1 [[notes][module-E-1]]
 
 ### Week 2
 
@@ -26,12 +26,14 @@ description: "Linear Algebra - 2018 Spring"
     - [Take-home Mastery Quiz][take-home-01-19]
       due Friday
 - **Fri, Jan 19**
-    - Section E.2
+    - Section E.2 [[notes][module-E-2]]
 
 ### Week 3
 
 - **Mon, Jan 22**
-    - Module V iRAT/tRAT
+    - Module V
+      [[Prerequisites][module-V-readiness]]
+      iRAT/tRAT
     - Section V.0
 - **Wed, Jan 24**
     - Section V.1
@@ -82,4 +84,5 @@ description: "Linear Algebra - 2018 Spring"
 [module-E-rat]: ../pdf/rat-1-E.pdf
 [module-E-0]: ../pdf/handout-E-0.pdf
 [module-E-1]: ../pdf/handout-E-1.pdf
+[module-E-2]: ../pdf/handout-E-2.pdf
 [take-home-01-19]: ../pdf/quiz-take-home-2018-01-19.pdf
