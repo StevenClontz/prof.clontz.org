@@ -31,29 +31,44 @@ At the end of the course, each student should be able to...
     - §1.2 – **1-4**, 11-18, **19-32**
 - **V1 [VecPrp]:**
   show why an example satisfies a given vector space property, but does not satisfy another given property.
+    - §7.1 – 1-12
 - **V2 [VecId]:**
   list the eight defining properties of a vector space, infer which of these properties a given example satisfies, and thus determine if the example is a vector space.
+    - §7.1 – 1-12
 - **V3 [LinCmb]:**
   determine if a Euclidean vector can be written as a linear combination of a given set of Euclidean vectors.
+    - §2.1 – **31-36**
+    - §2.2 – **7-12**
 - **V4 [Span]:**
   determine if a set of Euclidean vectors spans \\(\mathbb{R}^n\\).
+    - §2.2 – **21-28**
 - **V5 [Subsp]:**
   determine if a subset of \\(\mathbb{R}^n\\) is a subspace or not.
+    - §4.1 – **1-16**, 17-20
 - **S1 [LinInd]:**
   determine if a set of Euclidean vectors is linearly dependent or
   independent.
+    - §2.3 – **1-12**, 19-28
 - **S2 [BasVer]:**
   determine if a set of Euclidean vectors is a basis of \\(\mathbb{R}^n\\).
+    - **V3 and S1 exercises**
+    - §4.1 – 1-4, 23-28
 - **S3 [BasCmp]:**
   compute a basis for the subspace spanned by a given set of Euclidean
   vectors.
+    - §4.2 – **5-16**, 17-22
 - **S4 [Dim]:**
   compute the dimension of a subspace of \\(\mathbb{R}^n\\).
+    - §4.2 – **5-16**, 17-22
 - **S5 [AbsVec]:**
   solve exercises related to standards V3-S4 when posed in terms of
   polynomials or matrices.
+    - §7.1 – 13-14
+    - §7.2 – **1-24**
+    - §7.3 – **7-10**, 21-26
 - **S6 [BasSol]:**
   find a basis for the solution set of a homogeneous system of equations.
+    - §1.2 – **20,25**, 19-32 (replace constants with 0s)
 - **A1 [LinVer]:**
   determine if a map between vector spaces of polynomials is linear or not.
 - **A2 [LinMat]:**
