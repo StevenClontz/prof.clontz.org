@@ -8,7 +8,7 @@ description: "Linear Algebra - 2018 Spring"
 
 - [Standards][standards]
 - [Calendar][calendar]
-- [CoCalc](http://cocalc.org)
+- [CoCalc.com](http://cocalc.com)
 
 ---
 
