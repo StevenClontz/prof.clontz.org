@@ -34,8 +34,8 @@ description: "Linear Algebra - 2018 Spring"
     - Module V
       [[Prerequisites][module-V-readiness]]
       [[Slides][module-V-slides]]
-      iRAT/tRAT
-    - Section V.0
+      [[iRAT/tRAT][module-V-rat]]
+    - Section V.0 [[notes][module-V-0]]
 - **Wed, Jan 24**
     - Section V.1
 - **Fri, Jan 26**
@@ -88,4 +88,6 @@ description: "Linear Algebra - 2018 Spring"
 [module-E-2]: ../pdf/handout-E-2.pdf
 [take-home-01-19]: ../pdf/quiz-take-home-2018-01-19.pdf
 [module-V-readiness]: ../pdf/handout-V-readiness.pdf
+[module-V-rat]: ../pdf/rat-2-V.pdf
 [module-V-slides]: ../pdf/slides-2-V.pdf
+[module-E-0]: ../pdf/handout-V-0.pdf
