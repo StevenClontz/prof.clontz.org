@@ -9,6 +9,10 @@ description: "Linear Algebra - 2018 Spring"
 - [Standards][standards]
 - [Calendar][calendar]
 - [CoCalc.com](http://cocalc.com)
+- Forms:
+  [[Revision][revision-form]]
+  [[Office][office-form]]
+  [[Appeal][appeal-form]]
 
 ---
 
@@ -163,7 +167,7 @@ standard on the Mastery Quiz.
 
 In the extremely rare case of a solution erroneously marked as **✱/⚠/✘**
 rather than **✓**, the student may simply
-show the solution to the instructor; if no
+show the solution to the instructor; if no[revision-form]
 mistakes can be found in the original submission, the **✓** will be
 awarded automatically.
 
@@ -255,6 +259,16 @@ Note also that purposeful negligence with regards to the above
 and will be addressed as such.
 (Refer to [USA's Course Policies][usa-course-policies] for more details.)
 
+## Academic Honesty
+
+Academic Honesty is defined in
+[USA's Student Academic Conduct Policy][usa-academic-conduct].
+Any student who is caught
+cheating will immediately lose credit for all earned **✓**, either for
+the relevant standard(s) or the whole semester as appropriate. In addition,
+the incident will be reported to the university, and the student may be
+required to take future assessments during office hours.
+
 ## USAOnline and USA Course Policies
 
 The official syllabus for this course is available on
@@ -268,6 +282,12 @@ printed progress reports.
 
 [usa-course-policies]: https://www.southalabama.edu/departments/academicaffairs/resources/policies/additionalacademiccoursepolicies.pdf
 
+[usa-academic-conduct]: http://www.southalabama.edu/departments/academicaffairs/resources/policies/Student%20academic%20conduct%20policy-Final%20Version%20October%202014.pdf
+
 [calendar]: calendar/
 
 [standards]: standards/
+
+[revision-form]: pdf/revision-form.pdf
+[office-form]: pdf/office-form.pdf
+[appeal-form]: pdf/appeal-form.pdf
