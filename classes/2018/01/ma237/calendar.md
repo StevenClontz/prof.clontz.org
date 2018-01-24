@@ -26,7 +26,8 @@ description: "Linear Algebra - 2018 Spring"
     - [Take-home Mastery Quiz][take-home-01-19]
       due Friday
 - **Fri, Jan 19**
-    - Section E.2 [[notes][module-E-2]]
+    - Section E.2
+      [[notes][module-E-2]]
 
 ### Week 3
 
@@ -35,11 +36,14 @@ description: "Linear Algebra - 2018 Spring"
       [[Prerequisites][module-V-readiness]]
       [[Slides][module-V-slides]]
       [[iRAT/tRAT][module-V-rat]]
-    - Section V.0 [[notes][module-V-0]]
+    - Section V.0
+      [[notes][module-V-0]]
 - **Wed, Jan 24**
     - Section V.1
+      [[notes][module-V-1]]
 - **Fri, Jan 26**
     - Mastery Quiz
+      [covers E1-V2]
 
 ### Week 4
 
@@ -49,6 +53,7 @@ description: "Linear Algebra - 2018 Spring"
     - Section V.3
 - **Fri, Feb 02**
     - Mastery Quiz
+      [covers E1-V4]
 
 ### Week 5
 
@@ -59,6 +64,7 @@ description: "Linear Algebra - 2018 Spring"
     - Section S.0
 - **Fri, Feb 09**
     - Mastery Quiz
+      [covers E1-V5]
 
 ### Week 6
 
@@ -91,3 +97,4 @@ description: "Linear Algebra - 2018 Spring"
 [module-V-rat]: ../pdf/rat-2-V.pdf
 [module-V-slides]: ../pdf/slides-2-V.pdf
 [module-V-0]: ../pdf/handout-V-0.pdf
+[module-V-1]: ../pdf/handout-V-1.pdf
