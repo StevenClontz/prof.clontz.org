@@ -10,8 +10,8 @@ description: "Linear Algebra - 2018 Spring"
 - [Calendar][calendar]
 - [CoCalc.com](http://cocalc.com)
 - Forms:
-  [[Revision][revision-form]]
-  [[Office][office-form]]
+  [[Revision (**✱**)][revision-form]]
+  [[Office (**⚠**)][office-form]]
   [[Appeal][appeal-form]]
 
 ---

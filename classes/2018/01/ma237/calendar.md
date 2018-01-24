@@ -90,4 +90,4 @@ description: "Linear Algebra - 2018 Spring"
 [module-V-readiness]: ../pdf/handout-V-readiness.pdf
 [module-V-rat]: ../pdf/rat-2-V.pdf
 [module-V-slides]: ../pdf/slides-2-V.pdf
-[module-E-0]: ../pdf/handout-V-0.pdf
+[module-V-0]: ../pdf/handout-V-0.pdf
