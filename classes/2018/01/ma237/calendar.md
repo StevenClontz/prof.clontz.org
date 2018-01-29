@@ -49,6 +49,7 @@ description: "Linear Algebra - 2018 Spring"
 
 - **Mon, Jan 29**
     - Section V.2
+      [[notes][module-V-2]]
 - **Wed, Jan 31**
     - Section V.3
 - **Fri, Feb 02**
@@ -98,3 +99,6 @@ description: "Linear Algebra - 2018 Spring"
 [module-V-slides]: ../pdf/slides-2-V.pdf
 [module-V-0]: ../pdf/handout-V-0.pdf
 [module-V-1]: ../pdf/handout-V-1.pdf
+[module-V-2]: ../pdf/handout-V-2.pdf
+[module-V-3]: ../pdf/handout-V-3.pdf
+[module-V-4]: ../pdf/handout-V-4.pdf

@@ -10,9 +10,12 @@ description: "Linear Algebra - 2018 Spring"
 - [Calendar][calendar]
 - [CoCalc.com](http://cocalc.com)
 - Forms:
-  [[Revision (**✱**)][revision-form]]
-  [[Office (**⚠**)][office-form]]
-  [[Appeal][appeal-form]]
+    - [Revision (**✱**)][revision-form]
+    - [Office (**⚠**)][office-form]
+    - [Appeal][appeal-form]
+- Slides:
+    - [Module E][module-E-slides]
+    - [Module V][module-V-slides]
 
 ---
 
@@ -291,3 +294,7 @@ printed progress reports.
 [revision-form]: pdf/revision-form.pdf
 [office-form]: pdf/office-form.pdf
 [appeal-form]: pdf/appeal-form.pdf
+
+
+[module-E-slides]: ../pdf/slides-1-E.pdf
+[module-V-slides]: ../pdf/slides-2-V.pdf
