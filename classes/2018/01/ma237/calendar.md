@@ -34,7 +34,6 @@ description: "Linear Algebra - 2018 Spring"
 - **Mon, Jan 22**
     - Module V
       [[Prerequisites][module-V-readiness]]
-      [[Slides][module-V-slides]]
       [[iRAT/tRAT][module-V-rat]]
     - Section V.0
       [[notes][module-V-0]]
@@ -52,6 +51,7 @@ description: "Linear Algebra - 2018 Spring"
       [[notes][module-V-2]]
 - **Wed, Jan 31**
     - Section V.3
+      [[notes][module-V-3]]
 - **Fri, Feb 02**
     - Mastery Quiz
       [covers E1-V4]
