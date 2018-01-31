@@ -296,5 +296,5 @@ printed progress reports.
 [appeal-form]: pdf/appeal-form.pdf
 
 
-[module-E-slides]: ../pdf/slides-1-E.pdf
-[module-V-slides]: ../pdf/slides-2-V.pdf
+[module-E-slides]: pdf/slides-1-E.pdf
+[module-V-slides]: pdf/slides-2-V.pdf
