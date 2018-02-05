@@ -63,7 +63,7 @@ description: "Linear Algebra - 2018 Spring"
       [[notes][module-V-4]]
 - **Wed, Feb 07**
     - Module S
-      [[Prerequisites][module-V-readiness]]
+      [[Prerequisites][module-S-readiness]]
       [iRAT/tRAT]
 - **Fri, Feb 09**
     - Mastery Quiz
