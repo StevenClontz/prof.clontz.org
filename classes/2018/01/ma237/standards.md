@@ -31,10 +31,10 @@ At the end of the course, each student should be able to...
     - §1.2 – **1-4**, 11-18, **19-32**
 - **V1 [VecPrp]:**
   show why an example satisfies a given vector space property, but does not satisfy another given property.
-    - §7.1 – 1-12
+    - (study old quiz exercises and class activities)
 - **V2 [VecId]:**
   list the eight defining properties of a vector space, infer which of these properties a given example satisfies, and thus determine if the example is a vector space.
-    - §7.1 – 1-12
+    - (study old quiz exercises and class activities)
 - **V3 [LinCmb]:**
   determine if a Euclidean vector can be written as a linear combination of a given set of Euclidean vectors.
     - §2.1 – **31-36**
