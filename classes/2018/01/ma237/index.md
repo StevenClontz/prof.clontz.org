@@ -52,14 +52,13 @@ Grades in this course are determined based upon your mastery of the
 twenty-five Course Standards.
 Each time you successfully demonstrate
 mastery of a Standard by correctly solving a relevant exercise, you will
-earn a **✓**. Up to two **✓** per Standard will be awarded, for a maximum
+earn a **✓**. Up to two **✓** per Standard will be awarded, for a total
 of **50✓**. An additional **3✓** may be earned by solving
 **Theory/Application Exercises**.
 
 Letter grades are assigned based on how many **✓** are earned by a student.
 
-* **A**: **48✓**,
-  including **3✓** from Theory/Application Exercises.
+* **A**: **48✓**.
 * **B**: **42✓**.
 * **C**: **36✓**.
 * **D**: **30✓**.
@@ -121,7 +120,6 @@ for a weekly **Mastery Quiz**. Every student will receive a personalized
 quiz generated based on their most recent progress report. This generated
 quiz will include one exercise for every course Standard covered in class
 for which the student can earn a **✓** by demonstrating mastery.
-Each student may submit solutions for up to 10 of these exercises each week.
 All submissions are due by the end of the class period.
 
 When possible, the full class period will be set aside for these quizzes.
@@ -171,7 +169,7 @@ standard on the Mastery Quiz.
 
 In the extremely rare case of a solution erroneously marked as **✱/⚠/✘**
 rather than **✓**, the student may simply
-show the solution to the instructor; if no[revision-form]
+show the solution to the instructor; if no
 mistakes can be found in the original submission, the **✓** will be
 awarded automatically.
 
@@ -181,8 +179,7 @@ During Wednesday office hours, each student may submit up to
 two [Office Reassessment Forms][office-form]. Students that satisfactorily
 meet the requirements given on this form will be given the opportunity
 to solve a new exercise that will be immediately marked as
-usual. Each submitted form counts as one of the students' ten Mastery
-Quiz submissions for that week. A student receiving a **✓** in this way may
+usual. A student receiving a **✓** in this way may
 not also attempt the same standard on that week's Mastery Quiz.
 
 Unless an exception is granted by the instructor,
@@ -220,7 +217,7 @@ cannot be attempted in office hours.
 The **Final Exam** has the exact same structure as the Mastery Quizzes, with
 the following exceptions:
 
-* Students have 120 minutes to submit up to twenty solutions.
+* Students have 120 minutes.
 * Two Theory/Application Exercises are available. Students may submit
   solutions for both.
 * Solutions from the last Mastery Quiz marked as **✱** are returned for
