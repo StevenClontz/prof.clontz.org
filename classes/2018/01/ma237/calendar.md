@@ -73,8 +73,10 @@ description: "Linear Algebra - 2018 Spring"
 
 - **Mon, Feb 12**
     - Section S.1
+      [[notes][module-S-1]]
 - **Wed, Feb 14**
     - Section S.2
+      [[notes][module-S-2]]
 - **Fri, Feb 16**
     - Mastery Quiz
 
@@ -105,3 +107,5 @@ description: "Linear Algebra - 2018 Spring"
 [module-V-4]: ../pdf/handout-V-4.pdf
 [module-S-readiness]: ../pdf/handout-S-readiness.pdf
 [module-S-rat]: ../pdf/rat-3-S.pdf
+[module-S-1]: ../pdf/handout-S-1.pdf
+[module-S-2]: ../pdf/handout-S-2.pdf
