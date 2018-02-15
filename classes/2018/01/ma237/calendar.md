@@ -79,6 +79,7 @@ description: "Linear Algebra - 2018 Spring"
       [[notes][module-S-2]]
 - **Fri, Feb 16**
     - Mastery Quiz
+      [covers E1-S3]
 
 ### Week 7
 
