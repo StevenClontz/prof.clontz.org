@@ -85,9 +85,10 @@ description: "Linear Algebra - 2018 Spring"
 
 - **Mon, Feb 19**
     - Section S.3
+      [[notes][module-S-3]]
 - **Wed, Feb 21**
     - Module A iRAT/tRAT
-    - Section A.0
+      [[Prerequisites][module-A-readiness]]
 - **Fri, Feb 23**
     - SGIF Feedback
     - Mastery Quiz
@@ -110,3 +111,7 @@ description: "Linear Algebra - 2018 Spring"
 [module-S-rat]: ../pdf/rat-3-S.pdf
 [module-S-1]: ../pdf/handout-S-1.pdf
 [module-S-2]: ../pdf/handout-S-2.pdf
+[module-S-3]: ../pdf/handout-S-3.pdf
+[module-A-readiness]: ../pdf/handout-A-readiness.pdf
+[module-M-readiness]: ../pdf/handout-M-readiness.pdf
+[module-G-readiness]: ../pdf/handout-G-readiness.pdf
