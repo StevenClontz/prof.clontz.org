@@ -92,6 +92,53 @@ description: "Linear Algebra - 2018 Spring"
 - **Fri, Feb 23**
     - SGIF Feedback
     - Mastery Quiz
+      [covers E1-S6]
+
+### Week 8
+
+- **Mon, Feb 26**
+  - Applications of Linear Algebra in Chemistry/Geology
+- **Wed, Feb 28**
+  - Section A.1
+- **Fri, Mar 02**
+  - Mastery Quiz
+    [covers E1-A?]
+  - *Midterm grades reported based on progress as of this date*
+
+### Week 9
+
+- **Mon, Mar 05**
+  - Section A.2
+- **Wed, Mar 07**
+  - Section A.3
+- **Fri, Mar 09**
+  - Mastery Quiz
+    [covers E1-A?]
+
+### Week 10
+
+- **Mon, Mar 12**
+  - Section A.4
+- **Wed, Mar 14**
+  - Module M iRAT/tRAT
+    [[Prerequisites][module-M-readiness]]
+- **Fri, Mar 16**
+  - Mastery Quiz
+    [covers E1-A4]
+
+### Week 11
+
+### Spring Break
+
+*No classes Mar 26-30.*
+
+### Week 12
+
+### Week 13
+
+### Week 14
+
+### Week 15
 
 
 [module-E-readiness]: ../pdf/handout-E-readiness.pdf
