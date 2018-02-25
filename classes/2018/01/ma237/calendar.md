@@ -97,12 +97,12 @@ description: "Linear Algebra - 2018 Spring"
 ### Week 8
 
 - **Mon, Feb 26**
-  - Applications of Linear Algebra in Chemistry/Geology
+  - Applications of Linear Algebra in Chemistry
 - **Wed, Feb 28**
   - Section A.1
 - **Fri, Mar 02**
   - Mastery Quiz
-    [covers E1-A?]
+    [covers E1-A1]
   - *Midterm grades reported based on progress as of this date*
 
 ### Week 9
