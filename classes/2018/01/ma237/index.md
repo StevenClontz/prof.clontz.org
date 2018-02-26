@@ -301,5 +301,5 @@ printed progress reports.
 [module-E-slides]: pdf/slides-1-E.pdf
 [module-V-slides]: pdf/slides-2-V.pdf
 [module-S-slides]: pdf/slides-3-S.pdf
-[module-A-slides]: pdf/slides-3-S.pdf
-[module-P-slides]: pdf/slides-3-S.pdf
+[module-A-slides]: pdf/slides-4-A.pdf
+[module-P-slides]: pdf/slides-7-P.pdf
