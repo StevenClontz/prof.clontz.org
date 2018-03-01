@@ -89,6 +89,7 @@ description: "Linear Algebra - 2018 Spring"
 - **Wed, Feb 21**
     - Module A iRAT/tRAT
       [[Prerequisites][module-A-readiness]]
+      [[iRAT/tRAT][module-A-rat]]
 - **Fri, Feb 23**
     - SGIF Feedback
     - Mastery Quiz
@@ -100,6 +101,7 @@ description: "Linear Algebra - 2018 Spring"
   - Applications of Linear Algebra in Chemistry
 - **Wed, Feb 28**
   - Section A.1
+    [[notes][module-A-1]]
 - **Fri, Mar 02**
   - Mastery Quiz
     [covers E1-A1]
@@ -160,5 +162,7 @@ description: "Linear Algebra - 2018 Spring"
 [module-S-2]: ../pdf/handout-S-2.pdf
 [module-S-3]: ../pdf/handout-S-3.pdf
 [module-A-readiness]: ../pdf/handout-A-readiness.pdf
+[module-A-rat]: ../pdf/rat-4-A.pdf
+[module-A-1]: ../pdf/handout-A-1.pdf
 [module-M-readiness]: ../pdf/handout-M-readiness.pdf
 [module-G-readiness]: ../pdf/handout-G-readiness.pdf
