@@ -9,6 +9,7 @@ description: "Linear Algebra - 2018 Spring"
 - [Standards][standards]
 - [Calendar][calendar]
 - [CoCalc.com](http://cocalc.com)
+- [Sample Exercises](pdf/sample-exercises.pdf)
 - Forms:
     - [Revision (**✱**)][revision-form]
     - [Office (**⚠**)][office-form]
