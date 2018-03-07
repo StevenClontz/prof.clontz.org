@@ -115,7 +115,7 @@ description: "Linear Algebra - 2018 Spring"
   - Section A.3
 - **Fri, Mar 09**
   - Mastery Quiz
-    [covers E1-A?]
+    [covers E1-A4]
 
 ### Week 10
 
