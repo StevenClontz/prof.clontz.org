@@ -19,7 +19,7 @@ description: "Linear Algebra - 2018 Spring"
     - [Module V][module-V-slides]
     - [Module S][module-S-slides]
     - [Module A][module-A-slides]
-    - [Module M]
+    - [Module M][module-M-slides]
     - [Module G]
     - [Module P][module-P-slides]
 
@@ -303,4 +303,5 @@ printed progress reports.
 [module-V-slides]: pdf/slides-2-V.pdf
 [module-S-slides]: pdf/slides-3-S.pdf
 [module-A-slides]: pdf/slides-4-A.pdf
+[module-M-slides]: pdf/slides-5-M.pdf
 [module-P-slides]: pdf/slides-7-P.pdf
