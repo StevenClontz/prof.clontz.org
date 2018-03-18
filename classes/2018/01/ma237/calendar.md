@@ -89,6 +89,7 @@ description: "Linear Algebra - 2018 Spring"
 - **Wed, Feb 21**
     - Module A iRAT/tRAT
       [[Prerequisites][module-A-readiness]]
+      [[iRAT/tRAT][module-A-rat]]
 - **Fri, Feb 23**
     - SGIF Feedback
     - Mastery Quiz
@@ -97,9 +98,10 @@ description: "Linear Algebra - 2018 Spring"
 ### Week 8
 
 - **Mon, Feb 26**
-  - Applications of Linear Algebra in Chemistry
+  - Applications: Chemistry
 - **Wed, Feb 28**
   - Section A.1
+    [[notes][module-A-1]]
 - **Fri, Mar 02**
   - Mastery Quiz
     [covers E1-A1]
@@ -113,20 +115,27 @@ description: "Linear Algebra - 2018 Spring"
   - Section A.3
 - **Fri, Mar 09**
   - Mastery Quiz
-    [covers E1-A?]
+    [covers E1-A4]
 
 ### Week 10
 
 - **Mon, Mar 12**
   - Section A.4
 - **Wed, Mar 14**
-  - Module M iRAT/tRAT
-    [[Prerequisites][module-M-readiness]]
+  - Section M.1
 - **Fri, Mar 16**
   - Mastery Quiz
     [covers E1-A4]
 
 ### Week 11
+
+- **Mon, Mar 19**
+  - Section M.2
+- **Wed, Mar 21**
+  - Section M.3
+- **Fri, Mar 23**
+  - Mastery Quiz
+    [covers E1-M3]
 
 ### Spring Break
 
@@ -134,11 +143,54 @@ description: "Linear Algebra - 2018 Spring"
 
 ### Week 12
 
+- **Mon, Apr 2**
+  - Applications
+- **Wed, Apr 4**
+  - Section G.1
+- **Fri, Apr 6**
+  - Mastery Quiz
+    [covers E1-G1]
+
 ### Week 13
+
+- **Mon, Apr 9**
+  - Section G.2
+- **Wed, Apr 11**
+  - Section G.3
+- **Fri, Apr 13**
+  - Mastery Quiz
+    [covers E1-G3]
 
 ### Week 14
 
+- **Mon, Apr 16**
+  - Section G.4
+- **Wed, Apr 18**
+  - Applications
+- **Fri, Apr 20**
+  - Mastery Quiz
+    [covers E1-G4]
+
 ### Week 15
+
+- **Mon, Apr 23**
+  - Applications
+- **Wed, Apr 25**
+  - Applications
+- **Fri, Apr 27**
+  - Mastery Quiz
+    [covers E1-G4]
+
+### Final Exams
+
+Covers all standards E1-G4.
+
+- **Mon, Apr 30, 3:00pm**
+  - MA 237-103 Final Exam
+- **Wed, May 2, 8:00am**
+  - MA 237-101 Final Exam
+- **Wed, May 2, 10:30am**
+  - MA 237-102 Final Exam
 
 
 [module-E-readiness]: ../pdf/handout-E-readiness.pdf
@@ -160,5 +212,7 @@ description: "Linear Algebra - 2018 Spring"
 [module-S-2]: ../pdf/handout-S-2.pdf
 [module-S-3]: ../pdf/handout-S-3.pdf
 [module-A-readiness]: ../pdf/handout-A-readiness.pdf
+[module-A-rat]: ../pdf/rat-4-A.pdf
+[module-A-1]: ../pdf/handout-A-1.pdf
 [module-M-readiness]: ../pdf/handout-M-readiness.pdf
 [module-G-readiness]: ../pdf/handout-G-readiness.pdf
