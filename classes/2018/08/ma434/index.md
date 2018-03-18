@@ -46,7 +46,7 @@ of four grade specifications:
 
 - Presentations (in-class)
 - Notes (in-class and at home)
-- Recollection (on quizzes)
+- Knowledge (on quizzes)
 - Proofs (on quizzes and at home)
 
 Letter grades are assigned at the end of the semester as follows:
@@ -130,9 +130,9 @@ resubmit to satisfy the specification. Otherwise, an additional opportunity
 to satisfy this specification will be given at the end of the semester,
 with three newly chosen theorems, but no opportunity for revisions.
 
-## Recollection
+## Knowledge 
 
-Periodically multiple-choice Recollection Quizzes will be given during class
+Periodically multiple-choice Knowledge Quizzes will be given during class
 to assess coverage of the nine topics outlined under Course Content. The class will
 choose which topics will be covered on each quiz. Five questions from each
 topic will be asked.
@@ -140,16 +140,17 @@ topic will be asked.
 Students that answer at most one question incorrectly for a topic will be given
 a **✓** mark for that topic. Only one **✓** may be earned per topic.
 
-## Satisfying the Recollection Specification
+## Satisfying the Knowledge Specification
 
-Students that earn 8/9 **✓** in this way will have satisfied the Recollection
+Students that earn 8/9 **✓** in this way will have satisfied the Knowledge 
 Specification.
 
 ## Proofs
 
 Periodically full-response Proof Quizzes will be given during class to assess
 student ability to discover and write proofs, including constructing
-examples and counterexamples. Students will be given several theorems,
+examples and counterexamples. Students will be given several theorems related
+to (but not identical to) the theorems satisfactorally presented in class,
 and will be allowed to submit proofs for each. These will be marked for
 understanding by the instructor. Proofs marked as **✱** or **✓**
 should be corrected (if needed) and typeset in \\(\LaTeX\\) to be
