@@ -5,10 +5,15 @@ header-img: "/assets/img/south-bg.jpg"
 description: "A puzzle-filled scavenger hunt"
 ---
 
+## Postponed
+
+This event has been postponed until the 2018-2018 academic
+year.
+
+---
+
 **JagHunt** is a puzzle scavenger hunt to be held on
-the campus of the University of South Alabama. It will be held
-during the week of **2018 April 9-13** and run by the
-student-led **Mathematics and Statistics Club**.
+the campus of the University of South Alabama. 
 
 ## What is JagHunt?
 
