@@ -144,7 +144,7 @@ description: "Linear Algebra - 2018 Spring"
 ### Week 12
 
 - **Mon, Apr 2**
-  - Applications
+  - Review
 - **Wed, Apr 4**
   - Section G.1
 - **Fri, Apr 6**
