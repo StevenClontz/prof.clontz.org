@@ -144,7 +144,7 @@ description: "Linear Algebra - 2018 Spring"
 ### Week 12
 
 - **Mon, Apr 2**
-  - Applications
+  - Review
 - **Wed, Apr 4**
   - Section G.1
 - **Fri, Apr 6**
@@ -185,7 +185,7 @@ description: "Linear Algebra - 2018 Spring"
 
 Covers all standards E1-G4.
 
-- **Mon, Apr 30, 3:00pm**
+- **Mon, Apr 30, 3:30pm**
   - MA 237-103 Final Exam
 - **Wed, May 2, 8:00am**
   - MA 237-101 Final Exam
