@@ -153,7 +153,7 @@ Specification.
 
 ## Proofs
 
-Periodically full-response Proofs Quizzes will be given during class to assess
+Periodically full-response open-note Proofs Quizzes will be given during class to assess
 student ability to discover and write proofs, including constructing
 examples and counterexamples. Students will be given one or more theorems related
 to (but not identical to) the theorems satisfactorally presented in class,
