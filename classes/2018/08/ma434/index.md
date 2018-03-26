@@ -183,7 +183,7 @@ but one **✱** will be automatically be improved to **✓**.
 Due to the nature of assessment in this course, quiz makeups are not needed
 and won't be offered since that credit may be made up on future quizzes.
 However, additional time may be given on the Final Exam by request 
-to students who have one or more excusable absences. Also, in exceptionl
+to students who have one or more excusable absences. Also, in exceptional
 cases the requirements to meet the Presentations Specification will be
 lowered due to multiple excusable absences.
 
