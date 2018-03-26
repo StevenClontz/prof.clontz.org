@@ -44,10 +44,10 @@ course) are included:
 Grades in this course are determined based upon satisfactory completion
 of four grade specifications:
 
-- Presentations (in-class)
-- Notes (in-class and at home)
-- Knowledge (on quizzes)
-- Proofs (on quizzes and at home)
+- Presentations 
+- Notes 
+- Knowledge 
+- Proofs 
 
 Letter grades are assigned at the end of the semester as follows:
 
