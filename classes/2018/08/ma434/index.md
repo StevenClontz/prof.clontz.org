@@ -172,7 +172,11 @@ will have satisfied the Proofs Specification.
 
 The Final Exam will be a combination of a Knowledge Quiz and Proof Quiz,
 which can be used to help students complete the Knowledge and Proof
-Specifications.
+Specifications. There is no added benefit to taking the final exam
+for a student who has already satisfied both specifications.
+
+No revisions will be allowed for proofs submitted on the final exam,
+but one **✱** will be automatically be improved to **✓**.
 
 ## Makeup Policy
 
