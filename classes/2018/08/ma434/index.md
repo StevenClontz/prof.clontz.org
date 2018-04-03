@@ -44,10 +44,10 @@ course) are included:
 Grades in this course are determined based upon satisfactory completion
 of four grade specifications:
 
-- Presentations (in-class)
-- Notes (in-class and at home)
-- Knowledge (on quizzes)
-- Proofs (on quizzes and at home)
+- Presentations 
+- Notes 
+- Knowledge 
+- Proofs 
 
 Letter grades are assigned at the end of the semester as follows:
 
@@ -59,7 +59,7 @@ Letter grades are assigned at the end of the semester as follows:
 
 ## Textbook and Resources
 
-No textbook is required for this course; actually, using a text is discouraged
+No textbook is required for this course; in fact, using a text is discouraged
 except in extreme circumstances. Students will be provided a Theorem Sequence
 that outlines all the content that may be covered in the course, and students
 will be tasked with presenting original proofs for these facts.
@@ -70,7 +70,8 @@ TODO
 
 ## Teams
 
-Teams will be organized near the beginning of the semester. Most
+Teams will be organized by the instructor
+near the beginning of the semester. Most
 class activities will be done within teams, allowing students to learn
 in an environment where they may discuss topics and ask
 questions freely with their peers and the instructor.
@@ -90,9 +91,10 @@ In this class, the following marks will be used when assessing understanding:
 
 ## Consensus
 
-Students are given the responsibility and privilege to make many choices during the course
-that affect content coverage and grade assignment.
-In the (hopefully rare) case that consensus cannot be (honestly) reached in a team/class
+Students are given the responsibility and privilege to help
+make many choices during the course
+that affect content coverage and grade assignments.
+In the (hopefully rare) case that consensus cannot be reached in a team/class
 decision, the instructor will make the final decision.
 
 ## Presentations
@@ -104,7 +106,8 @@ each other. During class, students will take turns presenting proofs of these th
 After each presentation, the team will agree upon which mark accurately reflects
 the understanding demonstrated by the presentation. If a mark other than **✓**
 is decided, that student has the option to make corrections and reattempt the presentation
-at a later date.
+at a later date. The team may choose to award multiple **✓** in the case of
+an exceptional solution.
 
 ### Satisfying the Presentation Specification
 
@@ -125,31 +128,34 @@ theorems that have been satisfactorally presented in each team. Students will
 submit their full notebook, and the instructor will mark the proofs of these theorems.
 
 Students who receive **✓** on all three theorems will have satisfied the Notes
-Specification. Students who receive **✱** marks may revise their proofs and
-resubmit to satisfy the specification. Otherwise, an additional opportunity
+Specification. Students who receive only **✓** and **✱** marks may revise their 
+proofs and resubmit to satisfy the specification. Otherwise, an additional opportunity
 to satisfy this specification will be given at the end of the semester,
-with three newly chosen theorems, but no opportunity for revisions.
+with three newly chosen theorems. Only 2/3 **✓** will be required, but there will
+be no opportunity for revisions.
 
 ## Knowledge 
 
-Periodically multiple-choice Knowledge Quizzes will be given during class
+Periodically multiple-choice closed-note Knowledge Quizzes will be given during class
 to assess coverage of the nine topics outlined under Course Content. The class will
 choose which topics will be covered on each quiz. Five questions from each
 topic will be asked.
 
 Students that answer at most one question incorrectly for a topic will be given
 a **✓** mark for that topic. Only one **✓** may be earned per topic.
+If two or more questions are answered incorrectly, then that topic may be
+reattempted on a future quiz.
 
 ## Satisfying the Knowledge Specification
 
-Students that earn 8/9 **✓** in this way will have satisfied the Knowledge 
+Students that earn 7/9 **✓** in this way will have satisfied the Knowledge 
 Specification.
 
 ## Proofs
 
-Periodically full-response Proof Quizzes will be given during class to assess
+Periodically full-response open-note Proofs Quizzes will be given during class to assess
 student ability to discover and write proofs, including constructing
-examples and counterexamples. Students will be given several theorems related
+examples and counterexamples. Students will be given one or more theorems related
 to (but not identical to) the theorems satisfactorally presented in class,
 and will be allowed to submit proofs for each. These will be marked for
 understanding by the instructor. Proofs marked as **✱** or **✓**
@@ -164,10 +170,22 @@ will have satisfied the Proofs Specification.
 
 ## Final Exam
 
+The Final Exam will be a combination of a Knowledge Quiz and Proof Quiz,
+which can be used to help students complete the Knowledge and Proof
+Specifications. There is no added benefit to taking the final exam
+for a student who has already satisfied both specifications.
+
+No revisions will be allowed for proofs submitted on the final exam,
+but one **✱** will be automatically be improved to **✓**.
 
 ## Makeup Policy
 
-
+Due to the nature of assessment in this course, quiz makeups are not needed
+and won't be offered since that credit may be made up on future quizzes.
+However, additional time may be given on the Final Exam by request 
+to students who have one or more excusable absences. Also, in exceptional
+cases the requirements to meet the Presentations Specification will be
+lowered due to multiple excusable absences.
 
 ## Academic Honesty
 
@@ -175,14 +193,18 @@ Academic Honesty is defined in
 [USA's Student Academic Conduct Policy][usa-academic-conduct].
 Any student who is caught
 cheating will immediately lose credit for all earned **✓**, either for
-the relevant standard(s) or the whole semester as appropriate. In addition,
-the incident will be reported to the university, and the student may be
-required to take future assessments during office hours.
+the relevant specification or the whole semester as appropriate. In addition,
+the incident will be reported to the university.
+
+In particular, cheating includes copy-pasting and blind rewriting of
+results from other students, books, or the internet and submitting
+these results as original work (i.e. plagarism). \\(\LaTeX\\) source files
+may be required to assist with automatic detection of plagarized work.
 
 ## USAOnline and USA Course Policies
 
 The official syllabus for this course is available on
-[USAOnline][usaonline]. Grade data will be provided to students via weekly
+[USAOnline][usaonline]. Grade data will be provided to students via periodic 
 printed progress reports.
 
 [USA's Course Policies][usa-course-policies] apply to this course.
