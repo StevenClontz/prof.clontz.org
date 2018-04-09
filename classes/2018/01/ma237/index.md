@@ -10,6 +10,7 @@ description: "Linear Algebra - 2018 Spring"
 - [Calendar][calendar]
 - [CoCalc.com](http://cocalc.com)
 - [Sample Exercises](pdf/sample-exercises.pdf)
+- [Video on V1,V2,V5,A1](https://youtu.be/nUJTXzkBwvg)
 - Forms:
     - [Revision (**✱**)][revision-form]
     - [Office (**⚠**)][office-form]
