@@ -156,7 +156,7 @@ description: "Linear Algebra - 2018 Spring"
 - **Mon, Apr 9**
   - Section G.2
 - **Wed, Apr 11**
-  - Section G.3
+  - Continue section G.2
 - **Fri, Apr 13**
   - Mastery Quiz
     [covers E1-G3]
@@ -164,9 +164,9 @@ description: "Linear Algebra - 2018 Spring"
 ### Week 14
 
 - **Mon, Apr 16**
-  - Section G.4
+  - Section G.3
 - **Wed, Apr 18**
-  - Applications
+  - Section G.4
 - **Fri, Apr 20**
   - Mastery Quiz
     [covers E1-G4]
