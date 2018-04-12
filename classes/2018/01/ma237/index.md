@@ -41,8 +41,9 @@ description: "Linear Algebra - 2018 Spring"
         * Mon/Wed/Fri 2:30pm-3:20pm
         * MSPB 360
 * Office Hours (MSPB 314)
-    * Mon/Wed 10:05am-11:05am
-    * Mon/Wed 12:20pm-2:20pm
+    * ~~Mon/Wed 10:05am-11:05am~~
+    * ~~Mon/Wed 12:20pm-2:20pm~~
+    * Thu 9:30am-3:30pm
 
 
 
