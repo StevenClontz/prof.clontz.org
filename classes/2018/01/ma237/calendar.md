@@ -166,7 +166,7 @@ description: "Linear Algebra - 2018 Spring"
 - **Mon, Apr 16**
   - Section G.3
 - **Wed, Apr 18**
-  - Section G.4
+  - Section P.2 
 - **Fri, Apr 20**
   - Mastery Quiz
     [covers E1-G4]
