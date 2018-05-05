@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "MA 237"
+title: "WORK IN PROGRESS MA 237"
 description: "Linear Algebra - 2018 Spring"
 ---
 
