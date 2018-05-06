@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "WORK IN PROGRESS MA 237"
-description: "Linear Algebra - 2018 Spring"
+description: "Linear Algebra - 2018 Summer"
 ---
 
 #### Quick Links
@@ -10,58 +10,43 @@ description: "Linear Algebra - 2018 Spring"
 - [Calendar][calendar]
 - [CoCalc.com](http://cocalc.com)
 - [Sample Exercises](pdf/sample-exercises.pdf)
-- [Video on V1,V2,V5,A1](https://youtu.be/nUJTXzkBwvg)
 - Forms:
     - [Revision (**✱**)][revision-form]
-    - [Office (**⚠**)][office-form]
-    - [Appeal][appeal-form]
+    - [Office][office-form]
 - Slides:
     - [Module E][module-E-slides]
     - [Module V][module-V-slides]
     - [Module S][module-S-slides]
     - [Module A][module-A-slides]
     - [Module M][module-M-slides]
-    - [Module G][module-G-slides]
     - [Module P][module-P-slides]
 
 ---
 
 ## Course Information
 
-* Semester: Spring 2018
+* Semester: 2018 Summer
 * Title: Linear Algebra
-* Sections:
-    * MA 237-101
-        * Mon/Wed/Fri 9:05am-9:55am
-        * MSPB 360
-    * MA 237-102
-        * Mon/Wed/Fri 11:15am-12:05pm
-        * MSPB 360
-    * MA 237-103
-        * Mon/Wed/Fri 2:30pm-3:20pm
-        * MSPB 360
+* Section: MA 237-101
+  * Mon-Fri 9:10am-10:05am
+  * MSPB 360
 * Office Hours (MSPB 314)
-    * ~~Mon/Wed 10:05am-11:05am~~
-    * ~~Mon/Wed 12:20pm-2:20pm~~
-    * Thu 9:30am-3:30pm
-
-
+    * Wed 8:00am-9:00am, 10:05am-1:50pm, 3:15pm-4:30pm
 
 ## Course Content
 
-The course is split into six **Modules**, each of which is split into
+The course is split into five **Modules**, each of which is split into
 several **Standards** of learning. These are listed on the course
 [Standards][standards] page.
 
 ## Grading
 
-Grades in this course are determined based upon your mastery of the
-twenty-five Course Standards.
-Each time you successfully demonstrate
+Grades in this course are determined purely based upon your mastery of the
+twenty-five Course Standards. Each time you successfully demonstrate
 mastery of a Standard by correctly solving a relevant exercise, you will
-earn a **✓**. Up to two **✓** per Standard will be awarded, for a total
-of **50✓**. An additional **3✓** may be earned by solving
-**Theory/Application Exercises**.
+earn a **Mastery Mark ✓**. Up to two **✓** per Standard will be awarded,
+plus an additional **3✓** for **Theory/Appliation (TA) Exercises**,
+for a total of **53✓**.
 
 Letter grades are assigned based on how many **✓** are earned by a student.
 
@@ -70,25 +55,17 @@ Letter grades are assigned based on how many **✓** are earned by a student.
 * **C**: **36✓**.
 * **D**: **30✓**.
 
-An unofficial grade of **A+** will be awarded to students who earn **53✓**.
-The university does not maintain records of grades higher than **A**, but
-the instructor will use this data if asked (e.g.) for a written
-recommendation.
-
 ## Textbook and Resources
 
 Much of the material for this course will be provided on this website.
 Homework will be recommended from *Linear Algebra with Applications (2nd ed)*
-by Jeffrey Holt, but students may choose to complete homework from
-other sources instead (the first edition, another textbook, the internet,
-old quizzes, etc.).
+by Jeffrey Holt, but students are encouraged to focus their studies on
+the exercises given by the instructor on quizzes.
 
-All students are highly encouraged to acquire a calculator that supports
-matrix manipulations (row reduction, multiplication, etc.). There are
-several cheap/free smart device apps that can provide this functionality
-while studying, but unfortunately only a dedicated calculator without
-communication functionality and without internet connectivity may be
-used during assessments.
+All students are **highly encouraged** to acquire a calculator that supports
+matrix manipulations: particularly row reduction on matrices up to \\(6\times 6\\)
+in size. Any calculator is allowed, as long as it does not support communication
+functionality or internet connectivity.
 
 ## Teams
 
@@ -96,6 +73,18 @@ Teams will be organized near the beginning of the semester. Most
 class activities will be done within teams, allowing students to master the
 course standards in an environment where they may discuss topics and ask
 questions freely with their peers and the instructor.
+
+## Active/Inactive Students
+
+By default all students are considered Active in the course. However,
+students that fail to sufficiently participate in the course 
+(as described below) will be designated as Inactive. Inactive students
+lose certain privileges (as desecribed below).
+
+Students may be returned
+to Active status by making an appointment and meeting with the instructor
+and discuss the issues that caused the student to fall into Inactive status.
+Return to Active status is at the discretion of the instructor.
 
 ## Class Activities
 
@@ -108,9 +97,12 @@ teams, with the support of the instructor as needed.
 Slides describing **Activities** should be completed by each team on the
 provided whiteboard. All details must be shown on the whiteboard (not on
 personal notes or scratch paper), and the Activity's number should also
-be marked. Each completed activity will be photographed and uploaded to a
-Google Drive folder provided by the instructor, to serve as notes for that
+be marked. Each completed activity must be photographed and uploaded to 
+Google Drive team folder provided by the instructor, to serve as notes for that
 team (including students that were absent that day).
+
+Students that fail to make an honest effort to complete Activities
+and record solutions to Google Drive will become Inactive.
 
 ## Readiness Assurance
 
@@ -119,6 +111,9 @@ for review. Readiness for that module will be assessed on a Readiness
 Assurance Test, first individually (iRAT), and then as a team (tRAT).
 High scores reflect sufficient preparedness for the module, while low
 scores demonstrate a need for further review.
+
+Students that earn below a 70% average on the iRAT and tRAT will
+become Inactive.
 
 ## Mastery Quizzes
 

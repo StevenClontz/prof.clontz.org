@@ -64,7 +64,7 @@ At the end of the course, each student should be able to...
     describe the row reduction of a matrix as matrix multiplication.
 - Module G: Geometric Properties of Linear Maps
   - **G1:**
-    demonstrate how a row operation affects the determinant of a matrix.
+    describe how a row operation affects the determinant of a matrix.
   - **G2:**
     compute the determinant of a \\(4\times 4\\) matrix.
   - **G3:**
