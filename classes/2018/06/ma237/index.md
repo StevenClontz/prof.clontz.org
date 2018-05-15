@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "WORK IN PROGRESS MA 237"
+title: "MA 237"
 description: "Linear Algebra - 2018 Summer"
 ---
 
@@ -8,7 +8,6 @@ description: "Linear Algebra - 2018 Summer"
 
 - [Standards][standards]
 - [Calendar][calendar]
-- [CoCalc.com](http://cocalc.com)
 - [Sample Exercises](pdf/sample-exercises.pdf)
 - Forms:
     - [Revision (**✱**)][revision-form]
@@ -48,43 +47,45 @@ earn a **Mastery Mark ✓**. Up to two **✓** per Standard will be awarded,
 plus an additional **3✓** for **Theory/Appliation (TA) Exercises**,
 for a total of **53✓**.
 
-Letter grades are assigned based on how many **✓** are earned by a student.
+Letter grades are assigned based on how much content was learned
+by each student, measured by how many **✓** were earned.
 
-* **A**: **48✓**.
-* **B**: **42✓**.
-* **C**: **36✓**.
-* **D**: **30✓**.
+* **A**: **48✓**
+* **B**: **42✓**
+* **C**: **36✓**
+* **D**: **30✓**
 
 ## Textbook and Resources
 
 Much of the material for this course will be provided on this website.
-Homework will be recommended from *Linear Algebra with Applications (2nd ed)*
+Optional homework will be referenced from 
+*Linear Algebra with Applications (2nd ed)*
 by Jeffrey Holt, but students are encouraged to focus their studies on
-the exercises given by the instructor on quizzes.
+the activities studied in class and the exercises given on quizzes.
 
-All students are **highly encouraged** to acquire a calculator that supports
+All students are **highly encouraged to acquire a calculator** that supports
 matrix manipulations: particularly row reduction on matrices up to \\(6\times 6\\)
 in size. Any calculator is allowed, as long as it does not support communication
 functionality or internet connectivity.
 
 ## Teams
 
-Teams will be organized near the beginning of the semester. Most
+**Teams** will be organized near the beginning of the semester. Most
 class activities will be done within teams, allowing students to master the
 course standards in an environment where they may discuss topics and ask
 questions freely with their peers and the instructor.
 
 ## Active/Inactive Students
 
-By default all students are considered Active in the course. However,
+By default all students are considered **Active** in the course. However,
 students that fail to sufficiently participate in the course 
-(as described below) will be designated as Inactive. Inactive students
+(as described below) will be designated as **Inactive**. Inactive students
 lose certain privileges (as desecribed below).
 
 Students may be returned
 to Active status by making an appointment and meeting with the instructor
 and discuss the issues that caused the student to fall into Inactive status.
-Return to Active status is at the discretion of the instructor.
+Reinstatement of Active status is at the discretion of the instructor.
 
 ## Class Activities
 
@@ -101,43 +102,66 @@ be marked. Each completed activity must be photographed and uploaded to
 Google Drive team folder provided by the instructor, to serve as notes for that
 team (including students that were absent that day).
 
-Students that fail to make an honest effort to complete Activities
-and record solutions to Google Drive will become Inactive.
+Students that attend class but refuse to participate in completing Activities
+on the whiteboard or refuse to document solutions to Google Drive will 
+become Inactive.
 
 ## Readiness Assurance
 
 Before each module of the course, students are given a list of materials
-for review. Readiness for that module will be assessed on a Readiness
-Assurance Test, first individually (iRAT), and then as a team (tRAT).
+for review. Readiness for that module will be assessed on a **Readiness
+Assurance Test**, first individually (iRAT), and then as a team (tRAT).
 High scores reflect sufficient preparedness for the module, while low
 scores demonstrate a need for further review.
 
-Students that earn below a 70% average on the iRAT and tRAT will
+Students that earn below a 70% average on an iRAT and tRAT will
 become Inactive.
+
+## Attendance
+
+Attendance will be taken daily.
+Generally, only absences that have been previously approved by the
+instructor or that are related to a medical issue (with accompanying
+documentation from a medical professional) will be considered excused.
+
+Students that accumulate two consecutive unexcused absences will become
+Inactive.
+
+## Peer Evaluation Survey
+
+Students will be asked to complete a Peer Evaluation Survey occasionally
+during the semester to evaluate their teammates. Students that receive
+excessive negative feedback will become Inactive.
 
 ## Mastery Quizzes
 
-Beginning with the second Friday of classes, each Friday is set aside
-for a weekly **Mastery Quiz**. Every student will receive a personalized
-quiz generated based on their most recent progress report. This generated
-quiz will include one exercise for every course Standard covered in class
-for which the student can earn a **✓** by demonstrating mastery.
+As scheduled on the class [Calendar][calendar],
+Active students will be asked to complete 25-minute **Mastery Quizzes**.
+Each standard covered in class will appear on the next two scheduled
+Mastery Quizzes. In addition, Active students will
+be offered several 55-minute **Comprehensive Mastery Quizzes**
+that include exercises for every standard covered
+in the class so far, with a limit to the number of solutions that
+may be submitted.
 All submissions are due by the end of the class period.
+Inactive students may take the quiz for practice, but their
+solutions may not be submitted.
 
-When possible, the full class period will be set aside for these quizzes.
-However, up to 25 minutes of Friday classes may be used to wrap up coverage
-of material, leaving at least 25 minutes for the Mastery Quiz.
+Quizzes are randomized for each student based upon the most recent
+progress report; standards that have already been completely mastered
+by a student will not appear on the personalized quiz.
+
 
 ### Marking Quizzes
 
 Each submitted solution will be marked as follows:
 
-* **✓** ("checkmark" or "mastery" mark):
+* **Mastery Mark ✓**:
   The solution demonstrates complete mastery of the given standard.
-* **✱** ("star" or "revision" mark):
+* **Revision Mark ✱**:
   The solution might demonstrate complete mastery of the given standard,
   but needs to be revised for clarity/accuracy.
-* **⚠** ("caution" or "issues" mark):
+* **Issues Mark ⚠**:
   The solution demonstrates partial understanding of the given standard,
   but has one or more issues that suggest that further study is required to
   develop complete mastery.
@@ -147,135 +171,92 @@ Each submitted solution will be marked as follows:
 
 Only **✓** contribute to improving a student's letter grade for the course;
 all other accumulated marks will be ignored at the end of the semester.
+So, a student who earns 42 **✓** and 3 **✘** throughout the semester
+will earn the same grade
+as a student who earns 42 **✓** and 300 **✘**.
 
 ### Revising Solutions
 
 A student may improve a solution marked as **✱** to **✓** by completing a
 [Revision Form][revision-form] outside of class and submitting it on
-the upcoming Friday as one of
-their ten Mastery Quiz submissions. This submission will be marked
-as usual, but the student may not also attempt the exercise for the matching
-standard on the Mastery Quiz.
+the date of the next assessment. 
+A student submitting a Revision Form must skip the corresponding exercise
+on that assessment, if applicable.
 
-### Appealing Marks
+This submission will be marked as usual, possibly earning another **✱**
+that the student should revise further. (Usually at most two revisions
+will be allowed per exercise.)
 
-In the rare case of a solution erroneously marked as **⚠**
-or **✘** rather than **✱**, the affected student
-may complete an [Appeal Form][appeal-form] outside of class and
-submitting it on the upcoming Friday as one of their ten Mastery Quiz
-submissions.
-If the reason for the appeal is accepted, this submission will be marked
-as usual; otherwise the submission will not be marked.
-The student may not also attempt the exercise for the matching
-standard on the Mastery Quiz.
+## Office Reassessments
 
-In the extremely rare case of a solution erroneously marked as **✱/⚠/✘**
-rather than **✓**, the student may simply
-show the solution to the instructor; if no
-mistakes can be found in the original submission, the **✓** will be
-awarded automatically.
-
-### Office Reassessments
-
-During Wednesday office hours, each student may submit up to
-two [Office Reassessment Forms][office-form]. Students that satisfactorily
+During office hours, Active students may submit up to
+three [Office Forms][office-form]. 
+Students that satisfactorily
 meet the requirements given on this form will be given the opportunity
-to solve a new exercise that will be immediately marked as
-usual. A student receiving a **✓** in this way may
-not also attempt the same standard on that week's Mastery Quiz.
+to solve a new exercise on the instructor's whiteboard
+that will be immediately marked. 
+A student receiving a **✓** in this way must skip the corresponding
+exercise on the upcoming assessment, if applicable. 
 
-Unless an exception is granted by the instructor,
-this privilege is not offered on any other day, but students are encouraged
-to meet with the instructor during Monday office hours to discuss
-course content.
+Note that availability for this opportunity may be limited due to
+student demand, particularly later in the semester.
 
-### Theory/Application Questions
+## Makeup Quiz
 
-During each Mastery Quiz, each student will have the opportunity to solve a
-**Theory/Application Exercise** to demonstrate how to apply the course material
-to solve new problems, and is marked similarly to other exercises:
+Students that miss one or more quizzes due to an excusable
+absence will be allowed to complete a **Makeup Quiz** in place
+of a scheduled **Mastery Quiz** near the end of the semester.
+The Makeup Quiz is the same format as a Comprehensive Mastery Quiz,
+except that the number of exercises that may be attempted is based
+upon how many quizzes were missed due to excusable absences.
 
-* **✓**:
-  The solution demonstrates complete mastery of how to apply course
-  concepts to the given exercise.
-* **✱**:
-  The solution demonstrates partial understanding of how to apply course
-  concepts to the given exercise, but needs to be revised to demonstrate
-  mastery.
-* **⚠**:
-  The solution references some of the relevant concepts covered in class, but
-  does not demonstrate satisfactory understanding of how to apply them
-  to solve the given exercise.
-* **✘**:
-  The solution demonstrates negligible understanding of the
-  relevant concepts covered in class or how to apply them to
-  the given exercise.
+## Semifinal and Final Exam
 
-These may be similarly revised and appealed as other solutions, but
-cannot be attempted in office hours.
+The **Semifinal** is the same format as a Comprehensive Mastery
+Quiz, except that **✱** marks may not be revised, there is no
+limit to the number of exercises that may be attempted, 
+and Inactive students are allowed to submit solutions.
 
-## Final Exam
+The **Final Exam** is the same format as the Semifinal,
+except that students will have 120 minutes.
 
-The **Final Exam** has the exact same structure as the Mastery Quizzes, with
-the following exceptions:
+Up to five **✱** marks earned on the Semifinal and Final Exam
+(total, not each) will be automatically upgraded to **✓**.
 
-* Students have 120 minutes.
-* Two Theory/Application Exercises are available. Students may submit
-  solutions for both.
-* Solutions from the last Mastery Quiz marked as **✱** are returned for
-  revision during the exam; they must be revised during the exam period.
-  Other solutions from the last Mastery Quiz may not be appealed.
-* Up to five **✱** (including at most one Theory/Application **✱**)
-  will be automatically improved to **✓**. Further **✱** marks cannot
-  be improved.
+In particular, solving exercises on the Semifinal and Final Exam has
+the same benefit as solving exercises on quizzes. 
 
-## Makeup Policy
+## Theory/Application Exercises 
 
-Since any missed exercises may be completely made up on future assessments,
-make-up Mastery Quizzes are not available. However, a student may request for
-additional time and responses on the Final Exam if they can
-demonstrate that their progress has been limited by multiple excusable
-absences throughout the semester. Documentation from a medical
-professional or university official asking the instructor to excuse an
-absence is usually required for this purpose.
+Students that have completely mastered most of the standards covered
+so far in class are invited to make an appointment to meet with the 
+instructor to work a **Theory/Application Exercise**
+demonstrating how to apply the course material
+to solve new problems.
 
-## Data Collection
-
-The instructor may also collect the following data to evaluate student
-participation and the effectiveness of the course.
-
-- Attendance
-- iRAT/tRAT results
-- Quality of team responses to class activities uploaded to Google Drive
-- Peer evaluation survey feedback
-- Variance of student performance within each team
-- Collegiality of student interactions during class
-
-This data will not be directly used in assigning letter grades for the
-course, but students who have good attendance, score well on readiness
-tests, get long with their peers, and so on tend to do well in the course
-anyway. This data will also be used by the instructor if (e.g.)
-a written recommendation is requested by a student.
-
-Note also that purposeful negligence with regards to the above
-(except attendance) will be treated as disruptive academic behavior
-and will be addressed as such.
-(Refer to [USA's Course Policies][usa-course-policies] for more details.)
+All students will be given the opportunity
+to work TA exercises during the Semifinal and
+the Final Exam, based upon the applications covered during
+the final days of the course.
 
 ## Academic Honesty
 
 Academic Honesty is defined in
 [USA's Student Academic Conduct Policy][usa-academic-conduct].
 Any student who is caught
-cheating will immediately lose credit for all earned **✓**, either for
-the relevant standard(s) or the whole semester as appropriate. In addition,
-the incident will be reported to the university, and the student may be
-required to take future assessments during office hours.
+cheating will immediately lose credit for all earned **✓**
+throughout the entire semester and will only be allowed to earn future
+**✓** on Comprehensive Mastery Quizzes, the Semifinal, and the Final Exam,
+which must be done by appointment in the instructor's office. In addition,
+the incident will be reported to the university.
+
+Any student who is caught cheating twice will automatically receive
+an F letter grade for the course.
 
 ## USAOnline and USA Course Policies
 
 The official syllabus for this course is available on
-[USAOnline][usaonline]. Grade data will be provided to students via weekly
+[USAOnline][usaonline]. Grade data will be provided to students via regular 
 printed progress reports.
 
 [USA's Course Policies][usa-course-policies] apply to this course.

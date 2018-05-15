@@ -104,7 +104,7 @@ description: "Linear Algebra - 2018 Spring"
   - Section G.2
 - **Fri, Jul 13**
   - Mastery Quiz
-  - Reflection
+  - Makeup Quiz
 
 ### Week 8
 
@@ -118,7 +118,7 @@ description: "Linear Algebra - 2018 Spring"
 - **Thu, Jul 19**
   - Application
 - **Fri, Jul 20**
-  - Comprehensive Mastery Quiz
+  - Semifinal 
 
 ### Week 9
 
