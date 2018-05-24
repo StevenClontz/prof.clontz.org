@@ -1,12 +1,13 @@
 ---
 layout: page
-title: "WORK IN PROGRESS MA 125"
+title: "MA 125"
 description: "Calculus I - 2018 Summer"
 ---
 
 ## Quick Links
 
 * [MyLab Math](http://www.pearsonmylabandmastering.com/)
+  * [Student Registration Instructions](https://portal.mypearson.com/course-home/handout/clontz72597/Student_Registration_Handout_clontz72597.pdf)
 
 ---
 
@@ -119,14 +120,13 @@ solutions will mark the corresponding Objective as unmastered.
 Quizzes may be retaken as often as desired to retry unmastered Objectives,
 but be warned that mastered Objectives may be taken away if answered incorrectly.
 
-Each mastered Objective is worth one Mastery Point in the Study Plan,
-for a total of ?? Mastery Points for the whole semester. The Study Plan
-is worth the percentage of Mastery Points earned out of ??.
+Each mastered Objective is worth one Mastery Point in the Study Plan. 
+The Study Plan is worth the percentage of Mastery Points earned out of the maximum possible.
 
 Inactive students will be locked out from working on MyLab Math quizzes until
 they return to Active status.
 
-The last day to work on the Study Plan is the last day of classes:
+The last day to work on quizzes to improve the Study Plan is the last day of classes:
 Monday, July 23.
 
 ## Review Days
