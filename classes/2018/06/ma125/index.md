@@ -8,6 +8,7 @@ description: "Calculus I - 2018 Summer"
 
 * [MyLab Math](http://www.pearsonmylabandmastering.com/)
   * [Student Registration Instructions](https://portal.mypearson.com/course-home/handout/clontz72597/Student_Registration_Handout_clontz72597.pdf)
+* [Calendar](calendar/)
 
 ---
 
@@ -56,38 +57,48 @@ assessments.
 
 Grades in this course are determined primarily based upon your mastery of the
 course material. Throughout the semester, students will complete a
-Study Plan in MyLab Math that reflects their learning of the material,
-worth 85% of their grade. The remaining 15% will be based upon the Final
-Exam. Letter grades will be assigned as follows:
+**Study Plan** in MyLab Math that reflects their learning of the material,
+worth **85%** of their grade. The remaining **15%** will be based upon the 
+**Final Exam**. Letter grades will be assigned on the usual 10-point scale.
 
-* **A**: **90%** or greater
-* **B**: **80%** or greater
-* **C**: **70%** or greater
-* **D**: **60%** or greater
+In summary:
+
+* Weight of assessments
+    * **Study Plan: 85%**
+    * **Final Exam: 15%**
+* Letter grade assignments
+    * **A: 90%** or greater
+    * **B: 80%** or greater
+    * **C: 70%** or greater
+    * **D: 60%** or greater
 
 ## Active/Inactive Students
 
 By default all students are considered **Active** in the course. However,
 students that fail to sufficiently participate in the course 
 (as described below) will be designated as **Inactive**. Inactive students
-will lose certain privileges (as described below).
+will be blocked from making progress on their Study Plan until
+they return to Active status.
 
 Students may be returned
 to Active status by making an appointment and meeting with the instructor
-and discuss the issues that caused the student to fall into Inactive status.
+and discuss the issues that caused the student to fall into Inactive status,
+and come to an agreement on how to correct these issues.
 Reinstatement of Active status is at the discretion of the instructor.
 
 ## Class Activities
 
 On a typical day of class,
 students will be seated at a table with a computer station and whiteboard.
-The instructor will explain the new topics for the day. Remaining time in the
-class will be spent by students working example problems in teams at their
-whiteboards.
+The instructor will lecture on the material as briefly as possible,
+and the remaining time in the
+class will be spent by students working example problems in small groups
+at their whiteboards.
 
 Students that are tardy will be counted as absent.
 Students that do not participate in working examples
-on the whiteboard will be counted as absent.
+on the whiteboard when asked to do so in small groups
+will be counted as absent.
 
 ## Attendance
 
@@ -107,8 +118,8 @@ absences have been accumulated.
 
 In MyLab Math, each student will complete an individualized Study Plan
 that reflects their progress through the course material. Each section
-of the textbook covered in class is associated with up to four Objectives,
-each worth one Mastery Point (MP). Each Objective may be practiced by
+of the textbook covered in class is associated with up to five (usually four)
+Objectives, each worth one Mastery Point. Each Objective may be practiced by
 using the Practice button in the Study Plan.
 
 Each section is also associated with a Quiz (available under Assignments).

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "MA 237 Calendar"
-description: "Linear Algebra - 2018 Spring"
+title: "MA 125 Calendar"
+description: "Calculus I - 2018 Spring"
 ---
 
 ### Week 1
@@ -10,120 +10,107 @@ description: "Linear Algebra - 2018 Spring"
     - *Memorial Day holiday - no class*
 - **Tue, May 29**
     - *First day of classes*
-    - Orientation
 - **Wed, May 30**
-    - Module E iRAT/tRAT
-    - Section E.0
+    - Section 1.3
 - **Thu, May 31**
-    - Section E.1
+    - Section 1.5
 - **Fri, Jun 01**
-    - Section E.2
+    - Math Technlogy Lab Orienation in ASC 1301
 
 ### Week 2
 
 - **Mon, Jun 04**
-  - Mastery Quiz
-  - Reflection
+    - Section 2.2
 - **Tue, Jun 05**
-  - Module V iRAT/tRAT
-  - Section V.0
+    - Section 2.3
 - **Wed, Jun 06**
-  - Section V.1
+    - Section 2.4
 - **Thu, Jun 07**
-  - Section V.2
+    - Section 2.5
 - **Fri, Jun 08**
-  - Mastery Quiz
-  - Reflection
+    - Review Day
 
 ### Week 3
 
 - **Mon, Jun 11**
-  - Section V.3
+    - Section 2.6
 - **Tue, Jun 12**
-  - Mastery Quiz
-  - Reflection
+    - Section 3.1
 - **Wed, Jun 13**
-  - Section V.4
+    - Seciton 3.2
 - **Thu, Jun 14**
-  - Section V.5
+    - Section 3.3
 - **Fri, Jun 15**
-  - Comprehensive Mastery Quiz
+    - Review Day
 
 ### Week 4
 
 - **Mon, Jun 18**
-  - Section V.6
+    - Section 3.4
 - **Tue, Jun 19**
-  - Section V.7
+    - Section 3.5
 - **Wed, Jun 20**
-  - Mastery Quiz
-  - Module A iRAT/tRAT
+    - Section 3.6
 - **Thu, Jun 21**
-  - Section A.1
+    - Section 3.7
 - **Fri, Jun 22**
-  - Section A.2
+    - Review Day
 
 ### Week 5
 
 - **Mon, Jun 25**
-  - Mastery Quiz
-  - Reflection
+    - Section 3.8
 - **Tue, Jun 26**
-  - Section A.3
+    - Section 3.9
 - **Wed, Jun 27**
-  - Section A.4
+    - Section 3.10
 - **Thu, Jun 28**
-  - Mastery Quiz
-  - Reflection
+    - Section 3.11
 - **Fri, Jun 29**
-  - Module M iRAT/tRAT
+    - Review Day
 
 ### Week 6
 
 - **Mon, Jul 02**
-  - Section M.1
+    - Section 4.1
 - **Tue, Jul 03**
-  - Section M.2
+    - Section 4.2
 - **Wed, Jul 04**
   - *Independence Day holiday - no class*
 - **Thu, Jul 05**
-  - Section M.3
+    - Section 4.3
 - **Fri, Jul 06**
-  - Comprehensive Mastery Quiz
+    - Review Day
 
 ### Week 7
 
 - **Mon, Jul 09**
-  - Module G iRAT/tRAT
+    - Section 4.4
 - **Tue, Jul 10**
-  - Mastery Quiz
-  - Reflection
+    - Section 4.5
 - **Wed, Jul 11**
-  - Section G.1
+    - Section 4.6
 - **Thu, Jul 12**
-  - Section G.2
+    - Section 4.8
 - **Fri, Jul 13**
-  - Mastery Quiz
-  - Makeup Quiz
+    - Review Day
 
 ### Week 8
 
 - **Mon, Jul 16**
-  - Section G.3
+    - Section 5.1
 - **Tue, Jul 17**
-  - Mastery Quiz
-  - Reflection
+    - Section 5.2
 - **Wed, Jul 18**
-  - Application
+    - Section 5.3
 - **Thu, Jul 19**
-  - Application
+    - Section 5.4
 - **Fri, Jul 20**
-  - Semifinal 
+    - Review Day
 
 ### Week 9
 
 - **Mon, Jul 23**
-  - *Last day of classes*
-  - Review
-- **Wed, Jul 25**
-  - *FINAL EXAM: 8am-10am*
+    - Review Day
+- **Tue, Jul 24**
+    - *FINAL EXAM: 3:30pm-5:30pm*
