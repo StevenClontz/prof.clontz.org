@@ -130,6 +130,8 @@ correctly will mark the corresponding Objective as mastered; incorrect
 solutions will mark the corresponding Objective as unmastered.
 Quizzes may be retaken as often as desired to retry unmastered Objectives,
 but be warned that mastered Objectives may be taken away if answered incorrectly.
+Only the lab-provided calculator and scratch paper may be used
+during a quiz.
 
 Each mastered Objective is worth one Mastery Point in the Study Plan. 
 The Study Plan is worth the percentage of Mastery Points earned out of the maximum possible.
