@@ -59,9 +59,10 @@ by each student, measured by how many **✓** were earned.
 
 Much of the material for this course will be provided on this website.
 Optional homework will be referenced from 
-*Linear Algebra with Applications (2nd ed)*
-by Jeffrey Holt, but students are encouraged to focus their studies on
-the activities studied in class and the exercises given on quizzes.
+*Linear Algebra with Applications (2nd ed)* by Jeffrey Holt and
+*Elementary Linear Algebra with Applications (9th ed)* by Kolman/Hill, 
+but students are encouraged to focus their studies on
+the materials on the class website.
 
 All students are **highly encouraged to acquire a calculator** that supports
 matrix manipulations: particularly row reduction on matrices up to \\(6\times 6\\)
@@ -189,8 +190,8 @@ will be allowed per exercise.)
 
 ## Office Reassessments
 
-During office hours, Active students may submit up to
-three [Office Forms][office-form]. 
+During office hours each week, Active students may submit a limited
+number of [Office Forms][office-form]. 
 Students that satisfactorily
 meet the requirements given on this form will be given the opportunity
 to solve a new exercise on the instructor's whiteboard
