@@ -8,7 +8,10 @@ description: "Linear Algebra - 2018 Summer"
 
 - [Standards][standards]
 - [Calendar][calendar]
-- [Sample Exercises][exercises]
+- Exercises/Homework
+   - [Sample Exercises with solutions][exercises]
+   - [Suggested HW from Holt text][hw-holt]
+   - [Suggested HW from Kolman/Hill text][hw-kolman-hill]
 - [Slides][slides]
 - Forms:
     - [Revision (**✱**)][revision-form]
@@ -59,7 +62,7 @@ but students are encouraged to focus their studies on
 the materials on the class website.
 
 All students are **highly encouraged to acquire a calculator** that supports
-matrix manipulations: particularly row reduction on matrices up to \\(6\times 6\\)
+matrix manipulations: particularly row reduction on matri7ces up to \\(6\times 6\\)
 in size. Any calculator is allowed, as long as it does not support communication
 functionality or internet connectivity.
 
@@ -270,6 +273,9 @@ printed progress reports.
 [slides]: pdf/course-slides.pdf
 
 [exercises]: pdf/sample-exercises.pdf
+[hw-kolman-hill]: pdf/homework-kolman-hill.pdf
+[hw-holt]: pdf/homework-holt.pdf
+
 
 [revision-form]: pdf/revision-form.pdf
 [office-form]: pdf/office-form.pdf
