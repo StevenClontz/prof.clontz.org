@@ -12,10 +12,12 @@ description: "Linear Algebra - 2018 Summer"
    - [Sample Exercises with solutions][exercises]
    - [Suggested HW from Holt text][hw-holt]
    - [Suggested HW from Kolman/Hill text][hw-kolman-hill]
-- [Slides][slides]
+- Videos
+   - [E2 - Finding RREF](https://youtu.be/Cq0Nxk2dhhU)
 - Forms:
     - [Revision (**✱**)][revision-form]
     - [Office][office-form]
+- [Slides][slides]
 
 ---
 
