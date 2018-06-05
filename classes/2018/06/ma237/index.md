@@ -15,8 +15,8 @@ description: "Linear Algebra - 2018 Summer"
 - Videos
    - [E2 - Finding RREF](https://youtu.be/Cq0Nxk2dhhU)
 - Forms:
-    - [Revision (**✱**)][revision-form]
-    - [Office][office-form]
+    - [Revision (**✱**)](#)
+    - [Office](#)
 - [Slides][slides]
 
 ---
