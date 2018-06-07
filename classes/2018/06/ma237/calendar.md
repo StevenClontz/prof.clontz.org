@@ -22,7 +22,7 @@ description: "Linear Algebra - 2018 Spring"
 ### Week 2
 
 - **Mon, Jun 04**
-  - Mastery Quiz
+  - Mastery Quiz [E1-E3]
   - Reflection
 - **Tue, Jun 05**
   - Module V iRAT/tRAT
@@ -32,7 +32,7 @@ description: "Linear Algebra - 2018 Spring"
 - **Thu, Jun 07**
   - Section V.2
 - **Fri, Jun 08**
-  - Mastery Quiz
+  - Mastery Quiz [E1-V2]
   - Reflection
 
 ### Week 3
@@ -40,14 +40,14 @@ description: "Linear Algebra - 2018 Spring"
 - **Mon, Jun 11**
   - Section V.3
 - **Tue, Jun 12**
-  - Mastery Quiz
+  - Mastery Quiz [E1-V3]
   - Reflection
 - **Wed, Jun 13**
   - Section V.4
 - **Thu, Jun 14**
   - Section V.5
 - **Fri, Jun 15**
-  - Comprehensive Mastery Quiz
+  - Comprehensive Mastery Quiz [E1-V5]
 
 ### Week 4
 
@@ -56,7 +56,7 @@ description: "Linear Algebra - 2018 Spring"
 - **Tue, Jun 19**
   - Section V.7
 - **Wed, Jun 20**
-  - Mastery Quiz
+  - Mastery Quiz [V1-V10]
   - Module A iRAT/tRAT
 - **Thu, Jun 21**
   - Section A.1
@@ -66,14 +66,14 @@ description: "Linear Algebra - 2018 Spring"
 ### Week 5
 
 - **Mon, Jun 25**
-  - Mastery Quiz
+  - Mastery Quiz [V3-??]
   - Reflection
 - **Tue, Jun 26**
   - Section A.3
 - **Wed, Jun 27**
   - Section A.4
 - **Thu, Jun 28**
-  - Mastery Quiz
+  - Mastery Quiz [V4-??]
   - Reflection
 - **Fri, Jun 29**
   - Module M iRAT/tRAT
@@ -89,7 +89,7 @@ description: "Linear Algebra - 2018 Spring"
 - **Thu, Jul 05**
   - Section M.3
 - **Fri, Jul 06**
-  - Comprehensive Mastery Quiz
+  - Comprehensive Mastery Quiz [E1-??]
 
 ### Week 7
 
