@@ -1,6 +1,6 @@
 \documentclass[12pt]{article}
 
-\usepackage[letterpaper,margin=0.5in]{geometry}
+\usepackage[letterpaper,margin=1in]{geometry}
 
 \setlength{\parindent}{0pt}
 
@@ -27,13 +27,27 @@
 
 \newcommand{\issuesMark}{{\fontencoding{U}\fontfamily{futs}\selectfont\char 66\relax}}
 
+\newcommand{\response}{
+\begin{tikzpicture}[x=1in,y=0.7in]
+  \draw[color=black!50] (0,0) rectangle (6.4,1);
+  \draw[color=black!50] (1,0) -- (1,1);
+  \draw[color=black!50] (3.2,0) -- (3.2,1);
+  \draw[color=black!50] (5.4,0) -- (5.4,1);
 
+  \node[anchor=north west,color=black!70] at (0,0.95) {\footnotesize Standard:};
+  \node[anchor=north west,color=black!70] at (1,0.95) {\footnotesize Mastery Quiz:};
+  \node[anchor=north west,color=black!70] at (3.2,0.95) {\footnotesize Exercise Version:};
+  \node[anchor=north west,color=black!70] at (5.4,0.95) {\footnotesize Mark:};
+\end{tikzpicture}
+
+\vfill
+}
 
 
 \begin{document}
 
 \begin{center}
-\begin{tikzpicture}[x=1in,y=1in]
+\begin{tikzpicture}[x=1in,y=0.7in]
   \draw[color=black!20] (0,0) rectangle (4.5,1);
   \draw[color=black!20] (0,0.5) -- (4.5,0.5);
   \draw[color=black!20] (3,0) -- (3,0.5);
@@ -44,47 +58,19 @@
 
   \node at (5.5,0.5) {Answer Sheet};
 \end{tikzpicture}
+\end{center}
 
 \vspace{1em}
 
-\begin{tikzpicture}[x=1in,y=1in]
-  \draw[color=black!50] (0,0) rectangle (6.4,1);
-  \draw[color=black!50] (1,0) -- (1,1);
-  \draw[color=black!50] (3.2,0) -- (3.2,1);
-  \draw[color=black!50] (5.4,0) -- (5.4,1);
+\response
 
-  \node[anchor=north west,color=black!70] at (0,0.95) {\footnotesize Standard:};
-  \node[anchor=north west,color=black!70] at (1,0.95) {\footnotesize Mastery Quiz:};
-  \node[anchor=north west,color=black!70] at (3.2,0.95) {\footnotesize Exercise Version:};
-  \node[anchor=north west,color=black!70] at (5.4,0.95) {\footnotesize Mark:};
-\end{tikzpicture}
+\response
 
 \newpage
 
-\begin{tikzpicture}[x=1in,y=1in]
-  \draw[color=black!20] (0,0) rectangle (4.5,1);
-  \draw[color=black!20] (0,0.5) -- (4.5,0.5);
-  \draw[color=black!20] (3,0) -- (3,0.5);
 
-  \node[anchor=west] at (0.1,0.75) {Name:};
-  \node[anchor=west] at (0.1,0.25) {J\#:};
-  \node[anchor=west] at (3.1,0.25) {Team:};
+\response
 
-  \node at (5.5,0.5) {Answer Sheet};
-\end{tikzpicture}
+\response
 
-\vspace{1em}
-
-\begin{tikzpicture}[x=1in,y=1in]
-  \draw[color=black!50] (0,0) rectangle (6.4,1);
-  \draw[color=black!50] (1,0) -- (1,1);
-  \draw[color=black!50] (3.2,0) -- (3.2,1);
-  \draw[color=black!50] (5.4,0) -- (5.4,1);
-
-  \node[anchor=north west,color=black!70] at (0,0.95) {\footnotesize Standard:};
-  \node[anchor=north west,color=black!70] at (1,0.95) {\footnotesize Mastery Quiz:};
-  \node[anchor=north west,color=black!70] at (3.2,0.95) {\footnotesize Exercise Version:};
-  \node[anchor=north west,color=black!70] at (5.4,0.95) {\footnotesize Mark:};
-\end{tikzpicture}
-\end{center}
 \end{document}
