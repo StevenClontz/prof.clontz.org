@@ -7,7 +7,6 @@ description: "Linear Algebra - 2018 Summer"
 #### Quick Links
 
 - [Standards][standards]
-- [Google Drive Instructions](drive/)
 - [Calendar][calendar]
 - Exercises/Homework
    - [Sample Exercises with solutions][exercises]
@@ -19,6 +18,8 @@ description: "Linear Algebra - 2018 Summer"
     - [Revision (**✱**)][revision-form]
     - [Office][office-form]
 - [Slides][slides]
+- [Google Drive](drive/)
+- [Gradescope](https://gradescope.com)
 
 ---
 
