@@ -56,7 +56,7 @@ description: "Linear Algebra - 2018 Spring"
 - **Tue, Jun 19**
   - Section V.7
 - **Wed, Jun 20**
-  - Mastery Quiz [V1-V10]
+  - Mastery Quiz [V3-V10]
   - Module A iRAT/tRAT
 - **Thu, Jun 21**
   - Section A.1
@@ -66,14 +66,14 @@ description: "Linear Algebra - 2018 Spring"
 ### Week 5
 
 - **Mon, Jun 25**
-  - Mastery Quiz [V3-??]
+  - Mastery Quiz [V4-??]
   - Reflection
 - **Tue, Jun 26**
   - Section A.3
 - **Wed, Jun 27**
   - Section A.4
 - **Thu, Jun 28**
-  - Mastery Quiz [V4-??]
+  - Mastery Quiz [V6-??]
   - Reflection
 - **Fri, Jun 29**
   - Module M iRAT/tRAT
