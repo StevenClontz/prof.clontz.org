@@ -20,24 +20,24 @@ description: "Calculus I - 2018 Spring"
 ### Week 2
 
 - **Mon, Jun 04**
-    - Section 2.2
+    - Section 1.6
 - **Tue, Jun 05**
-    - Section 2.3
+    - Section 2.2
 - **Wed, Jun 06**
-    - Section 2.4
+    - Section 2.3
 - **Thu, Jun 07**
-    - Section 2.5
+    - Section 2.4
 - **Fri, Jun 08**
     - Review Day
 
 ### Week 3
 
 - **Mon, Jun 11**
-    - Section 2.6
+    - Section 2.5
 - **Tue, Jun 12**
-    - Section 3.1
+    - Section 2.6
 - **Wed, Jun 13**
-    - Seciton 3.2
+    - Seciton 3.1/3.2
 - **Thu, Jun 14**
     - Section 3.3
 - **Fri, Jun 15**
