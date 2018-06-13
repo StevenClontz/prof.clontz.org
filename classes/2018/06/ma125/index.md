@@ -69,13 +69,13 @@ In summary:
     * **Final Exam: 15%**
 * Letter grade assignments
     * **A: 90%** or greater
-        * Midsemester goal: 36/40 MP
+        * Midsemester goal: 36 MP
     * **B: 80%** or greater
-        * Midsemester goal: 32/40 MP
+        * Midsemester goal: 32 MP
     * **C: 70%** or greater
-        * Midsemester goal: 28/40 MP
+        * Midsemester goal: 28 MP
     * **D: 60%** or greater
-        * Midsemester goal: 24/40 MP
+        * Midsemester goal: 24 MP
 
 ## Active/Inactive Students
 
