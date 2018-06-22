@@ -49,10 +49,10 @@ At the end of the course, each student should be able to...
     linear transformation of Euclidean spaces and its standard matrix, and
     perform related computations.
   - **A3:**
-    determine if a given Euclidean linear map is injective and/or surjective.
-  - **A4:**
     compute a basis for the kernel and a basis for the image of a Euclidean
     linear map.
+  - **A4:**
+    determine if a given Euclidean linear map is injective and/or surjective.
 - Module M: Matrices
   - **M1:**
     multiply matrices.
