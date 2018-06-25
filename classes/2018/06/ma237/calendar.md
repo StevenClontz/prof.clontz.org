@@ -72,7 +72,7 @@ description: "Linear Algebra - 2018 Spring"
 - **Wed, Jun 27**
   - Section A.4
 - **Thu, Jun 28**
-  - Mastery Quiz [V6-A4]
+  - Comprehensive Mastery Quiz [E1-A4]
 - **Fri, Jun 29**
   - Module M iRAT/tRAT
 
@@ -81,7 +81,8 @@ description: "Linear Algebra - 2018 Spring"
 - **Mon, Jul 02**
   - Section M.1
 - **Tue, Jul 03**
-  - Comprehensive Mastery Quiz [E1-M?]
+  - Mastery Quiz [A1-M2]
+  - Reflection
 - **Wed, Jul 04**
   - *Independence Day holiday - no class*
 - **Thu, Jul 05**
@@ -109,7 +110,7 @@ description: "Linear Algebra - 2018 Spring"
 - **Mon, Jul 16**
   - Section G.3
 - **Tue, Jul 17**
-  - Mastery Quiz [M?-G4]
+  - Mastery Quiz [M3-G4]
   - Reflection
 - **Wed, Jul 18**
   - Application
