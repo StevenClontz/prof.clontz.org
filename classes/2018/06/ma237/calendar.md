@@ -66,15 +66,13 @@ description: "Linear Algebra - 2018 Spring"
 ### Week 5
 
 - **Mon, Jun 25**
-  - Mastery Quiz [V4-??]
-  - Reflection
+  - Mastery Quiz [V4-A2]
 - **Tue, Jun 26**
   - Section A.3
 - **Wed, Jun 27**
   - Section A.4
 - **Thu, Jun 28**
-  - Mastery Quiz [V6-??]
-  - Reflection
+  - Mastery Quiz [V6-A4]
 - **Fri, Jun 29**
   - Module M iRAT/tRAT
 
@@ -83,42 +81,42 @@ description: "Linear Algebra - 2018 Spring"
 - **Mon, Jul 02**
   - Section M.1
 - **Tue, Jul 03**
-  - Section M.2
+  - Comprehensive Mastery Quiz [E1-M?]
 - **Wed, Jul 04**
   - *Independence Day holiday - no class*
 - **Thu, Jul 05**
-  - Section M.3
+  - Section M.2
 - **Fri, Jul 06**
-  - Comprehensive Mastery Quiz [E1-??]
+  - Section M.3
 
 ### Week 7
 
 - **Mon, Jul 09**
-  - Module G iRAT/tRAT
-- **Tue, Jul 10**
-  - Mastery Quiz
+  - Mastery Quiz [A3-M4]
   - Reflection
+- **Tue, Jul 10**
+  - Module G iRAT/tRAT
 - **Wed, Jul 11**
   - Section G.1
 - **Thu, Jul 12**
   - Section G.2
 - **Fri, Jul 13**
-  - Mastery Quiz
-  - Makeup Quiz
+  - Mastery Quiz [M1-G2]
+  - Makeup Quiz [E1-G2]
 
 ### Week 8
 
 - **Mon, Jul 16**
   - Section G.3
 - **Tue, Jul 17**
-  - Mastery Quiz
+  - Mastery Quiz [M?-G4]
   - Reflection
 - **Wed, Jul 18**
   - Application
 - **Thu, Jul 19**
   - Application
 - **Fri, Jul 20**
-  - Semifinal 
+  - Semifinal [E1-TA]
 
 ### Week 9
 
@@ -126,4 +124,4 @@ description: "Linear Algebra - 2018 Spring"
   - *Last day of classes*
   - Review
 - **Wed, Jul 25**
-  - *FINAL EXAM: 8am-10am*
+  - *FINAL EXAM: 8am-10am* [E1-TA]
