@@ -94,7 +94,7 @@ description: "Linear Algebra - 2018 Spring"
 
 - **Mon, Jul 09**
   - Mastery Quiz [A3-M4]
-  - Reflection
+  - Makeup Quiz [E1-M4]
 - **Tue, Jul 10**
   - Module G iRAT/tRAT
 - **Wed, Jul 11**
@@ -102,8 +102,7 @@ description: "Linear Algebra - 2018 Spring"
 - **Thu, Jul 12**
   - Section G.2
 - **Fri, Jul 13**
-  - Mastery Quiz [M1-G2]
-  - Makeup Quiz [E1-G2]
+  - Comprehensive Mastery Quiz [E1-G2]
 
 ### Week 8
 
