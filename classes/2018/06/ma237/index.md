@@ -14,6 +14,10 @@ description: "Linear Algebra - 2018 Summer"
    - [Suggested HW from Kolman/Hill text][hw-kolman-hill]
 - Videos
    - [E2 - Finding RREF](https://youtu.be/Cq0Nxk2dhhU)
+   - [Video on V1,V4,A1](https://youtu.be/nUJTXzkBwvg)
+      - Note: this email was recorded in a previous semester. 
+        Our V1 merged the V1/V2 exercises in that video, and
+        our V4 is given as V5 in that video. A1 is the same.
 - Forms:
     - [Revision (**✱**)][revision-form]
     - [Office][office-form]
