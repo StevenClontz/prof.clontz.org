@@ -81,7 +81,7 @@ description: "Linear Algebra - 2018 Spring"
 - **Mon, Jul 02**
   - Section M.1
 - **Tue, Jul 03**
-  - Mastery Quiz [A1-M2]
+  - Mastery Quiz [A1-M1]
   - Reflection
 - **Wed, Jul 04**
   - *Independence Day holiday - no class*
