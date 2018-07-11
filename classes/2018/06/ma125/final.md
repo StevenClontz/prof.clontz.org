@@ -5,7 +5,7 @@ description: "Calculus I - 2018 Spring"
 ---
 
 The final exam will be multiple choice and based upon some of the following objectives from
-your [MyLabMath][http://www.pearsonmylabandmastering.com/] Study Plan.
+your [MyLabMath](http://www.pearsonmylabandmastering.com/) Study Plan.
 (Not all objectives will be used.)
 
 - 1.3 Trigonometric Functions
