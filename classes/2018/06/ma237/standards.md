@@ -57,11 +57,11 @@ At the end of the course, each student should be able to...
   - **M1:**
     multiply matrices.
   - **M2:**
-    determine if a square matrix is invertible or not.
-  - **M3:**
-    compute the inverse matrix of an invertible matrix.
-  - **M4:**
     describe the row reduction of a matrix as matrix multiplication.
+  - **M3:**
+    determine if a square matrix is invertible or not.
+  - **M4:**
+    compute the inverse matrix of an invertible matrix.
 - Module G: Geometric Properties of Linear Maps
   - **G1:**
     describe how a row operation affects the determinant of a matrix.
