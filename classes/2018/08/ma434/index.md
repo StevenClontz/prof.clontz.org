@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "MA 434"
+title: "MA 434/542"
 description: "Topology - 2018 Fall"
 ---
 
@@ -15,20 +15,23 @@ description: "Topology - 2018 Fall"
 * Semester: 2018 Fall 
 * Title: Topology 
 * Sections:
-    * TODO
-* Office Hours (MSPB 314)
-    * TODO
-
-
+    * MA 434-101 (Undergraduate)
+    * MA 542-101 (Graduate)
+* Class Time:
+    * MW 3:00-4:15pm
+    * MSPB 360
+* Office Hours
+    * MW 1:15-2:45pm and TR 1:45-3:15pm
+    * MSPB 314
 
 ## Course Content
 
-Generally, students will be encouraged to investigate the aspects of topology
-they find interesting. To this end, students will be provided a
-[Theorem Sequence] outlining several results from the field. 
+This course is a survey of various introductory topics in general topology. 
+To this end, students will be provided a
+[Theorem Sequence][thm-seq] outlining several results from the field. 
 
-In particular, the following topics (as designated by the department for this
-course) are included:
+In particular, the following areas (as designated by the department for this
+course) will be available for study:
 - topological spaces, 
 - surfaces,
 - continuity, 
@@ -44,10 +47,10 @@ course) are included:
 Grades in this course are determined based upon satisfactory completion
 of four grade specifications:
 
-- Presentations 
-- Notes 
-- Knowledge 
-- Proofs 
+- **Presentations** 
+- **Notes**
+- **Knowledge** 
+- **Proofs**
 
 Letter grades are assigned at the end of the semester as follows:
 
@@ -57,26 +60,26 @@ Letter grades are assigned at the end of the semester as follows:
 - D: 1/4 specifications satisfied
 - F: No specifications satisfied
 
+### Article specification for grad students
+
+Graduate students will have an additional specification: **Article**,
+described below. Letter grades for graduate students will be assigned at
+the end of the semester as follows:
+
+- A: 5/5 specifications satisfied
+- B: 4/5 specifications satisfied
+- C: 3/5 specifications satisfied
+- D: 2/5 specifications satisfied
+- F: 1/5 or less specifications satisfied
+
 ## Textbook and Resources
 
 No textbook is required for this course; in fact, using a text is discouraged
-except in extreme circumstances. Students will be provided a Theorem Sequence
+except in desperate circumstances. Students will be provided a [Theorem Sequence][thm-seq]
 that outlines all the content that may be covered in the course, and students
 will be tasked with presenting original proofs for these facts.
 
-### Theorem Sequence
-
-TODO
-
-## Teams
-
-Teams will be organized by the instructor
-near the beginning of the semester. Most
-class activities will be done within teams, allowing students to learn
-in an environment where they may discuss topics and ask
-questions freely with their peers and the instructor.
-
-## Assessing Understanding
+<!-- ## Assessing Understanding
 
 In this class, the following marks will be used when assessing understanding:
 
@@ -87,31 +90,34 @@ In this class, the following marks will be used when assessing understanding:
 * **⚠** ("caution" or "issues" mark):
   Represents partial understanding, but further study is needed.
 * **✘** ("X" mark):
-  Represents negligible understanding.
-
-## Consensus
-
-Students are given the responsibility and privilege to help
-make many choices during the course
-that affect content coverage and grade assignments.
-In the (hopefully rare) case that consensus cannot be reached in a team/class
-decision, the instructor will make the final decision.
+  Represents negligible understanding.-->
 
 ## Presentations
 
-The majority of in-class time will be spent on presentations. Teams are responsible
-for desiding which sections they wish to focus on, and divvying up theorems amongst
-each other. During class, students will take turns presenting proofs of these theorems.
+The majority of in-class time will be spent on presentations. At the beginning of
+each class, students will report which topics from the [Theorem Sequence][thm-seq]
+they are prepared to present on. The instructor will choose which topics will
+be presented that day and will choose which student will present each (randomly,
+or based upon needed progress).
 
-After each presentation, the team will agree upon which mark accurately reflects
-the understanding demonstrated by the presentation. If a mark other than **✓**
-is decided, that student has the option to make corrections and reattempt the presentation
-at a later date. The team may choose to award multiple **✓** in the case of
-an exceptional solution.
+After each presentation, the class will agree whether the topic was satisfactorily
+covered. If not, the student may be given the opportunity to make corrections
+and reattempt the presentation during the next class.
+
+If the presentation is accepted by the class, students will vote to award between
+1 and 3 **✓** for the presentation as follows:
+
+* 1 **✓**: The presenter had difficulties, but eventually presented a valid result.
+* 2 **✓**: There were few errors or issues with the presentation.
+* 3 **✓**: There were basically no errors, and the topic was particularly difficult.
+
+The median choice of the class will be awarded to that student.
+Students who provide evidence of preparedness to present but did not have the opportunity
+will receive 1 **✓**.
 
 ### Satisfying the Presentation Specification
 
-At midsemester, the class will decide on a positive integer. All students who
+Around midsemester, the class will decide on a positive integer. All students who
 earn at least this number of **✓** marks from presentations will have satisfied the
 Presentation Specification.
 
@@ -123,32 +129,33 @@ all theorems presented within their teams. The easiest way to do this is by usin
 
 ### Satisfying the Notes Specification
 
-About three-quarters through the semester, the instructor will secretly choose three 
-theorems that have been satisfactorally presented in each team. Students will
-submit their full notebook, and the instructor will mark the proofs of these theorems.
+Around two-thirds through the semester, the instructor will secretly choose three 
+topics that have been satisfactorally presented in class. Students will
+submit their full notebook, and the instructor will evaluate the notes on these topics,
+as well as for coverage of the semester.
 
-Students who receive **✓** on all three theorems will have satisfied the Notes
-Specification. Students who receive only **✓** and **✱** marks may revise their 
-proofs and resubmit to satisfy the specification. Otherwise, an additional opportunity
-to satisfy this specification will be given at the end of the semester,
-with three newly chosen theorems. Only 2/3 **✓** will be required, but there will
-be no opportunity for revisions.
+Students who have satisfactorily taken notes on all three topics and have notes on
+nearly all topics covered in class will have satisfied the Notes
+Specification; students will be given the opportunity to correct minor errors.
+
+Students with more significant issues in their notes will be given the opportunity
+to resubmit their notebook at the end of the semester, with no opportunity
+for revisions.
 
 ## Knowledge 
 
 Periodically multiple-choice closed-note Knowledge Quizzes will be given during class
-to assess coverage of the nine topics outlined under Course Content. The class will
-choose which topics will be covered on each quiz. Five questions from each
+to assess coverage of the areas outlined above in Course Content. Five questions from each
 topic will be asked.
 
-Students that answer at most one question incorrectly for a topic will be given
-a **✓** mark for that topic. Only one **✓** may be earned per topic.
-If two or more questions are answered incorrectly, then that topic may be
+Students that answer at most one question incorrectly for a area will be given
+a **✓** mark for that area. Only one **✓** may be earned per area.
+If two or more questions are answered incorrectly, then that area may be
 reattempted on a future quiz.
 
-## Satisfying the Knowledge Specification
+### Satisfying the Knowledge Specification
 
-Students that earn 7/9 **✓** in this way will have satisfied the Knowledge 
+Students that earn at least 7/9 **✓** in this way will have satisfied the Knowledge 
 Specification.
 
 ## Proofs
@@ -156,17 +163,46 @@ Specification.
 Periodically full-response open-note Proofs Quizzes will be given during class to assess
 student ability to discover and write proofs, including constructing
 examples and counterexamples. Students will be given one or more theorems related
-to (but not identical to) the theorems satisfactorally presented in class,
-and will be allowed to submit proofs for each. These will be marked for
-understanding by the instructor. Proofs marked as **✱** or **✓**
-should be corrected (if needed) and typeset in \\(\LaTeX\\) to be
-resubmitted and remarked.
+to (but not identical to) the topics satisfactorally presented in class,
+and will be allowed to submit proofs for one or more. These will be marked for
+understanding by the instructor and returned; satisfactorily written proofs (modulo minor errors)
+must be corrected (as needed) and typeset in \\(\LaTeX\\) for resubmission.
+Each typeset correct proof will be worth one **✓**.
 
 ### Satisfying the Proofs Specification
 
 At midsemester, the class will decide on a positive integer. Students
-who earn at least that many **✓** on \\(\LaTeX\\) typeset proofs
+who earn at least that many **✓** from proofs
 will have satisfied the Proofs Specification.
+
+## Article
+
+Each graduate student will choose a topic related, but not directly covered,
+by our course content, with the advice of the instructor. They will then 
+author a short article in the genre of a research paper, the scope of
+which will be agreed upon with the instructor. 
+
+### Satisfying the Article Specification
+
+A draft of this article may be submitted up to twice for grading during
+the semester, and will either be accepted as satisfactory, or returned with
+suggested revisions. The third submission of an article is final
+and will be marked as either satisfactory or unsatisfactory.
+
+Graduate students who have an article accepted as satisfactory will have
+satisfied the Article specification.
+
+## Consensus
+
+Students are given the responsibility and privilege to help
+make many choices during the course
+that affect content coverage and grade assignments.
+In the (hopefully rare) case that consensus cannot be reached in a team/class
+decision, the instructor will make the final decision.
+
+When deciding on thresholds for each specification, the instructor reserves
+the right to overrule the class if they choose a threshold that is too high
+or low.
 
 ## Final Exam
 
@@ -175,8 +211,7 @@ which can be used to help students complete the Knowledge and Proof
 Specifications. There is no added benefit to taking the final exam
 for a student who has already satisfied both specifications.
 
-No revisions will be allowed for proofs submitted on the final exam,
-but one **✱** will be automatically be improved to **✓**.
+Minor errors in proofs will be accepted without needing revisions.
 
 ## Makeup Policy
 
@@ -184,7 +219,7 @@ Due to the nature of assessment in this course, quiz makeups are not needed
 and won't be offered since that credit may be made up on future quizzes.
 However, additional time may be given on the Final Exam by request 
 to students who have one or more excusable absences. Also, in exceptional
-cases the requirements to meet the Presentations Specification will be
+cases the requirements to meet other specifications may be
 lowered due to multiple excusable absences.
 
 ## Academic Honesty
@@ -203,16 +238,16 @@ may be required to assist with automatic detection of plagarized work.
 
 ## USAOnline and USA Course Policies
 
-The official syllabus for this course is available on
-[USAOnline][usaonline]. Grade data will be provided to students via periodic 
+The official syllabus for this course is available on. 
+Grade data will be provided to students via periodic 
 printed progress reports.
 
 [USA's Course Policies][usa-course-policies] apply to this course.
 
 
-[usaonline]: https://ecampus.southalabama.edu/portal/site/4eed09d5-644d-44ed-985f-de0673e68b1a
-
 [usa-course-policies]: https://www.southalabama.edu/departments/academicaffairs/resources/policies/additionalacademiccoursepolicies.pdf
 
 [usa-academic-conduct]: http://www.southalabama.edu/departments/academicaffairs/resources/policies/Student%20academic%20conduct%20policy-Final%20Version%20October%202014.pdf
 
+
+[thm-seq]: #
