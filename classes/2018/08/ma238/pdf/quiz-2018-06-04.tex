@@ -1,0 +1,141 @@
+\documentclass[12pt]{article}
+
+\usepackage[letterpaper,margin=1in]{geometry}
+
+\usepackage{tikz}
+
+\setlength{\parindent}{0pt}
+
+\usepackage{amssymb}
+\usepackage{amsmath}
+
+\newcommand{\assessmentTitle}{
+  Mastery Quiz 06-04 
+}
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0pt}% Default \headrulewidth is 0.4pt
+\renewcommand{\footrulewidth}{0pt}% Default \footrulewidth is 0pt
+\chead{\footnotesize\bf\assessmentTitle}
+\cfoot{\small Page \thepage}
+
+\newcommand{\makeHeader}[4]{
+\thispagestyle{empty}
+\begin{center}
+\fbox{\fbox{\parbox{5.5in}{\centering
+#1 | #2 | #3 | #4
+}}}
+\end{center}
+\vspace{0.1in}
+\makebox[\textwidth]{
+  Name:\enspace\hrulefill\hrulefill\hrulefill
+}
+}
+
+\usepackage{xcolor}
+
+\newcommand{\standardQuestion}[2]{
+\begin{center}
+  \begin{tabular}{|l|c|}
+  \hline
+    \parbox{5in}{
+      \textbf{#1}: This student is able to...\\
+      #2
+    }
+  &
+    \parbox{1in}{
+      \vspace{0.1in}
+      \footnotesize \textcolor{gray}{Mark:}
+      \vspace{0.7in}
+
+      \tiny \textcolor{gray}{(Instructor Use Only)}
+    }
+  \\\hline
+  \end{tabular}
+\end{center}
+}
+
+
+%This code allows for augmented matrices, e.g. by \begin{bmatrix}{cc|c} ...
+\makeatletter
+\renewcommand*\env@matrix[1][*\c@MaxMatrixCols c]{%
+  \hskip -\arraycolsep
+  \let\@ifnextchar\new@ifnextchar
+  \array{#1}}
+\makeatother
+
+
+\begin{document}
+
+\begin{center}
+\begin{tikzpicture}[x=1in,y=1in]
+  \draw[color=black!20] (0,0) rectangle (4.5,1);
+  \draw[color=black!20] (0,0.67) -- (4.5,0.66);
+  \draw[color=black!20] (0,0.33) -- (4.5,0.33);
+
+  \node[anchor=west] at (0.1,0.83) {Name:};
+  \node[anchor=west] at (0.1,0.5) {J\#:};
+  \node[anchor=west] at (0.1,0.17) {Date: \textbf{2018 Jun 04}};
+
+\end{tikzpicture}
+\end{center}
+
+
+
+\standardQuestion{E1}{
+  Translate back and forth between a system of linear equations and the corresponding augmented matrix.
+}
+
+Write a system of linear equations corresponding to the following
+augmented matrix.
+\[
+\begin{bmatrix}[cccc|c]
+3 & 2 & 0 & 0 & 3 \\
+0 & 1 & -1 & 4 & -5 \\
+-1 & 0 & 1 & -7 & 0 \\
+\end{bmatrix}
+\]
+
+
+\newpage
+
+
+
+\standardQuestion{E2}{
+  Put a matrix in reduced row echelon form.
+}
+
+Find \(\operatorname{RREF}(A)\), where
+\[
+  A
+=
+  \begin{bmatrix}[ccccc]
+  1 & 0 & 1 & -1 & 1 \\
+  3 & 2 & 5 & -1 & 1 \\
+  -2 & 1 & -1 & 3 & 1 \\
+  \end{bmatrix}
+.\]
+
+
+\vfill
+
+\newpage
+
+\standardQuestion{E3}{
+  Compute the solution set for a system of linear equations.
+}
+
+Find the solution set for the following linear system.
+
+\[
+\begin{array}{ccccc}
+  2x &-y  &+3z & &=1 \\
+  -x &+y  &-2z &+w  &=1 \\
+  x  &+2y &-z  &+2w &=5 
+\end{array}
+\]
+
+\vfill
+
+\end{document}
