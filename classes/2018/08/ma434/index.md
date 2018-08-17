@@ -79,19 +79,6 @@ except in desperate circumstances. Students will be provided a [Theorem Sequence
 that outlines all the content that may be covered in the course, and students
 will be tasked with presenting original proofs for these facts.
 
-<!-- ## Assessing Understanding
-
-In this class, the following marks will be used when assessing understanding:
-
-* **✓** ("checkmark" or "mastery" mark):
-  Represents complete understanding
-* **✱** ("star" or "revision" mark):
-  Represents near-complete understanding, but revisions for clarity or accuracy are required.
-* **⚠** ("caution" or "issues" mark):
-  Represents partial understanding, but further study is needed.
-* **✘** ("X" mark):
-  Represents negligible understanding.-->
-
 ## Presentations
 
 The majority of in-class time will be spent on presentations. At the beginning of
@@ -250,4 +237,4 @@ printed progress reports.
 [usa-academic-conduct]: http://www.southalabama.edu/departments/academicaffairs/resources/policies/Student%20academic%20conduct%20policy-Final%20Version%20October%202014.pdf
 
 
-[thm-seq]: #
+[thm-seq]: https://stevenclontz.github.io/intro-to-topology/
