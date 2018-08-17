@@ -4,7 +4,7 @@ title: "Classes"
 description: "Information on my courses"
 ---
 
-## 2018 Summer 
+## 2018 Fall 
 
-- [MA 125 - Calculus I](2018/06/ma125)
-- [MA 237 - Linear Algebra](2018/06/ma237)
+- [MA 238 Differential Equations](/classes/2018/08/ma238/)
+- [MA 434/542 Topology](/classes/2018/08/ma434)

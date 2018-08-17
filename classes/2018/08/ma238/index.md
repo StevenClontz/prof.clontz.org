@@ -10,7 +10,7 @@ description: "Differential Equations - 2018 Summer"
 - [Calendar][calendar]
 - Exercises/Homework
    - [Sample Exercises with solutions][exercises]
-   - MyMathLab (TODO)
+   - [MyLabsPlus][mlp]
 - Forms:
     - [Revision (**✱**)][revision-form]
     - [Office Reassessment][office-form]
@@ -68,7 +68,7 @@ by each student, measured by how many **✓** were earned.
 
 Much of the material for this course will be provided on this website.
 
-Homework will be assigned from MyMathLab, which will be required as
+Homework will be assigned from [MyLabsPlus][mlp], which will be required as
 described below. The physical textbook will not be required for this course,
 but may be used by students for additional reference/practice.
 
@@ -145,17 +145,19 @@ during the semester to evaluate their teammates. Students that fail to complete
 the survey or who receive
 excessive negative feedback will become Inactive.
 
-## MyLabMath
+## MyLabsPlus
 
-TODO
+Online homework will be assigned on [MyLabsPlus][mlp] throughout the semester, 
+associated with many (not all) of the course standards as they are covered
+in class.
 
 Students that fall below 70% progress on the online homework are considered 
-Inactive, but may automatically return to Active status by improving this
+Inactive, but will automatically return to Active status by improving this
 score to 70% or better.
 
 ## Mastery Quizzes
 
-At the end of most class days,
+During most class days,
 Active students will be able to complete a short **Mastery Quiz**.
 Each standard covered in class will appear on up to four Mastery Quizzes,
 at most once a week.
@@ -169,7 +171,7 @@ in the class so far.
 
 All submissions are due by the end of the class period.
 Inactive students will not receive any credit for these quizzes unless
-they have scheduled a time to meet with the instructor to discuss their
+they have previously scheduled a time to meet with the instructor to discuss their
 status.
 
 Quizzes are randomized and personalized for each student based upon the most recent
@@ -212,6 +214,12 @@ This submission will be marked as usual, possibly earning another **✱**
 that the student should revise further. (Usually at most two revisions
 will be allowed per exercise.)
 
+## Advanced Modeling Exercises 
+
+Certain exercises involving modeling will include a second part worth
+an additional Advanced Modeling (AM) Mastery Mark **✓**. Up to three of
+these may be earned throughout the semester.
+
 ## Office Reassessments
 
 During office hours each week, Active students may take advantage of
@@ -234,8 +242,8 @@ Students that miss one or more quizzes due to an excusable
 absence will be allowed to complete a **Makeup Quiz** 
 near the end of the semester.
 The Makeup Quiz is the same format as a Comprehensive Mastery Quiz,
-except the number of exercises that may be attempted is based upon
-how many missed quizzes were excused.
+except the exercises that may be attempted are based upon
+which quizzes were excused.
 
 ## Final Exam
 
@@ -248,10 +256,6 @@ will be automatically upgraded to **✓**.
 In particular, solving exercises on the Final Exam has
 the same benefit as solving exercises on Mastery Quizzes. 
 
-## Advanced Modeling Exercises 
-
-TODO
-
 ## Academic Honesty
 
 Academic Honesty is defined in
@@ -259,7 +263,7 @@ Academic Honesty is defined in
 Any student who is caught
 cheating will immediately lose credit for all earned **✓**
 throughout the entire semester and will only be allowed to earn future
-**✓** on Comprehensive Mastery Quizzes, the Semifinal, and the Final Exam,
+**✓** on a limited number of scheduled quizzes and  the Final Exam,
 which must be done by appointment in the instructor's office. In addition,
 the incident will be reported to the university.
 
@@ -269,13 +273,11 @@ an F letter grade for the course.
 ## USAOnline and USA Course Policies
 
 The official syllabus for this course is available on
-[USAOnline][usaonline]. Grade data will be provided to students via regular 
+USAOnline. Grade data will be provided to students via regular
 printed progress reports.
 
 [USA's Course Policies][usa-course-policies] apply to this course.
 
-
-[usaonline]: https://ecampus.southalabama.edu/portal/site/4eed09d5-644d-44ed-985f-de0673e68b1a
 
 [usa-course-policies]: https://www.southalabama.edu/departments/academicaffairs/resources/policies/additionalacademiccoursepolicies.pdf
 
@@ -283,15 +285,13 @@ printed progress reports.
 
 [calendar]: calendar/
 
-[standards]: standards/
+[standards]: pdf/course-standards.pdf
 
 [slides]: pdf/course-slides.pdf
 
 [exercises]: pdf/sample-exercises.pdf
-[hw-kolman-hill]: pdf/homework-kolman-hill.pdf
-[hw-holt]: pdf/homework-holt.pdf
-
 
 [revision-form]: pdf/revision-form.pdf
 [office-form]: pdf/office-form.pdf
 
+[mlp]: https://usouthal-mlpui.openclass.com/
