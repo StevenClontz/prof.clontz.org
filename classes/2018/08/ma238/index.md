@@ -285,7 +285,7 @@ printed progress reports.
 
 [calendar]: calendar/
 
-[standards]: pdf/course-standards.pdf
+[standards]: pdf/standards.pdf
 
 [slides]: pdf/course-slides.pdf
 
