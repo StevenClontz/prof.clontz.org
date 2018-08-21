@@ -95,6 +95,17 @@ to Active status by making an appointment and meeting with the instructor
 and discuss the issues that caused the student to fall into Inactive status.
 Reinstatement of Active status is at the discretion of the instructor.
 
+## Attendance
+
+Attendance will be taken daily.
+Generally, only absences that have been previously approved by the
+instructor or that are related to a medical issue (with accompanying
+documentation from a medical professional) will be considered excused.
+All excused absences must be documented via email with the instructor.
+
+Students that accumulate two unexcused absences within a three-week period
+will become Inactive.
+
 ## Class Activities
 
 On a typical day of class,
@@ -120,7 +131,8 @@ become Inactive.
 
 ## Readiness Assurance
 
-Before each module of the course, students are given a list of materials
+Before each module of the course, students are given a 
+[list of materials](readiness)
 for review. Readiness for that module will be assessed on a **Readiness
 Assurance Test**, first individually (iRAT), and then as a team (tRAT).
 High scores reflect sufficient preparedness for the module, while low
@@ -128,17 +140,6 @@ scores demonstrate a need for further review.
 
 Students that earn below a 70% average on an iRAT and tRAT will
 become Inactive.
-
-## Attendance
-
-Attendance will be taken daily.
-Generally, only absences that have been previously approved by the
-instructor or that are related to a medical issue (with accompanying
-documentation from a medical professional) will be considered excused.
-All excused absences must be documented via email with the instructor.
-
-Students that accumulate two unexcused absences within a three-week period
-will become Inactive.
 
 ## Peer Evaluation Survey
 
