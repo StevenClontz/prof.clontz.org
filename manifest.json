@@ -1,6 +1,7 @@
 {
-  "name": "Professor Clontz",
+  "name": "Prof. Clontz",
+  "description": "Resources for my students",
   "start_url": "index.html",
   "display": "standalone",
-  "orientation": "portrait"
+  "orientation": "any"
 }
