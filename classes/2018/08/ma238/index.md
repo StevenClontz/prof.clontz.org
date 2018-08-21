@@ -57,13 +57,9 @@ Letter grades are assigned based on how much content was learned
 by each student, measured by how many **✓** were earned.
 
 * **A**: **48✓**, including **3✓** from AM
-    * Midsemester goal: **16✓**
 * **B**: **42✓**, including **1✓** from AM
-    * Midsemester goal: **14✓**
 * **C**: **36✓**
-    * Midsemester goal: **12✓**
 * **D**: **30✓**
-    * Midsemester goal: **10✓**
 
 ## Textbook and Resources
 
