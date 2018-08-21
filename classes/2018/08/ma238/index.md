@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "MA 238 WORK IN PROGRESS"
+title: "MA 238"
 description: "Differential Equations - 2018 Summer"
 ---
 
@@ -8,6 +8,7 @@ description: "Differential Equations - 2018 Summer"
 
 - [Standards][standards]
 - [Calendar][calendar]
+- [Readiness materials][readiness]
 - Exercises/Homework
    - [Sample Exercises with solutions][exercises]
    - [MyLabsPlus][mlp]
@@ -36,7 +37,7 @@ The course is split into five **Modules**, each of which is split into
 several **Standards** of learning. These are listed on the course
 [Standards][standards] PDF.
 
-In particular, successful students will have mastered the following
+In particular, our course standards are aligned with the following
 learning outcomes defined by the Association of American Colleges & Universities:
 
 - Convert relevant information into various mathematical forms (e.g., equations, graphs,
@@ -55,9 +56,9 @@ for a total of **51✓**.
 Letter grades are assigned based on how much content was learned
 by each student, measured by how many **✓** were earned.
 
-* **A**: **48✓**, including **2✓** from AM
+* **A**: **48✓**, including **3✓** from AM
     * Midsemester goal: **16✓**
-* **B**: **42✓**
+* **B**: **42✓**, including **1✓** from AM
     * Midsemester goal: **14✓**
 * **C**: **36✓**
     * Midsemester goal: **12✓**
@@ -87,7 +88,7 @@ questions freely with their peers and the instructor.
 By default all students are considered **Active** in the course. However,
 students that fail to sufficiently participate in the course 
 (as described below) will be designated as **Inactive**. Inactive students
-lose certain privileges (as desecribed below).
+lose certain privileges (as described below).
 
 Students may be returned
 to Active status by making an appointment and meeting with the instructor
@@ -110,8 +111,8 @@ be marked.
 Each completed activity must be photographed and uploaded to 
 Google Drive team folder provided by the instructor, to serve as notes for that
 team (including students that were absent that day). **Students are not
-allowed to take personal notes during class time; you must collaborate on the whiteboard 
-during class.**
+allowed to take personal notes during class time; you must collaborate on your
+team's whiteboard notes during class.**
 
 Students that attend class but refuse to participate in completing Activities
 on the whiteboard or refuse to document work in Google Drive will 
@@ -134,6 +135,7 @@ Attendance will be taken daily.
 Generally, only absences that have been previously approved by the
 instructor or that are related to a medical issue (with accompanying
 documentation from a medical professional) will be considered excused.
+All excused absences must be documented via email with the instructor.
 
 Students that accumulate two unexcused absences within a three-week period
 will become Inactive.
@@ -142,8 +144,8 @@ will become Inactive.
 
 Students will be asked to complete a Peer Evaluation Survey occasionally
 during the semester to evaluate their teammates. Students that fail to complete
-the survey or who receive
-excessive negative feedback will become Inactive.
+the survey or who receive negative feedback from multiple students
+will become Inactive.
 
 ## MyLabsPlus
 
@@ -178,7 +180,6 @@ Quizzes are randomized and personalized for each student based upon the most rec
 progress report; standards that have already been completely mastered
 by a student will not appear on the personalized quiz.
 
-
 ### Marking Quizzes
 
 Each submitted solution will be marked as follows:
@@ -202,13 +203,16 @@ So, a student who earns 42 **✓** and 3 **✘** throughout the semester
 will earn the same grade
 as a student who earns 42 **✓** and 300 **✘**.
 
+As a rule, at most one **✓** will be awarded to a student
+per standard per week.
+
 ### Revising Solutions
 
 A student may improve a solution marked as **✱** to **✓** by completing a
 [Revision Form][revision-form] outside of class and submitting it on
 the date of the next assessment. 
-A student submitting a Revision Form must skip the corresponding exercise
-on that assessment, if applicable.
+A student submitting a Revision Form cannot also attempt that standard
+on a quiz that week.
 
 This submission will be marked as usual, possibly earning another **✱**
 that the student should revise further. (Usually at most two revisions
@@ -290,6 +294,8 @@ printed progress reports.
 [slides]: pdf/course-slides.pdf
 
 [exercises]: pdf/sample-exercises.pdf
+
+[readiness]: readiness
 
 [revision-form]: pdf/revision-form.pdf
 [office-form]: pdf/office-form.pdf
