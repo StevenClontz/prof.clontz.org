@@ -1,12 +1,13 @@
 ---
 layout: page
-title: "WORK IN PROGRESS MA 434/542"
+title: "MA 434/542"
 description: "Topology - 2018 Fall"
 ---
 
 #### Quick Links
 
 - [Overleaf.com](http://overleaf.com)
+- [Theorem Sequence][thm-seq]
 
 ---
 
@@ -91,16 +92,8 @@ After each presentation, the class will agree whether the topic was satisfactori
 covered. If not, the student may be given the opportunity to make corrections
 and reattempt the presentation during the next class.
 
-If the presentation is accepted by the class, students will vote to award between
-1 and 3 **✓** for the presentation as follows:
-
-* 1 **✓**: The presenter had difficulties, but eventually presented a valid result.
-* 2 **✓**: There were few errors or issues with the presentation.
-* 3 **✓**: There were basically no errors, and the topic was particularly difficult.
-
-The median choice of the class will be awarded to that student.
-Students who provide evidence of preparedness to present but did not have the opportunity
-will receive 1 **✓**.
+If the presentation is accepted by the class, the instructor will award 
+between **1-3✓** for the presentation based on its quality and difficulty.
 
 ### Satisfying the Presentation Specification
 
@@ -126,14 +119,13 @@ nearly all topics covered in class will have satisfied the Notes
 Specification; students will be given the opportunity to correct minor errors.
 
 Students with more significant issues in their notes will be given the opportunity
-to resubmit their notebook at the end of the semester, with no opportunity
-for revisions.
+to resubmit their notebook at the end of the semester.
 
 ## Knowledge 
 
 Periodically multiple-choice closed-note Knowledge Quizzes will be given during class
-to assess coverage of the areas outlined above in Course Content. Five questions from each
-topic will be asked.
+to assess coverage of the nine areas outlined above in Course Content. 
+Up to five questions from each topic will be asked.
 
 Students that answer at most one question incorrectly for a area will be given
 a **✓** mark for that area. Only one **✓** may be earned per area.
