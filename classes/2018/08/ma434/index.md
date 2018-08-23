@@ -31,12 +31,10 @@ This course is a survey of various introductory topics in general topology.
 To this end, students will be provided a
 [Theorem Sequence][thm-seq] outlining several results from the field. 
 
-In particular, the following areas (as designated by the department for this
-course) will be available for study:
+In particular, the following areas will be covered this semester:
 - topological spaces, 
-- surfaces,
-- continuity, 
-- homeomorphisms,
+- curves and surfaces,
+- continuity and homeomorphisms,
 - compactness, 
 - connectedness, 
 - metric spaces, 
@@ -134,7 +132,7 @@ reattempted on a future quiz.
 
 ### Satisfying the Knowledge Specification
 
-Students that earn at least 7/9 **✓** in this way will have satisfied the Knowledge 
+Students that earn at least 7/8 **✓** in this way will have satisfied the Knowledge 
 Specification.
 
 ## Proofs
