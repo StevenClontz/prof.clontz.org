@@ -7,7 +7,9 @@ description: "Topology - 2018 Fall"
 #### Quick Links
 
 - [Overleaf.com](http://overleaf.com)
+    - [Starting template](https://v2.overleaf.com/read/qvtrkrrhmmwd)
 - [Theorem Sequence][thm-seq]
+    - [LaTeX source](https://raw.githubusercontent.com/StevenClontz/intro-to-topology/master/build/intro-to-topology.tex)
 
 ---
 
