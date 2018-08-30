@@ -15,7 +15,7 @@ description: "Differential Equations - 2018 Summer"
 - Forms:
     - [Revision (**✱**)][revision-form]
     - [Office Reassessment][office-form]
-- Assets:
+- Assets: 
     - [Good vs. Bad Shocks](/assets/img/good-bad-shocks.gif)
 - [Slides][slides]
 - [Google Drive](drive/)
