@@ -12,6 +12,7 @@ description: "Differential Equations - 2018 Summer"
 - Exercises/Homework
    - [Sample Exercises with solutions][exercises]
    - [MyLabsPlus][mlp]
+     - [Login instructions](pdf/MLP-instructions.pdf)
 - Forms:
     - [Revision (**✱**)][revision-form]
     - [Office Reassessment][office-form]
