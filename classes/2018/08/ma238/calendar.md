@@ -8,14 +8,28 @@ description: "2018 Fall"
   - *First Day of Class*
   - Orientation
 - Thursday, Aug 23
+  - Module C Readiness
 - Tuesday, Aug 28
+  - Section C.1
 - Thursday, Aug 30
+  - Section C.1
 - Tuesday, Sep 4
+  - Canceled due to weather
+  - Short video on C.2: <https://youtu.be/_5Ww8DI8hWQ>
 - Thursday, Sep 6
+  - Section C.2-C.3
 - Tuesday, Sep 11
+  - Section C.3
+  - Mastery Quiz on C1,C2
 - Thursday, Sep 13
+  - Section C.4-C.5
+  - Mastery Quiz on C3
 - Tuesday, Sep 18
+  - Section C.5
+  - Mastery Quiz on C1,C2,C4
 - Thursday, Sep 20
+  - Section C.6
+  - Mastery Quiz on C3,C5
 - Tuesday, Sep 25
 - Thursday, Sep 27
 - Tuesday, Oct 2
