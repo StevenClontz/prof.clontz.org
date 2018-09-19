@@ -4,6 +4,24 @@ title: "MA 238"
 description: "Readiness materials"
 ---
 
+# Module F
+
+- Determine the intervals on which a polynomial is positive, negative, or zero.
+  - <https://youtu.be/jGa0GJjwQh8>
+- Use integration techniques like substitution, integration by parts, and partial
+fraction decomposition to compute indefinite integrals.
+  - <https://prof.clontz.org/resources/calculus2/2/1/>
+  - <https://prof.clontz.org/resources/calculus2/2/4/>
+  - <https://prof.clontz.org/resources/calculus2/2/5/>
+- Determine when a vector field is conservative.
+  - <https://youtu.be/gAb1ZTD41wo>
+- Find the potential function of a conservative vector field.
+  - <https://youtu.be/nY4mW_R-T40>
+- Use variation of parameters to solve non-homogeneous ODEs when given the
+  solution to the corresponding homogeneous ODE 
+  - Standard C5
+
+
 # Module C
 
 - Describe Newton’s laws in terms of differential equations. 
