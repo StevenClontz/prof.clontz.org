@@ -15,8 +15,10 @@ fraction decomposition to compute indefinite integrals.
   - <https://prof.clontz.org/resources/calculus2/2/5/>
 - Determine when a vector field is conservative.
   - <https://youtu.be/gAb1ZTD41wo>
+  - <https://prof.clontz.org/classes/2017/06/ma227/standards/c12/>
 - Find the potential function of a conservative vector field.
   - <https://youtu.be/nY4mW_R-T40>
+  - <https://prof.clontz.org/classes/2017/06/ma227/standards/c12/>
 - Use variation of parameters to solve non-homogeneous ODEs when given the
   solution to the corresponding homogeneous ODE 
   - Standard C5
