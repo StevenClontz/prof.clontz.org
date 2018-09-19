@@ -14,7 +14,7 @@ description: "2018 Fall"
 - Thursday, Aug 30
   - Section C.1
 - Tuesday, Sep 4
-  - Canceled due to weather
+  - *Canceled due to weather*
   - Short video on C.2: <https://youtu.be/_5Ww8DI8hWQ>
 - Thursday, Sep 6
   - Section C.2-C.3
@@ -31,6 +31,8 @@ description: "2018 Fall"
   - Section C.6
   - Mastery Quiz on C3,C5
 - Tuesday, Sep 25
+  - Module F Readiness
+  - Mastery Quiz on C1,C2,C4,C6
 - Thursday, Sep 27
 - Tuesday, Oct 2
 - Thursday, Oct 4
