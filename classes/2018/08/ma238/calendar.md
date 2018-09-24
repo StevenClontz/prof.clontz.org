@@ -34,6 +34,8 @@ description: "2018 Fall"
   - Module F Readiness
   - Mastery Quiz on C1,C2,C4
 - Thursday, Sep 27
+  - Section F.1
+  - Mastery Quiz on C3,C5,C6
 - Tuesday, Oct 2
 - Thursday, Oct 4
 - Tuesday, Oct 9
