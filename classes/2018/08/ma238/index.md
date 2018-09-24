@@ -68,7 +68,7 @@ by each student, measured by how many **✓** were earned.
 
 Much of the material for this course will be provided on this website.
 
-Homework will be assigned from [MyLabsPlus][mlp], which will be required as
+Homework will be assigned from [MyLabsPlus][mlp], which will be assigned as
 described below. The physical textbook will not be required for this course,
 but may be used by students for additional reference/practice.
 
@@ -105,29 +105,6 @@ All excused absences must be documented via email with the instructor.
 Students that accumulate two unexcused absences within a three-week period
 will become Inactive.
 
-## Class Activities
-
-On a typical day of class,
-each team will be seated at a table with a computer station and whiteboard.
-The instructor will provide slides that may be viewed at each station.
-Students will work through the material covered on these slides within their
-teams, with the support of the instructor as needed.
-
-Slides describing **Activities** should be completed by each team on the
-provided whiteboard. All details must be shown on the whiteboard, 
-and the Activity's number should also
-be marked. 
-
-Each completed activity must be photographed and uploaded to 
-Google Drive team folder provided by the instructor, to serve as notes for that
-team (including students that were absent that day). **Students are not
-allowed to take personal notes during class time; you must collaborate on your
-team's whiteboard notes during class.**
-
-Students that attend class but refuse to participate in completing Activities
-on the whiteboard or refuse to document work in Google Drive will 
-become Inactive.
-
 ## Readiness Assurance
 
 Before each module of the course, students are given a 
@@ -138,6 +115,20 @@ High scores reflect sufficient preparedness for the module, while low
 scores demonstrate a need for further review.
 
 Students that earn below a 70% average on an iRAT and tRAT will
+become Inactive.
+
+## Class Activities
+
+Within each module, the instructor will present on several sections, each based
+on a Standard for the module,
+providing theory, formulas, and examples. At the end of each section,
+students will collaborate on one or more team activities similar to exercises
+that will be assigned for that standard.
+These should be completed by each team on the
+provided whiteboard, showing all details and uploaded to Google Drive
+
+Students that attend class but refuse to participate in completing Activities
+on the whiteboard or refuse to document work in Google Drive will 
 become Inactive.
 
 ## Peer Evaluation Survey
@@ -153,9 +144,8 @@ Online homework will be assigned on [MyLabsPlus][mlp] throughout the semester,
 associated with many (not all) of the course standards as they are covered
 in class.
 
-Students that fall below 70% progress on the online homework are considered 
-Inactive, but will automatically return to Active status by improving this
-score to 70% or better.
+Students that have 70% progress or better on the online homework by the end of the
+semester will receive a bonus Mastery Mark (**✓**). 
 
 ## Mastery Quizzes
 
@@ -220,7 +210,8 @@ will be allowed per exercise.)
 
 ## Advanced Modeling Exercises 
 
-Certain exercises involving modeling will include a second part worth
+Occassionally the instructor will assign a take-home exercise based
+on an Advanced Modeling (AM) exercise, worth
 an additional Advanced Modeling (AM) Mastery Mark **✓**. Up to three of
 these may be earned throughout the semester.
 

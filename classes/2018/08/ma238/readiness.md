@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "MA 238"
+title: "MA 238 Readiness"
 description: "Readiness materials"
 ---
 
-# Module F
+# Module F (Sep 25)
 
 - Determine the intervals on which a polynomial is positive, negative, or zero.
   - <https://youtu.be/jGa0GJjwQh8>
