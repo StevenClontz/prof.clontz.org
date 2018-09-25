@@ -16,9 +16,7 @@ description: "Differential Equations - 2018 Summer"
 - Forms:
     - [Revision (**✱**)][revision-form]
     - [Office Reassessment][office-form]
-- Assets: 
-    - [Good vs. Bad Shocks](/assets/img/good-bad-shocks.gif)
-- [Slides][slides]
+- [Module C Slides][slides]
 - [Google Drive](drive/)
 
 ---
@@ -282,7 +280,7 @@ printed progress reports.
 
 [standards]: pdf/standards.pdf
 
-[slides]: pdf/course-slides.pdf
+[slides]: pdf/slides-1-C.pdf
 
 [exercises]: pdf/sample-exercises.pdf
 

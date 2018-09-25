@@ -4,6 +4,8 @@ title: "MA 238 Calendar"
 description: "2018 Fall"
 ---
 
+### August
+
 - Tuesday, Aug 21
   - *First Day of Class*
   - Orientation
@@ -13,6 +15,9 @@ description: "2018 Fall"
   - Section C.1
 - Thursday, Aug 30
   - Section C.1
+
+### September
+
 - Tuesday, Sep 4
   - *Canceled due to weather*
   - Short video on C.2: <https://youtu.be/_5Ww8DI8hWQ>
@@ -34,18 +39,31 @@ description: "2018 Fall"
   - Module F Readiness
   - Mastery Quiz on C1,C2,C4
 - Thursday, Sep 27
-  - Section F.1
+  - Standard F1,F2
   - Mastery Quiz on C3,C5,C6
+
+### October
+
 - Tuesday, Oct 2
+  - Standard F3
+  - Mastery Quiz on C1,C2,C4,F1,F2
 - Thursday, Oct 4
+  - Standard F4
+  - Mastery Quiz on C3,C5,C6,F3
 - Tuesday, Oct 9
+  - Standard F5
+  - Mastery Quiz on C4,F1,F2,F4
 - Thursday, Oct 11
   - *NO CLASS - Fall Break*
 - Tuesday, Oct 16
+  - Comprehensive Mastery Quiz C1-F5
 - Thursday, Oct 18
 - Tuesday, Oct 23
 - Thursday, Oct 25
 - Tuesday, Oct 30
+
+### November
+
 - Thursday, Nov 1
 - Tuesday, Nov 6
 - Thursday, Nov 8
@@ -56,6 +74,9 @@ description: "2018 Fall"
   - *NO CLASS - Thanksgiving Holiday*
 - Tuesday, Nov 27
 - Thursday, Nov 29
+
+### December
+
 - Tuesday, Dec 4
 - Thursday, Dec 6
   - *Last Day of Class*
