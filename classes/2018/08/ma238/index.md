@@ -213,6 +213,9 @@ on an Advanced Modeling (AM) exercise, worth
 an additional Advanced Modeling (AM) Mastery Mark **✓**. Up to three of
 these may be earned throughout the semester.
 
+Archive:
+- [AM/C2 due on 10-02](pdf/AM-1.pdf)
+
 ## Office Reassessments
 
 During office hours each week, Active students may take advantage of
