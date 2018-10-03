@@ -7,10 +7,7 @@ description: "Readiness materials"
 # Module S (TBA)
 
 - Solve systems of two equations in two variables, even when coefficients are functions.
-  - <http://bit.ly/2y8AOwa>
-  - <http://bit.ly/2nK3wne>
-  - <http://bit.ly/1PE3ZMQ>
-  - <http://bit.ly/2d5SLGZ>
+  - <https://youtu.be/Y6JsEja15Vk> 
 - Solve second order constant coefficient equations, including non-homogeneous ones.
   - Standards C3,C5
 - Model simple mechanical oscillators (e.g. spring-damper systems).
