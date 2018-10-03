@@ -48,17 +48,21 @@ description: "2018 Fall"
   - Standard F3
   - Mastery Quiz on C1,C2,C4,F1,F2
 - Thursday, Oct 4
-  - Standard F4
+  - Standards F4,F5
   - Mastery Quiz on C3,C5,C6,F3
 - Tuesday, Oct 9
-  - Standard F5
+  - Standards F5,F6
   - Mastery Quiz on C4,F1,F2,F4
 - Thursday, Oct 11
   - *NO CLASS - Fall Break*
 - Tuesday, Oct 16
-  - Comprehensive Mastery Quiz C1-F5
+  - Comprehensive Mastery Quiz C1-F6
 - Thursday, Oct 18
+  - Module S Readiness
+  - Mastery Quiz F3,F5,F6
 - Tuesday, Oct 23
+  - Standard S1
+  - Mastery Quiz F1,F2,F4
 - Thursday, Oct 25
 - Tuesday, Oct 30
 

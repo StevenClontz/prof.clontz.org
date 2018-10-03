@@ -4,7 +4,22 @@ title: "MA 238 Readiness"
 description: "Readiness materials"
 ---
 
-# Module F (Sep 25)
+# Module S (TBA)
+
+- Solve systems of two equations in two variables, even when coefficients are functions.
+  - <http://bit.ly/2y8AOwa>
+  - <http://bit.ly/2nK3wne>
+  - <http://bit.ly/1PE3ZMQ>
+  - <http://bit.ly/2d5SLGZ>
+- Solve second order constant coefficient equations, including non-homogeneous ones.
+  - Standards C3,C5
+- Model simple mechanical oscillators (e.g. spring-damper systems).
+  - Standard C6
+- Find and classify the equillibria of autonomous ODES.
+  - Standard F4
+
+
+# Module F (Sep 25) 
 
 - Determine the intervals on which a polynomial is positive, negative, or zero.
   - <https://youtu.be/jGa0GJjwQh8>
