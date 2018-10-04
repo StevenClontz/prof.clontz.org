@@ -215,6 +215,7 @@ these may be earned throughout the semester.
 
 Archive:
 - [AM/C2 due on 10-02](pdf/AM-01.pdf)
+- [AM/C6 due on 10-09](pdf/AM-02.pdf)
 
 ## Office Reassessments
 
