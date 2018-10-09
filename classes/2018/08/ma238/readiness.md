@@ -4,7 +4,7 @@ title: "MA 238 Readiness"
 description: "Readiness materials"
 ---
 
-# Module S (TBA)
+# Module S (Oct 18)
 
 - Solve systems of two equations in two variables, even when coefficients are functions.
   - <https://youtu.be/Y6JsEja15Vk> 
