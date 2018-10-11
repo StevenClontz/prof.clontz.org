@@ -53,6 +53,7 @@ description: "2018 Fall"
 - Tuesday, Oct 9
   - Standards F5,F6
   - Mastery Quiz on C4,F1,F2,F4
+  - Short video on F6: <https://youtu.be/xN2gmy9pY7s>
 - Thursday, Oct 11
   - *NO CLASS - Fall Break*
 - Tuesday, Oct 16
