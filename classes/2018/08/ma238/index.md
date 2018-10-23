@@ -10,7 +10,6 @@ description: "Differential Equations - 2018 Summer"
 - [Calendar][calendar]
 - [Readiness materials][readiness]
 - Exercises/Homework
-   - [Sample Exercises with solutions][exercises]
    - [MyLabsPlus][mlp]
      - [Login instructions](pdf/MLP-instructions.pdf)
 - Forms:
@@ -18,6 +17,8 @@ description: "Differential Equations - 2018 Summer"
     - [Office Reassessment][office-form]
 - [Module C Slides][slides]
 - [Google Drive](drive/)
+
+<!--   - [Sample Exercises with solutions][exercises] -->
 
 ---
 
