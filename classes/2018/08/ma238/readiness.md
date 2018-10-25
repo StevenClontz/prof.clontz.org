@@ -4,6 +4,18 @@ title: "MA 238 Readiness"
 description: "Readiness materials"
 ---
 
+# Module N (Nov 1)
+
+- Compute partial derivatives
+  - <https://youtu.be/3itjTS2Y9oE>
+- Determine where multivariate functions are continuous
+  - <https://youtu.be/RGx-pmWlOpk>
+- Use a linear approximation to estimate the value of a function
+  - <https://youtu.be/oxwCRzQOCu8>
+- Solve separable ODEs
+  - Standard F2
+
+
 # Module S (Oct 18)
 
 - Solve systems of two equations in two variables, even when coefficients are functions.
