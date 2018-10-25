@@ -57,36 +57,54 @@ description: "2018 Fall"
 - Thursday, Oct 11
   - *NO CLASS - Fall Break*
 - Tuesday, Oct 16
-  - Comprehensive Mastery Quiz C1-F6
+  - Comprehensive Mastery Quiz C1-C6,F2-F6
 - Thursday, Oct 18
   - Module S Readiness
-  - Mastery Quiz F3,F5,F6
+  - Mastery Quiz F1,F3,F5,F6
 - Tuesday, Oct 23
-  - Standard S1
-  - Mastery Quiz F1,F2,F4
+  - Standards S1-S2
 - Thursday, Oct 25
+  - Standards S2-S3
 - Tuesday, Oct 30
+  - Standard S3
+  - Mastery Quiz F1,F2,F4,S1,S2
 
 ### November
 
 - Thursday, Nov 1
+  - Mastery Quiz F3,F5,F6,S3
+  - Module N Readiness Quiz
 - Tuesday, Nov 6
+  - Standards N1-N2
+  - Mastery Quiz F4,S1,S2
 - Thursday, Nov 8
+  - Standards N2-N3
+  - Mastery Quiz F5,F6,S3,N1
 - Tuesday, Nov 13
+  - Standards N3-N4
+  - Mastery Quiz S1,S2,N2
 - Thursday, Nov 15
+  - Standards N4-N5
+  - Mastery Quiz S3,N1,N3
 - Tuesday, Nov 20
+  - Mastery Quiz S1,S2,N2,N4,N5
+  - Module D Readiness Quiz
 - Thursday, Nov 22
   - *NO CLASS - Thanksgiving Holiday*
 - Tuesday, Nov 27
+  - Standards D1-D2
 - Thursday, Nov 29
+  - Standards D2-D3
 
 ### December
 
 - Tuesday, Dec 4
+  - Standards D3-D4
 - Thursday, Dec 6
   - *Last Day of Class*
-
-Refer to [South's offical final exam schedule][final-schedule]
-for information on the time for the final exam.
+  - Comprehensive Mastery Quiz
+- Final Exam
+  - Refer to [South's offical final exam schedule][final-schedule]
+    for information on the time for the final exam.
 
 [final-schedule]: http://www.southalabama.edu/departments/registrar/finalexamschedule-fall.html
