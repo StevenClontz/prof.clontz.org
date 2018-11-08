@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "MA 434/542"
-description: "Topology - 2018 Fall"
+title: "MA 490/590"
+description: "General Topology - 2019 Spring"
 ---
 
 #### Quick Links
@@ -14,7 +14,7 @@ description: "Topology - 2018 Fall"
 
 ## Course Information
 
-* Semester: 2018 Fall 
+* Semester: 2019 Spring 
 * Title: Special Topics in General Topology 
 * Sections:
     * MA 490-101 (Undergraduate)
@@ -174,9 +174,10 @@ lowered due to multiple excusable absences.
 Academic Honesty is defined in
 [USA's Student Academic Conduct Policy][usa-academic-conduct].
 Any student who is caught
-cheating will immediately lose credit for all earned **✓**, either for
-the relevant specification or the whole semester as appropriate. In addition,
-the incident will be reported to the university.
+cheating will immediately forfeit any credit earned, either for
+the relevant specification or the whole semester as appropriate.
+This credit must be reearned on subsequent assessments/presentations. 
+In addition, the incident will be reported to the university.
 
 In particular, cheating includes copy-pasting and blind rewriting of
 results from other students, books, or the internet and submitting
