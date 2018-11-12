@@ -81,25 +81,25 @@ description: "2018 Fall"
   - Standards N2-N3
   - Mastery Quiz F5,F6,S3,N1
 - Tuesday, Nov 13
-  - Standards N3-N4
+  - Standards N4
   - Mastery Quiz S1,S2,N2
 - Thursday, Nov 15
-  - Standards N4-N5
+  - Standards N5
   - Mastery Quiz S3,N1,N3
 - Tuesday, Nov 20
+  - Standard D1
   - Mastery Quiz S1,S2,N2,N4,N5
-  - Module D Readiness Quiz
 - Thursday, Nov 22
   - *NO CLASS - Thanksgiving Holiday*
 - Tuesday, Nov 27
-  - Standards D1-D2
+  - Standards D2
 - Thursday, Nov 29
-  - Standards D2-D3
+  - Standards D3
 
 ### December
 
 - Tuesday, Dec 4
-  - Standards D3-D4
+  - Standards D4
 - Thursday, Dec 6
   - *Last Day of Class*
   - Comprehensive Mastery Quiz
