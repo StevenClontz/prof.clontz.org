@@ -215,8 +215,11 @@ an additional Advanced Modeling (AM) Mastery Mark **✓**. Up to three of
 these may be earned throughout the semester.
 
 Archive:
-- [AM/C2 due on 10-02](pdf/AM-01.pdf)
-- [AM/C6 due on 10-09](pdf/AM-02.pdf)
+- [AM-01](pdf/AM-01.pdf)
+- [AM-02](pdf/AM-02.pdf)
+- [AM-03](pdf/AM-02.pdf)
+- [AM-04](pdf/AM-02.pdf)
+- [AM-05](pdf/AM-05.pdf)
 
 ## Office Reassessments
 
