@@ -17,6 +17,7 @@ description: "Differential Equations - 2018 Summer"
     - [Office Reassessment][office-form]
 - [Module C Slides][slides]
 - [Google Drive](drive/)
+- [Integral/Transform Table][formula-table]
 
 <!--   - [Sample Exercises with solutions][exercises] -->
 
@@ -296,5 +297,7 @@ printed progress reports.
 
 [revision-form]: pdf/revision-form.pdf
 [office-form]: pdf/office-form.pdf
+
+[formula-table]: pdf/table.pdf
 
 [mlp]: https://usouthal-mlpui.openclass.com/
