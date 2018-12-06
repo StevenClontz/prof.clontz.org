@@ -1,0 +1,43 @@
+\documentclass{article}
+
+\usepackage{amsmath,multicol}
+\usepackage[letterpaper,margin=1in]{geometry}
+\pagenumbering{gobble}
+\newcommand{\tablePage}{
+\begin{center}\Huge Integral Formulas\end{center}
+\begin{align*}
+\int e^{ax}\sin(bx) \,dx &= \frac{1}{a^2+b^2} e^{a x} \left(a \sin(bx) - b\cos(bx)\right)+C \\
+\int e^{ax}\cos(bx) \,dx &= \frac{1}{a^2+b^2} e^{a x} \left(a \cos(bx) + b\sin(bx)\right)+C \\
+\int \sin(a x) \cos(b x) \,dx &= \frac{b \sin(a x) \sin(b x) + a \cos(a x) \cos(b x)}{b^2 - a^2} + C \\
+\int \sin(a x) \sin(b x) \,dx &= \frac{b \sin(a x) \cos(b x) - a \cos(a x) \sin(b x)}{a^2 - b^2} + C \\
+\int  \cos(a x) \cos(b x) \,dx &= \frac{a \sin(a x) \cos(b x) - b \cos(a x) \sin(b x)}{a^2 - b^2} + C \\
+\int xe^{ax} \,dx &= \frac{1}{a^2}(ax-1)e^x+C \\
+\int x^2e^{ax} \,dx &= \frac{1}{a^3}(a^2x^2-2ax+2)e^x+C \\
+\int x^3e^{ax} \,dx &= \frac{1}{a^4}(a^3x^3-3a^2x^2+6ax-6)e^x+C \\
+%\int \frac{1}{1+x^2} \ dx &= \tan ^{-1} (x)+C
+\end{align*}
+
+\vfill
+
+\begin{center}\Huge Laplace Transformation Formulas\end{center}
+\begin{align*}
+\L\left\{y'\right\} &= s\L\{y\}-y(0) \\
+\L\left\{y''\right\} &= s^2\L\{y\}-sy(0)-y'(0) \\
+\L\left\{1\right\} &= \frac{1}{s} \\
+\L\left\{t^n\right\} &= \frac{n!}{s^{n+1}} \\
+\L\left\{e^{at}\right\} &= \frac{1}{s-a} \\
+\L\left\{ \sin(bt) \right\} &= \frac{b}{s^2+b^2}  \\ 
+\L\left\{ \cos(bt) \right\} &= \frac{s}{s^2+b^2}\\ 
+\L\left\{ \delta(t-a) \right\} &= e^{-as}  \\ 
+\L\left\{ u(t-a)\right\} &= \frac{e^{-as}}{s} \\ 
+\L\left\{ f(t-a)u(t-a)\right\} &= e^{-as} \L\{f\} \\ 
+\end{align*}
+}
+\begin{document}
+\large
+\tablePage
+
+\newpage
+
+\tablePage
+\end{document}
