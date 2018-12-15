@@ -9,12 +9,9 @@ description: "Differential Equations - 2018 Summer"
 - [Standards][standards]
 - [Calendar][calendar]
 - [Readiness materials][readiness]
-- [Google Drive](drive/)
+- [Google Drive](/classes/drive/)
 - [Gradescope][gradescope]
 - [Integral/Transform Table][formula-table]
-- MyLabsPlus
-   - [Website][mlp]
-   - [Login instructions](pdf/MLP-instructions.pdf)
 - Forms:
     - [**✱** Revision][revision-form]
     - [Office Reassessment][office-form]
@@ -30,7 +27,9 @@ description: "Differential Equations - 2018 Summer"
   * 105: TR 11:00am-12:15pm
   * MSPB 360
 * Office Hours
-  * TR 09:15am-10:45am and TBD
+  * TR 09:15am-10:45am
+  * (For students taking TR 9:30am classes):
+    TR 12:15pm-1:00pm 
   * MSPB 314
 
 ## Course Content
@@ -276,13 +275,9 @@ USAOnline.
 
 [calendar]: calendar/
 
-[standards]: pdf/standards.pdf
+[standards]: standards/
 
-[slides]: pdf/slides-1-C.pdf
-
-[exercises]: pdf/sample-exercises.pdf
-
-[readiness]: readiness
+[readiness]: readiness/
 
 [revision-form]: pdf/revision-form.pdf
 [office-form]: pdf/office-form.pdf
@@ -290,5 +285,3 @@ USAOnline.
 [gradescope]: https://www.gradescope.com/
 
 [formula-table]: pdf/table.pdf
-
-[mlp]: https://usouthal-mlpui.openclass.com/

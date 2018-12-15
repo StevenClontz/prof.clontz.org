@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Google Drive"
-description: "Instructions"
+description: "Instructions for my classes"
 ---
 
 * Go to <https://drive.google.com> or use the Google Drive app
@@ -10,6 +10,6 @@ description: "Instructions"
   account (if you aren't already).
 * Using the left menu bar, click/tap `Team Drives`.
 * Click/tap on the Team Drive whose name matches our course.
-* Use the `(+)` button to upload pictures to the appropriate folder.
-* Warning: uploaded photos cannot be deleted; please use
-  care in uploading files.
+* Use the `(+)` button to upload documents to the appropriate folder.
+* Warning: uploaded documents can only be deleted by the instructor;
+  please use care in uploading files.

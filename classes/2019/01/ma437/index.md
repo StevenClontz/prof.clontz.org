@@ -20,7 +20,7 @@ description: "Complex Variables - 2019 Spring"
     - TR 6:00-7:15pm
     - MSPB 360
 - Office Hours
-    - TBA 
+    - W 3:00-4:30pm 
     - MSPB 314
 
 ## Course Content
@@ -91,10 +91,10 @@ that they also satisfy two other specifications.
 The other three specifications are achieved based upon success
 on assessments given periodically during the course:
 
-- Thurs Feb 7
-- Thurs Mar 7
-- Thurs Apr 4
-- Final Exam (May, TBA)
+- Thurs Feb 14
+- Thurs Mar 14
+- Thurs Apr 11
+- Tues Apr 30, 6pm-8pm (Final Exam)
 
 Assessments are cumulative; however, only sections that have
 not already been Mastered need be attempted (see below).
@@ -179,4 +179,4 @@ printed progress reports.
 
 
 [text]: http://jiblm.org/downloads/dlitem.php?id=72&category=jiblmjournal
-[drive]: drive/ 
+[drive]: /classes/drive/ 
