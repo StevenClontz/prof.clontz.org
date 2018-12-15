@@ -49,9 +49,8 @@ learning outcomes defined by the Association of American Colleges & Universities
 Much of the material for this course will be provided on the course website
 or uploaded to [Google Drive](drive/).
 
-Homework will be assigned from [MyLabsPlus][mlp], which includes an eBook.
-An access code for MyLabsPlus is available in the university bookstore, optionally
-bundled with a physical textbook.
+The textbook carried in the univeristy bookstore will not be required.
+A free online respository of homework exercises will be provided instead.
 
 The use of any calculator is allowed on assessments, 
 as long as it does not support communication
@@ -61,24 +60,25 @@ functionality or internet connectivity.
 
 Grades in this course are determined based upon your mastery of the
 Course Standards. Each time you successfully demonstrate
-mastery of a Standard by correctly solving a relevant exercise, you will
-earn a **Mastery Mark ✓**. Up to two **✓** per Standard will be awarded.
-All students will have the opportunity to demonstrate mastery on
-two Comprehensive Mastery Quizzes and a Final Exam; additional opportunities
-will be made available to students who actively participate in the course
-(see below).
-
-TODO: An additional **3✓** for completing **Advanced Modeling (AM)** tasks,
-plus an additional **✓** for completing **Homework**,
-for a total of **52✓**.
+mastery of a Standard by correctly completing a relevant exercise/project, you will
+earn a **Mastery Mark ✓**. Up to two **✓** per Standard will be awarded
+for the 17 non-modeling standards, and one **✓** per Standard will be awarded
+for the 8 modeling standards, for a maximum of 42 **✓**.
 
 Letter grades are assigned based on how much content was learned
 by each student, measured by how many **✓** were earned.
 
-* **A**: **48✓**, including **3✓** from AM
-* **B**: **42✓**, including **1✓** from AM
-* **C**: **36✓**
-* **D**: **30✓**
+* **A**: **40✓**
+* **B**: **35✓**
+* **C**: **30✓**
+* **D**: **25✓**
+
+## Student Data
+
+Grade data will be provided to students via regular
+printed progress reports. Students are also highly encouraged to
+opt-in to using the [Gradescope][gradescope] platform to receive instant
+notficiation of assignment results via email and the web.
 
 ## Active/Inactive Students
 
@@ -105,7 +105,7 @@ to the material, allowing students to master the
 course standards in an environment where they may discuss topics and ask
 questions freely with their peers and the instructor.
 
-If two or more students from the class submit a request to the instructor 
+If any student from the class submits a request to the instructor 
 by email to do so, a
 **Peer Evaluation Survey** will be conducted to allow teammates to
 provide anonymous feedback to each other.
@@ -137,33 +137,28 @@ that will be assigned for that standard.
 These should be completed by each team on the
 provided whiteboard, showing all details and uploaded to Google Drive.
 
-## MyLabsPlus
-
-Online homework for many (not all) of the course standards is available
-on [MyLabsPlus][mlp].
-
 ## Mastery Quizzes
 
 During most class days,
 Active students will be able to complete a short **Mastery Quiz**.
-Each standard covered in class will appear on up to three Mastery Quizzes,
+Each non-modeling standard covered in class will appear on up to three Mastery Quizzes,
 at most once a week.
 A schedule of which standards are covered on each quiz is available on
 the [Calendar][calendar].
 
-All submissions are due by the end of the class period.
-Inactive students will not receive any credit for these quizzes unless
+Submissions by Inactive students will not be marked unless 
 they have previously scheduled a time to meet with the instructor to discuss their
 status.
 
 In addition, all students will
 be offered two 75-minute **Comprehensive Mastery Quizzes**
+and a 120-minute **Final Exam**
 that include exercises for every standard covered
-in the class so far.
+in the class to that date.
 
-Quizzes are randomized and personalized for each student based upon the most recent
-progress report; standards that have already been completely mastered
-by a student will not appear on the personalized quiz.
+Quizzes are randomized and personalized for each student based upon their
+current progress; standards that have already been completely mastered
+by a student will not be assigned on the personalized quiz.
 
 ### Marking Quizzes
 
@@ -182,11 +177,11 @@ Each submitted solution will be marked as follows:
   The solution demonstrates negligible understanding of the given
   standard.
 
-Only **✓** contribute to improving a student's letter grade for the course;
+Only **✓** affect a student's letter grade for the course;
 all other accumulated marks will be ignored at the end of the semester.
-So, a student who earns 42 **✓** and 3 **✘** throughout the semester
+So, a student who earns 35 **✓** and 3 **✘** throughout the semester
 will earn the same grade
-as a student who earns 42 **✓** and 300 **✘**.
+as a student who earns 35 **✓** and 300 **✘**.
 
 ### Revising Solutions
 
@@ -197,19 +192,24 @@ the date of the next assessment.
 This submission will be marked as usual, with at most one additional
 re-revision allowed in the case of a very minor mistake.
 
-## Advanced Modeling Exercises 
+## Modeling Projects 
 
-TODO: Occassionally the instructor will assign a take-home exercise based
-on an Advanced Modeling (AM) exercise, worth
-an additional Advanced Modeling (AM) Mastery Mark **✓**. Up to three of
-these may be earned throughout the semester.
+As they are covered in class, individualized take-home projects will
+be assigned based upon the modeling standards. 
+These will be marked similarly to quizzes, except that
+all submissions may be revised for an improved mark. 
 
-Archive:
-- [AM-01](pdf/AM-01.pdf)
-- [AM-02](pdf/AM-02.pdf)
-- [AM-03](pdf/AM-02.pdf)
-- [AM-04](pdf/AM-02.pdf)
-- [AM-05](pdf/AM-05.pdf)
+Keep in mind
+that while the first submission will be marked promptly by the
+instructor upon its due date, further revisions will be marked
+based on the instructor's availability. 
+Since projects with even minor errors will be marked as **✱**
+and will require corrections, it's highly encouraged 
+that students type up their projects so they can be easily revised.
+
+Project revisions are due
+either on the last day of class or the date of the final exam (depending
+on when the project was assigned). 
 
 ## Office Reassessments
 
@@ -241,20 +241,13 @@ throughout the semester, so students who keep up with the
 material throughout the semester will have a shorter final
 than students who attempt to cram everything in at the last minute. 
 
-## Student Data
-
-Grade data will be provided to students via regular
-printed progress reports. Students may also opt-in to
-using the [Gradescope][gradescope] app to receive instant
-notficiation of quiz results via email and the web.
-
 ## Academic Honesty
 
 Academic Honesty is defined in
 [USA's Student Academic Conduct Policy][usa-academic-conduct].
 Any student who is caught
 cheating will immediately lose credit for all earned **✓**
-throughout the entire semester, will become Inactive in the course,
+throughout the entire semester, will become permanently Inactive in the course,
 and will have to take the remaining assessments by appointment
 in the instructor's office.
 In addition, the incident will be reported to the university.
