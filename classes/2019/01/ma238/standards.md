@@ -68,11 +68,9 @@ Use numerical approximation methods to analyze unsolvable IVPs.
 
 - **N1: Existence and uniqueness.**
   Apply an existence and uniqueness theorem to a second-order linear IVP.
-- **N2: Euler's method for first-order IVPs.**
-  Estimate the value of an IVP solution using Euler's method. 
-- **N3: Euler's method for IVP systems.**
+- **N2: Euler's method for IVP systems.**
   Estimate the value of an IVP system solution using Euler's method.
-- **N4m: Programming Euler's method.**
+- **N3m: Programming Euler's method.**
   Implement Euler's method using technology.
 
 ## Module D
@@ -82,7 +80,7 @@ Solve and apply ODEs that involve discontinuous functions or distributions.
 - **D1: Laplace transform.**
   Compute the Laplace transform of a function from the definition.
 - **D2: Discontinuous IVPs.**
-  Use Laplace transforms to solve IVPs involving discontinous functions or distributions.
+  Use Laplace transforms to solve IVPs involving a step function or Dirac delta distribution.
 - **D3m: Non-smooth motion.**
   Model and analyze motion involving instantaneous acceleration.
 - **D4m: Mass-spring impulse.**

@@ -62,16 +62,16 @@ Grades in this course are determined based upon your mastery of the
 Course Standards. Each time you successfully demonstrate
 mastery of a Standard by correctly completing a relevant exercise/project, you will
 earn a **Mastery Mark ✓**. Up to two **✓** per Standard will be awarded
-for the 17 non-modeling standards, and one **✓** per Standard will be awarded
-for the 8 modeling standards, for a maximum of 42 **✓**.
+for the 16 non-modeling standards, and one **✓** per Standard will be awarded
+for the 8 modeling standards, for a maximum of 40 **✓**.
 
 Letter grades are assigned based on how much content was learned
 by each student, measured by how many **✓** were earned.
 
-* **A**: **40✓**
-* **B**: **35✓**
-* **C**: **30✓**
-* **D**: **25✓**
+* **A**: **38✓**
+* **B**: **33✓**
+* **C**: **28✓**
+* **D**: **23✓**
 
 ## Student Data
 
