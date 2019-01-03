@@ -11,9 +11,9 @@
 \int \sin(a x) \cos(b x) \,dx &= \frac{b \sin(a x) \sin(b x) + a \cos(a x) \cos(b x)}{b^2 - a^2} + C \\
 \int \sin(a x) \sin(b x) \,dx &= \frac{b \sin(a x) \cos(b x) - a \cos(a x) \sin(b x)}{a^2 - b^2} + C \\
 \int  \cos(a x) \cos(b x) \,dx &= \frac{a \sin(a x) \cos(b x) - b \cos(a x) \sin(b x)}{a^2 - b^2} + C \\
-\int xe^{ax} \,dx &= \frac{1}{a^2}(ax-1)e^x+C \\
-\int x^2e^{ax} \,dx &= \frac{1}{a^3}(a^2x^2-2ax+2)e^x+C \\
-\int x^3e^{ax} \,dx &= \frac{1}{a^4}(a^3x^3-3a^2x^2+6ax-6)e^x+C \\
+\int xe^{ax} \,dx &= \frac{1}{a^2}(ax-1)e^{ax}+C \\
+\int x^2e^{ax} \,dx &= \frac{1}{a^3}(a^2x^2-2ax+2)e^{ax}+C \\
+\int x^3e^{ax} \,dx &= \frac{1}{a^4}(a^3x^3-3a^2x^2+6ax-6)e^{ax}+C \\
 %\int \frac{1}{1+x^2} \ dx &= \tan ^{-1} (x)+C
 \end{align*}
 
@@ -30,7 +30,7 @@
 \L\left\{ \cos(bt) \right\} &= \frac{s}{s^2+b^2}\\ 
 \L\left\{ \delta(t-a) \right\} &= e^{-as}  \\ 
 \L\left\{ u(t-a)\right\} &= \frac{e^{-as}}{s} \\ 
-\L\left\{ f(t-a)u(t-a)\right\} &= e^{-as} \L\{f\} \\ 
+\L\left\{ f(t-a)u(t-a)\right\} &= \L\{f\}e^{-as}  \\ 
 \end{align*}
 }
 \begin{document}
