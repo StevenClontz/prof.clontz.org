@@ -41,3 +41,5 @@ and slow down to 2 pages each day towards the end.
 ### Final Exam
 
 - Apr 30, 6pm-8pm
+
+[text]: http://jiblm.org/downloads/dlitem.php?id=72&category=jiblmjournal
