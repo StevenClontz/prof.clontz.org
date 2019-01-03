@@ -5,11 +5,11 @@ description: "Pacing guide"
 ---
 
 Our [textbook][text] has 59 pages to be covered in 25 class days
-(not including the first class day or three assessment days),
+(not including the first class day plus three assessment days),
 meaning about 2.36 pages should be covered each day.
-This pacing guide has been written assuming 3 pages
+This pacing guide has been written assuming roughly 3 pages
 will be covered each day towards the beginning of the course,
-and slow down to 2 pages each day towards the end.
+and slow down to about 2 pages each day towards the end.
 
 ### Module 1 (3 days)
 
