@@ -42,7 +42,6 @@ learning outcomes defined by the Association of American Colleges & Universities
 
 - Convert relevant information into various mathematical forms 
   (e.g., equations, graphs, diagrams, tables, words).
-- Solve mathematical problems
 
 ## Textbook and Resources
 
