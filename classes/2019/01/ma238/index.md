@@ -6,15 +6,17 @@ description: "Differential Equations - 2018 Summer"
 
 #### Quick Links
 
-- [Standards][standards]
 - [Calendar][calendar]
-- [Readiness materials][readiness]
-- [Google Drive](/classes/drive/)
-- [Gradescope][gradescope]
-- [Integral/Transform Table][formula-table]
+- Content:
+  - [Readiness materials][readiness]
+  - [List of Standards][standards]
+  - [Practice Exercises][mastr]
+  - [Integral/Transform Table][formula-table]
 - Forms:
     - [**✱** Revision][revision-form]
     - [Office Reassessment][office-form]
+- [Google Drive](/classes/drive/)
+- [Gradescope][gradescope]
 
 ---
 
@@ -185,8 +187,8 @@ as a student who earns 35 **✓** and 300 **✘**.
 ### Revising Solutions
 
 A student may improve a solution marked as **✱** to **✓** by completing a
-[Revision Form][revision-form] outside of class and submitting it on
-the date of the next assessment. 
+[Revision Form][revision-form] outside of class and promptly submitting
+it in class, usually the following Tuesday. 
 
 This submission will be marked as usual, with at most one additional
 re-revision allowed in the case of a very minor mistake.
@@ -204,7 +206,8 @@ instructor upon its due date, further revisions will be marked
 based on the instructor's availability. 
 Since projects with even minor errors will be marked as **✱**
 and will require corrections, it's highly encouraged 
-that students type up their projects so they can be easily revised.
+that students write in pencil or
+type up their projects so they can be easily revised.
 
 Project revisions are due
 either on the last day of class or the date of the final exam (depending
@@ -275,5 +278,5 @@ USAOnline.
 [office-form]: pdf/office-form.pdf
 
 [gradescope]: https://www.gradescope.com/
-
+[mastr]: https://mastr.clontz.org
 [formula-table]: pdf/table.pdf
