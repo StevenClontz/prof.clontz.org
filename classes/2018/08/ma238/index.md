@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "MA 238"
-description: "Differential Equations - 2018 Summer"
+description: "Differential Equations - 2018 Fall"
 ---
 
 #### Quick Links
