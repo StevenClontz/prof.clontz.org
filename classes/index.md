@@ -4,7 +4,7 @@ title: "Classes"
 description: "Information on my courses"
 ---
 
-## 2018 Fall 
+## 2019 Spring 
 
-- [MA 238 Differential Equations](/classes/2018/08/ma238/)
-- [MA 434/542 Topology](/classes/2018/08/ma434)
+- [MA 238 Differential Equations](/classes/2019/01/ma238)
+- [MA 437 Complex Variables](/classes/2019/01/ma437)

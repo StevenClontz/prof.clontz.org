@@ -22,8 +22,9 @@ description: "Complex Variables - 2019 Spring"
     - TR 6:00-7:15pm
     - MSPB 360
 - Office Hours
-    - W 3:00-4:30pm 
+    - W 1:30-3:00pm 
     - MSPB 314
+    - Also M 1:30-3:00pm when available; email to confirm.
 
 ## Course Content
 
