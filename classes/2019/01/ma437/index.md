@@ -66,28 +66,23 @@ presenting solutions and proofs to fill in its gaps.
 
 ## Presentation
 
-On the first day of class, students will be assigned to teams.
-The majority of in-class time will be spent on presentations
-within each team. Each week, the instructor will choose which
-topics should be presented, and each team will decide how to 
-distribute these presentations within their team.
-
-Presentations should be photographed and uploaded to
-the class [Google Drive][drive].
+Each student is expected to prepare and give approximately one presentation per week
+during class. The instructor will assign the topic, but students
+are welcome to request changes in assignment as needed. To get credit
+for presenting, the student must prepare written notes to accompany
+the presentation.
+Presentations will be accepted as long as a good-faith effort
+was made in their preparation.
 
 ### Satisfying the Presentation Specification
 
-Each week, team members will complete an online form rating
-their teammates contribution for that week, summing to a
-total of 100%. (For example, a student with five teammates
-could rank all five as 20%, or rank one 60% and the four others
-10%.) 
+Students who miss at most one assigned presentation will have satisifed
+this specifciation. 
 
-Students whose average contribution rating
-is 15% or better at the end of the semester will have
-satisfied this specification. Students receiving at least 10%
-but less than 15% will also satisfy this specification, provided 
-that they also satisfy two other specifications.
+Students who miss two or more presentations will
+be assigned a take-home project due by the date of the final exam, the scope of
+which will be based upon the number of missed presentations; 
+completion of this project will satisfy this specification as well.
 
 ## Assessments
 
