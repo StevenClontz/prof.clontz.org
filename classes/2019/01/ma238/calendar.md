@@ -11,21 +11,21 @@ description: "2019 Spring"
   - Orientation
 - Thursday, Jan 10
   - Module C Readiness
-  - Solving linear systems
+  - Solving linear systems, C1
 - Tuesday, Jan 15
   - Standard C1,C2
 - Thursday, Jan 17
-  - Standard C2,C3m
-  - Mastery Quiz on C1
+  - Mastery Quiz on C1,C2
+  - Standard C3m
 - Tuesday, Jan 22
-  - Standard C3m,C4
   - Mastery Quiz on C2
+  - Standard C4
 - Thursday, Jan 24
+  - Mastery Quiz on C1,C4
   - Standard C5,C6
-  - Mastery Quiz on C1
 - Tuesday Jan 29
-  - Standard C6,C7m
   - Mastery Quiz on C2,C4,C5
+  - Standard C6,C7m
 - Thursday, Jan 31
   - Module F Readiness
   - Mastery Quiz on C1,C6 
