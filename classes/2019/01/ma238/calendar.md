@@ -19,7 +19,7 @@ description: "2019 Spring"
   - Standard C3m
 - Tuesday, Jan 22
   - Mastery Quiz on C2
-  - Standard C4
+  - Standard C3m,C4
 - Thursday, Jan 24
   - Mastery Quiz on C1,C4
   - Standard C5,C6
