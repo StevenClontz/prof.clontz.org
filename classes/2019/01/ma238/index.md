@@ -15,6 +15,7 @@ description: "Differential Equations - 2019 Spring"
 - Forms:
     - [**✱** Revision][revision-form]
     - [Office Reassessment][office-form]
+- [Modeling Project Instructions](modeling/)
 - [Google Drive](/classes/drive/)
 - [Gradescope][gradescope]
 
