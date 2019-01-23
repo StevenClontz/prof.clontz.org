@@ -21,16 +21,24 @@ description: "2019 Spring"
   - Mastery Quiz on C2
   - Standard C3m,C4
 - Thursday, Jan 24
-  - Mastery Quiz on C1,C4
-  - Standard C5,C6
+  - Mastery Quiz on C1
+  - Standard C4,C5
 - Tuesday Jan 29
-  - Mastery Quiz on C2,C4,C5
-  - Standard C6,C7m
+  - Mastery Quiz on C2,C4
+  - Standard C5,C6
 - Thursday, Jan 31
-  - Module F Readiness
-  - Mastery Quiz on C1,C6 
+  - Mastery Quiz on C1,C5,C6 
+  - Standard C6,C7m
 
 ### February
+
+- Tuesday Jan 29
+  - Mastery Quiz on ??
+  - Module F Readiness
+- Thursday, Jan 31
+  - Mastery Quiz on C1,C5,C6 
+  - Standard C6,C7m
+
 
 ### March
 
