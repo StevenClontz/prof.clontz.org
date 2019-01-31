@@ -28,8 +28,9 @@ description: "2019 Spring"
   - Standard C6
 - Thursday, Jan 31
   - In-person class is replaced with 
-    online videos for standards C6,C7m
-    to be posted ASAP.
+    online videos for standards C6,C7m:
+  - C6: <https://youtu.be/MBlluscdMfw>
+  - C7m: to be posted ASAP
 
 ### February
 
