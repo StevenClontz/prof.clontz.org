@@ -27,17 +27,18 @@ description: "2019 Spring"
   - Mastery Quiz on C4,C5
   - Standard C6
 - Thursday, Jan 31
-  - Mastery Quiz on C1,C2
-  - Standard C6,C7m
+  - In-person class is replaced with 
+    online videos for standards C6,C7m
+    to be posted ASAP.
 
 ### February
 
 - Tuesday, Feb 05
-  - Mastery Quiz on C4,C5
+  - Mastery Quiz on C2,C4,C5
+  - Standard C7m
   - Module F Readiness
-  - Standard F1
 - Thursday, Feb 07
-  - Mastery Quiz on C6 
+  - Mastery Quiz on C1,C6 
   - Standard F1,F2
 - Tuesday, Feb 12
   - Mastery Quiz on C4,C5,F1
