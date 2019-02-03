@@ -30,7 +30,7 @@ description: "2019 Spring"
   - In-person class is replaced with 
     online videos for standards C6,C7m:
   - C6: <https://youtu.be/MBlluscdMfw>
-  - C7m: to be posted ASAP
+  - C7m: <https://youtu.be/hBQ87fE0nk0>
 
 ### February
 
