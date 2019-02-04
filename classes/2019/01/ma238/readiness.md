@@ -32,9 +32,8 @@ description: "Readiness materials"
 - Find the potential function of a conservative vector field.
   - <https://youtu.be/nY4mW_R-T40>
   - <https://prof.clontz.org/classes/2017/06/ma227/standards/c12/>
-- Use variation of parameters to solve non-homogeneous ODEs when given the
-  solution to the corresponding homogeneous ODE 
-  - Standard C6
+- Use variation of parameters to solve non-homogeneous first-order ODEs.
+  - Standard C2
 
 # Module S
 
