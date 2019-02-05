@@ -1,9 +1,14 @@
 ---
 layout: page
 title: "MA 437 Calendar"
-description: "Pacing guide"
+description: "Assessment dates"
 ---
 
+- Assessment covering Ch 1-3 on Mar 14
+- Assessment covering Ch 1-5 on Apr 11
+- Final Exam covering Ch 1-6 on Apr 30, 6pm-8pm
+
+<!--
 Our [textbook][text] has 59 pages to be covered in 25 class days
 (not including the first class day plus three assessment days),
 meaning about 2.36 pages should be covered each day.
@@ -41,5 +46,6 @@ and slow down to about 2 pages each day towards the end.
 ### Final Exam
 
 - Apr 30, 6pm-8pm
+-->
 
 [text]: http://jiblm.org/downloads/dlitem.php?id=72&category=jiblmjournal
