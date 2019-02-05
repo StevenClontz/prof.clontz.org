@@ -59,6 +59,17 @@ description: "2019 Spring"
 
 ### March
 
+- Tuesday, Mar 05
+- Thursday, Mar 07
+- Tuesday, Mar 12
+- Thursday, Mar 14
+  - Comprehensive Mastery Quiz C1-??
+
+**Spring Break**
+
+- Tuesday, Mar 26
+- Thursday, Mar 28
+
 ### April
 
 ### Final Exam
