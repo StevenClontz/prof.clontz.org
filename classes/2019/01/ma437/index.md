@@ -9,7 +9,7 @@ description: "Complex Variables - 2019 Spring"
 - [Textbook][text]
 - [Calendar][calendar]
 - [Google Drive][drive]
-- [Take-Home Assessment due Feb 5][home-assessment]
+- [Take-Home Assessment II due Feb 21][home-assessment]
 
 ---
 
@@ -180,4 +180,4 @@ printed progress reports.
 [text]: http://jiblm.org/downloads/dlitem.php?id=72&category=jiblmjournal
 [drive]: /classes/drive/ 
 [sample-assessment]: pdf/sample-assessment.pdf 
-[home-assessment]: pdf/takehome-assessment.pdf 
+[home-assessment]: pdf/takehome-assessment-2.pdf 
