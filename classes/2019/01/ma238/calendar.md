@@ -52,7 +52,7 @@ description: "2019 Spring"
   - Cover F4,F5
 - Thursday, Feb 21
   - Mastery Quiz on C6,F4
-  - Cover F5,F6
+  - Cover F6
 - Tuesday, Feb 26
   - Mastery Quiz on F1,F2,F5
   - Module S Readiness
