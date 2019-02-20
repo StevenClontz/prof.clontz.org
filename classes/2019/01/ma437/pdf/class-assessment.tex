@@ -1,0 +1,137 @@
+\documentclass[13pt]{exam}
+
+\usepackage{amsmath,amsfonts, amsthm}
+\newcommand{\ds}{\ensuremath{\displaystyle}}
+\newcommand{\setB}[2]{\left\{#1:#2\right\}}
+
+\printanswers
+
+\begin{document}
+
+\begin{center}
+\fbox{\fbox{\parbox{5.5in}{\centering
+MA437 - 2019 Spring - Assessment 02/19 - Dr. Clontz
+}}}
+\end{center}
+\vspace{0.1in}
+\makebox[\textwidth]{
+  Name:\enspace\hrulefill\hrulefill\hrulefill\space
+}
+
+\vspace{12pt}
+
+\vspace{1em}
+
+Circle the most appropriate response for each.
+
+\section*{Chapter 2 Computation}
+
+\begin{questions}
+
+\setcounter{question}{0}
+
+\question Let \(f(z)=z^2+\overline{z}\). Find \(f(3-4i)\).
+\begin{choices}
+\choice \(20+9i\)
+\choice \(-7-20i\)
+\choice \(-10+9i\)
+\choice None of these. 
+\end{choices}
+
+\question Find \(\displaystyle\lim_{z\to i-1}\frac{z^2+2z+2}{z+1-i}\). 
+\begin{choices}
+\choice \(0\)
+\choice \(2i\)
+\choice \(4-3i\)
+\choice None of these. 
+\end{choices}
+
+\question Find the value of \(\frac{d}{dz}\left[\frac{z^2+2z+2}{z+1-i}\right]\)
+when \(z=i\). 
+\begin{choices}
+\choice \(1\)
+\choice \(-i\)
+\choice \(2-2i\)
+\choice None of these. 
+\end{choices}
+
+\question Let \(z=x+iy\) and \(f(z)=x^2-y^2+(2xy)i\). Find \(f'(1+i)\). 
+\begin{choices}
+\choice \(3\)
+\choice \(-4i\)
+\choice \(2+2i\)
+\choice None of these. 
+\end{choices}
+
+\question Let \(z=x+iy\) and \(f(z)=u(z)+iv(z)=ye^{2ix}\). Find \(v_x\).
+\begin{choices}
+\choice \(2y\cos(2x)\)
+\choice \(2x\sin(2y)\)
+\choice \(2e^{xy}\)
+\choice None of these. 
+\end{choices}
+\end{questions}
+
+\section*{Chapter 2 Knowledge}
+
+Circle the most appropriate response for each.
+
+\begin{questions}
+
+\setcounter{question}{5}
+
+\question If \(\lim_{z\to z_0}\frac{f(z)-f(z_0)}{z-z_0}\) exists,
+then \(f\) is differentiable at \(z\). 
+\begin{choices}
+\choice True
+\choice False
+\end{choices}
+
+\question There exists a continuous function \(f\) such that \(g\) defined by 
+\(g(z)=-5f(z)+f(z)^2\) is discontinuous at some point. 
+\begin{choices}
+\choice True
+\choice False
+\end{choices}
+
+\question There exists a differentiable function \(f\) such that
+every directional derivative of \(f\) exists.
+\begin{choices}
+\choice True
+\choice False
+\end{choices}
+
+\question The domain of \(f(z)=\frac{2}{z+\overline{z}}\) is all complex numbers
+with a nonzero real part. 
+\begin{choices}
+\choice True
+\choice False
+\end{choices}
+
+\question If \(f\) is singular at a point \(z_0\), then there exists a disk 
+\(\{z:|z-z_0|<\epsilon\}\) around that point
+such that \(f\) is non-differentiable at every point in that disk.
+(Put another way, \(z_0\) is far away from any points at which \(f\) is
+differentiable.) 
+\begin{choices}
+\choice True
+\choice False
+\end{choices}
+\end{questions}
+
+\section*{Chapter 2 Proofs}
+
+Prove one (not both) of the following.
+
+\begin{questions}
+
+\setcounter{question}{10}
+
+\question 
+Prove that \(\lim_{z\to 1}\frac{z-1}{\overline{z}-1}\) does not exist.
+\question 
+Prove that \(f(z)=\overline{z}^2\) is differentiable at exactly one point.
+
+\end{questions}
+
+\end{document}

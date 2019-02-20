@@ -9,7 +9,8 @@ description: "Complex Variables - 2019 Spring"
 - [Textbook][text]
 - [Calendar][calendar]
 - [Google Drive][drive]
-- [Take-Home Assessment II due Feb 21][home-assessment]
+- Assessments
+  - [Take-Home II due Feb 21][home-assessment]
 
 ---
 
