@@ -38,7 +38,7 @@ description: "Readiness materials"
 # Module S
 
 - Solve systems of two equations with functional coefficients in two variables.
-  - <https://youtu.be/Y6JsEja15Vk> 
+  - <https://youtu.be/QrVV6c_26WE>
 - Solve second order constant coefficient equations, including non-homogeneous ones.
   - Standard C6
 - Model basic mass-spring systems.
