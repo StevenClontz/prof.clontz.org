@@ -59,18 +59,18 @@ description: "2019 Spring"
   - Cover S1
 - Thursday, Feb 28
   - Mastery Quiz on F4,F6
-  - Cover S1,S2m
+  - Cover S2m
 
 
 ### March
 
 - Tuesday, Mar 05
-  - Mastery Quiz on F5,S1
-  - Cover S2m,S3
+  - **Mardi Gras - No class**
 - Thursday, Mar 07
-  - Mastery Quiz on F4,F6
-  - Cover S3, S4m
+  - Mastery Quiz on F5,S1
+  - Cover S3
 - Tuesday, Mar 12
+  - Mastery Quiz on F4,F6
   - Cover S4m
 - Thursday, Mar 14
   - Comprehensive Mastery Quiz on Modules C-S
