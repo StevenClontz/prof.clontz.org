@@ -11,8 +11,9 @@ description: "Complex Variables - 2019 Spring"
 - [Google Drive][drive]
 - Assessments
   - [Take-Home I][home-assessment-1]
-  - [Take-Home II due Feb 21][home-assessment-2]
+  - [Take-Home II][home-assessment-2]
   - [Class I][class-assessment-1]
+  - [Class II][class-assessment-2]
 
 ---
 
@@ -186,4 +187,5 @@ printed progress reports.
 [home-assessment-1]: pdf/takehome-assessment.pdf 
 [home-assessment-2]: pdf/takehome-assessment-2.pdf 
 [class-assessment-1]: pdf/class-assessment.pdf 
+[class-assessment-2]: pdf/class-assessment-2.pdf 
 
