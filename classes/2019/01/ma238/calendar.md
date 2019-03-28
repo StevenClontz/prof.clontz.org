@@ -82,24 +82,23 @@ description: "2019 Spring"
   - Module N Readiness
   - Cover N1
 - Thursday, Mar 28
-  - Mastery Quiz on TBA
   - Cover N1,N2
 
 ### April
 
 - Tuesday, Apr 02
   - Mastery Quiz on S3,N1
-  - Cover N2,N3m
-- Thursday, Apr 04
-  - Mastery Quiz on N2
   - Cover N3m
   - Module D Readiness
+- Thursday, Apr 04
+  - Mastery Quiz on N2
+  - Cover D1
 - Tuesday, Apr 09
   - Mastery Quiz on N1
-  - Cover D1
+  - Cover D1,D2
 - Thursday, Apr 11
   - Mastery Quiz on N2
-  - Cover D1,D2
+  - Cover D2
 - Tuesday, Apr 16
   - Mastery Quiz on N1,D1
   - Cover D2,D3m
