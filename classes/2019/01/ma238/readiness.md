@@ -57,8 +57,8 @@ description: "Readiness materials"
 
 # Module D
 - Apply the method of partial fractions.
-  - <https://prof.clontz.org/resources/calculus2/2/4/>
+  - <https://prof.clontz.org/resources/calculus2/2/4/> (only 2.4.1)
 - Compute improper integrals.
-  - <https://prof.clontz.org/resources/calculus2/5/5/>
+  - <https://prof.clontz.org/resources/calculus2/5/5/> (only 5.5.1)
 - Model basic mass-spring systems.
   - Standard C7m
