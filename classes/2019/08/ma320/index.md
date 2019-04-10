@@ -1,57 +1,49 @@
 ---
 layout: page
-title: "MA 437"
-description: "Complex Variables - 2019 Spring"
+title: "MA 320"
+description: "Foundations of Math- 2019 Fall"
 ---
 
 #### Quick Links
 
-- [Textbook][text]
+- [Course Notes][notes]
 - [Calendar][calendar]
 - [Google Drive][drive]
-- Assessments
-  - [Take-Home I][home-assessment-1]
-  - [Take-Home II][home-assessment-2]
-  - [Class I][class-assessment-1]
-  - [Class II][class-assessment-2]
 
 ---
 
 ## Course Information
 
-- Semester: 2019 Spring 
-- Title: Complex Variables 
+- Semester: 2019 Fall
+- Title: Foundations of Math 
 - Section:
-    - MA 437-501
+    - MA 320-101
 - Class Time:
-    - TR 6:00-7:15pm
-    - MSPB 360
+    - TR 2:00-3:15pm
+    - HUMB TBA
 - Office Hours
-    - W 1:30-3:00pm 
+    - W 10:45am-1:45pm 
     - MSPB 314
-    - Also M 1:30-3:00pm when available; email to confirm.
 
 ## Course Content
 
-This course will focus on six main modules as covered
-in our [text][text]:
+A transition to higher mathematics with an emphasis on proof techniques. 
+Topics include symbolic logic, elementary set theory, induction, relations, 
+functions, and the structure of the number system. 
 
-- Algebra of complex numbers
-- Analytic functions
-- Examples of complex functions
-- Integrals
-- Series
-- Residues and Poles 
+We will spend most of our class time working through freely available
+[course notes][notes]. A textbook is available in the bookstore or online,
+*Bridge to Higher Mathematics*, by Sam Vandervelde, but it is not required. 
 
 ## Grading
 
 Grades in this course are determined based upon satisfactory completion
 of four grade specifications:
 
-- **Presentation** 
-- **Computation**
+- **Discussions** 
+- **Presentations** 
 - **Knowledge** 
-- **Proof**
+- **Proofs**
 
 Letter grades are assigned at the end of the semester as follows:
 
@@ -61,35 +53,57 @@ Letter grades are assigned at the end of the semester as follows:
 - D: 1/4 specifications satisfied
 - F: No specifications satisfied
 
-## Textbook and Resources
+## Discussions
 
-We will use the free textbook
-[A First Course in Undergraduate Complex Analysis][text].
-This inquiry-based learning textbook outlines the major ideas for
-the course, and we will spend the majority of our class time
-presenting solutions and proofs to fill in its gaps. 
+Each Thursday, students will be assigned a portion of the course notes
+to review over the weekend before class meets again on Tuesday. This material
+will be discussed online at TODO.
 
-## Presentation
+Based on this score, each student will be assigned a requirement between 60% and 90%
+that must be earned on the final exam to satisfy this specification. In particular,
+the student that has the best discussion score will only need to earn 60% on the final
+to satisfy this specification, but the student with the worst discussion score will
+need to earn closer to 90%.
 
-Each student is expected to prepare and give approximately one presentation per week
-during class. The instructor will assign the topic, but students
-are welcome to request changes in assignment as needed. To get credit
-for presenting, the student must prepare written notes to accompany
-the presentation.
-Presentations will be accepted as long as a good-faith effort
-was made in their preparation.
+## Presentations
 
-### Satisfying the Presentation Specification
+When assigning weekend notes to review, some of the problems will be assigned 
+to specific students to be presented during the next week of class.
+After each student presentation, the other students will submit a rating of the
+presentation.
 
-Students who miss at most one assigned presentation will have satisifed
-this specifciation. 
+Based upon these rating, each student will be assigned a requirement between 60%
+and 90%
+that must be earned on the final exam to satisfy this specification. In particular,
+the student that has the best discussion score will only need to earn 60% on the final
+to satisfy this specification, but the student with the worst discussion score will
+need to earn closer to 90%.
 
-Students who miss two or more presentations will
-be assigned a take-home project due by the date of the final exam, the scope of
-which will be based upon the number of missed presentations; 
-completion of this project will satisfy this specification as well.
+### Adjustment of Final Exam Requirement
 
-## Assessments
+If both the discussion and presentation final exam requirements are within 10%,
+then the lower requirement will be changed to be 10% less than the higher requirement.
+
+## Knowledge 
+
+As material is covered, certain topics (called [Standards][standards]) 
+will be assessed on periodic Knowledge Quizzes.
+
+(TODO add check/star/etc rating scale)
+
+Half of the credit on the final exam will be based upon these standards, and if
+an exercise is answered correctly on the final, it will still count toward this
+specification.
+
+Students that master X/Y standards by the end of the semester will satisfy this
+specification.
+
+## Proofs
+
+This course is designated as a [Writing-Intensive Course][WIC] by the university.
+As such, students are required to maintain a Proofs Portfolio over the course of
+the semester. This portfolio will include one example of each of the types of
+proofs we will cover in this course. 
 
 The other three specifications are achieved based upon success
 on assessments given periodically during the course:
