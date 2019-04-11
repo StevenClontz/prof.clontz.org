@@ -15,9 +15,9 @@ description: "Differential Equations - 2019 Fall"
 - Forms:
     - [**✱** Revision][revision-form]
     - [Office Reassessment][office-form]
-    - [Take-Home Project](modeling/)
+    - [Take-Home Project][project-form]
 - Apps:
-    - [Google Drive](/classes/drive/)
+    - [Google Drive][drive]
     - [Gradescope][gradescope]
 
 ---
@@ -35,26 +35,23 @@ description: "Differential Equations - 2019 Fall"
 
 ## Course Content
 
-The course is split into five **Modules**, each of which is split into
+The course is split into four **Modules**, each of which is split into
 several [**Standards**][standards] of learning.
-
-In particular, our course standards are aligned with the following
-learning outcomes defined by the Association of American Colleges & Universities:
-
-- Convert relevant information into various mathematical forms 
-  (e.g., equations, graphs, diagrams, tables, words).
 
 ## Textbook and Resources
 
 Much of the material for this course will be provided on the course website
 or uploaded to [Google Drive](drive/).
 
-The textbook carried in the univeristy bookstore will not be required.
+The textbook carried in the univeristy bookstore is available for reference,
+but will not be required.
 A free online respository of homework exercises will be provided instead.
 
 The use of any calculator is allowed on assessments, 
 as long as it does not support communication
-functionality or internet connectivity.
+functionality or internet connectivity. You may also use the provided
+[Integral/Transform Table][formula-table] (which will be more useful
+later in the course).
 
 ## Grading
 
@@ -62,16 +59,16 @@ Grades in this course are determined based upon your mastery of the
 Course Standards. Each time you successfully demonstrate
 mastery of a Standard by correctly completing a relevant exercise/project, you will
 earn a **Mastery Mark ✓**. Up to two **✓** per Standard will be awarded
-for the 16 non-modeling standards, and one **✓** per Standard will be awarded
-for the 8 modeling standards, for a maximum of 40 **✓**.
+for the 17 standards assessed in-class, and one **✓** per Standard will be awarded
+for the 9 assessed on take-home projects, for a maximum of 43 **✓**.
 
 Letter grades are assigned based on how much content was learned
 by each student, measured by how many **✓** were earned.
 
-* **A**: **38✓**
-* **B**: **33✓**
-* **C**: **28✓**
-* **D**: **23✓**
+* **A**: **40✓**
+* **B**: **35✓**
+* **C**: **30✓**
+* **D**: **25✓**
 
 ## Student Data
 
@@ -91,11 +88,10 @@ students that meet any of the following criteria may be designated as
 - Receiving excessive negative feedback on a Peer Evaluation Survey
   (or neglecting to complete it).
 
-Such students may be returned
-to Active status by making an appointment and meeting with the instructor
-and signing a contract to address the issues that caused them to fall
-Inactive. A student that becomes Inactive three times will remain Inactive
-permanently for the semester.
+When a student meets any of these criteria, they will receive an email 
+from the instructor with a list of requirements to maintain their Active status,
+along with a deadline. Inactive status may be returned to Active status
+at the discretion of the instructor.
 
 ## Teams
 
@@ -120,13 +116,15 @@ All excused absences must be documented via email with the instructor.
 
 ## Readiness Assurance
 
-Before each module of the course, students are given a 
-[list of materials](readiness)
-for review. Readiness for that module will be assessed on a **Readiness
+Periodically throughout the course, students will be given a 
+[list of materials](readiness) for review. Preparedness will then
+be assessed on a multiple-choice **Readiness
 Quiz**, first individually and then as a team.
 High scores reflect sufficient preparedness for the module, while low
 scores demonstrate a need for further review.
 A 70% average of both quizzes is required to pass this quiz.
+Students who do not pass the quiz will be given an opportunity to submit
+a full-response retake of the quiz to the instructor.
 
 ## Class Activities
 
@@ -135,7 +133,8 @@ providing theory, formulas, and examples. After this introduction,
 students will collaborate on one or more team activities similar to exercises
 that will be assigned for that standard.
 These should be completed by each team on the
-provided whiteboard, showing all details and uploaded to Google Drive.
+provided whiteboard, showing all details. Photos of this work will then be 
+uploaded to Google Drive.
 
 ## Mastery Quizzes
 
@@ -145,12 +144,9 @@ Each non-modeling standard covered in class will appear on up to three Mastery Q
 at most once a week.
 A schedule of which standards are covered on each quiz is available on
 the [Calendar][calendar].
+Inactive students will not receive credit for these quizzes.
 
-Submissions by Inactive students will not be marked unless 
-they have previously scheduled a time to meet with the instructor to discuss their
-status.
-
-In addition, all students will
+In addition, all students (Active and Inactive) will
 be offered two 75-minute **Comprehensive Mastery Quizzes**
 and a 120-minute **Final Exam**
 that include exercises for every standard covered
@@ -192,42 +188,38 @@ it in class, usually the following Tuesday.
 This submission will be marked as usual, with at most one additional
 re-revision allowed in the case of a very minor mistake.
 
-## Modeling Projects 
+## Take-Home Projects 
 
-As they are covered in class, individualized take-home projects will
-be assigned based upon the modeling standards. 
-These will be marked similarly to quizzes, except that
-all submissions may be revised for an improved mark. 
+As they are covered in class, take-home projects will
+be assigned for certain standards. 
+These will be marked similarly to quizzes for feedback purposes,
+but **ⓘ** and **✘** marks may also be revised.
 
-Keep in mind
-that while the first submission will be marked promptly by the
-instructor upon its due date, further revisions will be marked
-based on the instructor's availability. 
-Since projects with even minor errors will be marked as **✱**
-and will require corrections, it's highly encouraged 
-that students write in pencil or
-type up their projects so they can be easily revised.
-
-Project revisions are due
-either on the last day of class or the date of the final exam (depending
-on when the project was assigned). 
+Each project has several due dates; the instructor will give feedback
+as soon as possible after each due date. All students who don't receive
+mastery credit on a due date for whatever reason may submit for
+grading on the next due date. After (usually) three due dates, students
+must meet with the instructor during office hours to discuss further
+submissions, or submit a final revision at the final exam.
 
 ## Office Reassessments
 
 During office hours each week, Active students may take advantage of
-[Office Reassessments][office-form]. 
-Students that satisfactorily
-meet the requirements given on the linked form will be given the opportunity
+Office Reassessments. Students that meet the requirements given on the 
+[Office Reassessment Form][office-form] will be given the opportunity
 to solve a new exercise for credit.
 
-Note that availability for this opportunity may be limited due to
-student demand, particularly later in the semester.
+Students may earn at most two **✓** in this way each week.
+Availability for this opportunity may be more limited due to
+student demand later in the semester.
 
 ## Missed Quizzes 
 
-Students that miss one or more quizzes due to excused
-absences may request additional time on the second Comprehensive Mastery Quiz
-held near the end of the semester.
+Students that miss one or more Mastery Quizzes due to excused
+absences may choose to take a Makeup Quiz. These are offered around
+midsemester and near the end of the semester. These quizzes are
+comprehensive, but the number of responses the student may give
+is limited by the number of quizzes missed due to excused absences. 
 
 ## Final Exam
 
@@ -235,12 +227,6 @@ The **Final Exam** is the same format as a Comprehensive Mastery Quiz,
 except that students will have 120 minutes and no revisions will be allowed.
 Instead, up to four **✱** marks earned on the Final Exam
 will be automatically upgraded to **✓**.
-
-In particular, demonstrating mastery on the Final Exam has
-the same benefit as demonstrating mastery on Mastery Quizzes
-throughout the semester, so students who keep up with the
-material throughout the semester will have a shorter final
-than students who attempt to cram everything in at the last minute. 
 
 ## Academic Honesty
 
@@ -275,7 +261,9 @@ USAOnline.
 
 [revision-form]: pdf/revision-form.pdf
 [office-form]: pdf/office-form.pdf
-
-[gradescope]: https://www.gradescope.com/
-[mastr]: https://mastr.clontz.org
+[project-form]: pdf/project-form.pdf
 [formula-table]: pdf/table.pdf
+
+[gradescope]: https://www.gradescope.com
+[mastr]: https://mastr.clontz.org
+[drive]: https://drive.google.com

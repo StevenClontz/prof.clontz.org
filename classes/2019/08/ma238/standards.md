@@ -89,9 +89,8 @@ Solve and apply ODEs using the Laplace transform.
 - **L2: Inverse Laplace transform.**
   Compute the inverse Laplace transform of a function from a formula sheet 
   using partial fractions or convolution.
-- **L3: Discontinuous IVPs.**
-  Solve IVPs involving a step function or Dirac delta distribution
-  in terms of an inverse Laplace transform.
+- **L3h: Discontinuous IVPs.**
+  Solve IVPs involving a step function or Dirac delta distribution.
 - **L4h: Non-smooth motion.**
   Model and analyze motion involving instantaneous acceleration.
 - **L5h: Mass-spring impulse.**

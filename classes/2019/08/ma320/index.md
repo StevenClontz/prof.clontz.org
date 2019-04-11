@@ -8,7 +8,7 @@ description: "Foundations of Math- 2019 Fall"
 
 - [Course Notes][notes]
 - [Calendar][calendar]
-- [Google Drive][drive]
+- [CampusWire][campuswire]
 
 ---
 
@@ -20,7 +20,7 @@ description: "Foundations of Math- 2019 Fall"
     - MA 320-101
 - Class Time:
     - TR 2:00-3:15pm
-    - HUMB TBA
+    - HUMB 212
 - Office Hours
     - W 10:45am-1:45pm 
     - MSPB 314
@@ -32,149 +32,127 @@ Topics include symbolic logic, elementary set theory, induction, relations,
 functions, and the structure of the number system. 
 
 We will spend most of our class time working through freely available
-[course notes][notes]. A textbook is available in the bookstore or online,
+[course notes][notes] written by B.J. Baker. 
+A textbook is available in the bookstore or online,
 *Bridge to Higher Mathematics*, by Sam Vandervelde, but it is not required. 
 
 ## Grading
 
-Grades in this course are determined based upon satisfactory completion
-of four grade specifications:
+The default grade for each student is determined based upon 
+of three requirements, detailed further below:
 
-- **Discussions** 
-- **Presentations** 
-- **Knowledge** 
-- **Proofs**
+- **Content Mastery** 
+  - +1 Letter Grade
+- **Proofs Portfolio**
+  - +1 Letter Grade
+- **Final Exam**
+  - +2 Letter Grades
+  - The difficulty of each student's final exam will be based upon 
+    that student's
+    contributions to online **Discussions** and in-class
+    **Presentations**.
 
-Letter grades are assigned at the end of the semester as follows:
+At the end of the course, grades are asssigned as follows:
 
-- A: All specifications satisfied
-- B: 3/4 specifications satisfied
-- C: 2/4 specifications satisfied
-- D: 1/4 specifications satisfied
-- F: No specifications satisfied
+- **A**: +4 Letter Grades earned
+- **B**: +3 Letter Grades earned
+- **C**: +2 Letter Grades earned
+- **D**: +1 Letter Grades earned
+- **F**: 0 Letter Grades earned
 
 ## Discussions
 
 Each Thursday, students will be assigned a portion of the course notes
-to review over the weekend before class meets again on Tuesday. This material
-will be discussed online at TODO.
+to review and discuss over the weekend before class meets again on Tuesday. This material
+will be discussed online at [CampusWire][campuswire], which assigns a reputation score
+to each student based upon contributions and reactions from classmates and the instructor.
 
-Based on this score, each student will be assigned a requirement between 60% and 90%
-that must be earned on the final exam to satisfy this specification. In particular,
-the student that has the best discussion score will only need to earn 60% on the final
-to satisfy this specification, but the student with the worst discussion score will
-need to earn closer to 90%.
+Based on this score, each student will be assigned a
+Final Exam Requirement between 60% and 90%, with the best student being assigned 60%.
+(Earning this requirement on the final will improve your overall grade by one letter.)
 
 ## Presentations
 
-When assigning weekend notes to review, some of the problems will be assigned 
-to specific students to be presented during the next week of class.
-After each student presentation, the other students will submit a rating of the
-presentation.
+When assigning notes for online discussion, individual students will be assigned
+to certain sections of the notes. These students are responsible for presenting
+this material to the class during the following week.
+After each in-class student presentation, the other students will submit a rating of the
+presentation to the instructor.
 
-Based upon these rating, each student will be assigned a requirement between 60%
-and 90%
-that must be earned on the final exam to satisfy this specification. In particular,
-the student that has the best discussion score will only need to earn 60% on the final
-to satisfy this specification, but the student with the worst discussion score will
-need to earn closer to 90%.
+Based upon these ratings, each student will be assigned a 
+Final Exam Requirement between 60% and 90%, with the best student being assigned 60%.
+(Earning this requirement on the final will improve your overall grade by one letter.)
 
-### Adjustment of Final Exam Requirement
+### Adjustment of Final Exam Requirements
 
-If both the discussion and presentation final exam requirements are within 10%,
+If both the discussion and presentation Final Exam Requirements are within 10%,
 then the lower requirement will be changed to be 10% less than the higher requirement.
 
-## Knowledge 
+## Content Mastery 
 
 As material is covered, certain topics (called [Standards][standards]) 
-will be assessed on periodic Knowledge Quizzes.
+will be assessed on periodic Mastery Quizzes, which are maked as follows.
 
-(TODO add check/star/etc rating scale)
+* **Mastery Mark ✓**:
+  The solution demonstrates complete mastery of the given standard.
+* **Revision Mark ✱**:
+  The solution might demonstrate mastery of the given standard,
+  but needs to be revised for clarity/accuracy.
+* **Issues Mark ⓘ**:
+  The solution demonstrates partial understanding of the given standard,
+  but has one or more issues that suggest that further study is required to
+  develop complete mastery.
+* **✘**:
+  The solution demonstrates negligible understanding of the given
+  standard.
 
-Half of the credit on the final exam will be based upon these standards, and if
-an exercise is answered correctly on the final, it will still count toward this
-specification.
+Marks other than **✓** may be reattempted on future quizzes. Once a **✓**
+has been earned for a Standard, that Standard is considered Mastered (regardless
+of how many attempts were made).
 
-Students that master X/Y standards by the end of the semester will satisfy this
-specification.
+Students that Master at least 85% of the Standards by the end of the semester 
+will earn +1 Letter Grade. These Standards will also be on the Final Exam
+and can be Mastered at that time as well (see below).
 
 ## Proofs
 
 This course is designated as a [Writing-Intensive Course][WIC] by the university.
-As such, students are required to maintain a Proofs Portfolio over the course of
+As such, students are required to compile a Proofs Portfolio over the course of
 the semester. This portfolio will include one example of each of the types of
-proofs we will cover in this course. 
+proofs we will cover in this course, in addition to one proof based on introductory
+material from another MA 300/400 course.
 
-The other three specifications are achieved based upon success
-on assessments given periodically during the course:
+An important part of this process is instructor and peer review, followed by revisions.
+Students will be required to post drafts to CampusWire as well as provide feedback to
+peers on early drafts.
 
-- Thurs Feb 14
-- Thurs Mar 14
-- Thurs Apr 11
-- Tues Apr 30, 6pm-8pm (Final Exam)
+The complete portfolio will be printed and submitted to the instructor at the final exam.
+Students that submit a satisfactory portfolio according to the [rubric][portfolio-rubric]
+will earn +1 Letter Grade. 
 
-Assessments are cumulative; however, only sections that have
-not already been Mastered need be attempted (see below).
-If an assessment is missed due to an excusable absence,
-additional time on future assessments may be requested.
+## Final Exam
 
-## Computation
+The Final Exam will be graded out of 100%. Half of this score will be
+based upon Content Mastery exercises (which may also be used to
+meet the Content Mastery requirements for the course). 
+The rest of this score will be based on writing proofs (which do not
+affect the Proofs Portfolio).
 
-Each assessment will include a multiple-choice Computation section for 
-each module covered by that point of the course.
-
-### Satisfying the Computation Specification
-
-Students who correctly answer at least 70% of the questions in
-the Computation section for a module will have Mastered
-that module's Computations.
-
-Students who Master the Computations for at least 5 modules
-will have satisfied this specification.
-
-## Knowledge 
-
-Each assessment will include a true/false Knowledge section for 
-each module covered by that point of the course.
-
-### Satisfying the Knowledge Specification
-
-Students who correctly answer at least 70% of the questions in
-the Knowledge section for a module will have Mastered
-that module's Knowledge.
-
-Students who Master the Knowledge for at least 5 modules
-will have satisfied this specification.
-
-## Proofs
-
-Each assessment will include a Proof section for 
-each module covered by that point of the course.
-Each section will include one or more exercises that may
-be attempted, but only one Proof solution per module may be submitted.
-In addition, at most two Proof solutions total may be submitted
-per assessment (with the exception of the Final Exam).
-
-### Satisfying the Proofs Specification
-
-Proofs will be marked as Mastered, Revisable, Has Issues,
-or Negligible Progress. Revisable proofs may be revised
-and resubmitted in a timely fashion to improve to Mastered. 
-At the end of the semester, one Has Issues proof may be 
-revised and resubmitted to improve to Mastered.
-
-Students who have submitted a Mastered Proof for at least
-5 modules will have satisfied this specification.
+Any student who earns 90% or better will earn +2 Letter Grades, and any student
+who earns 80% or better will earn at least +1 Letter Grade. 
+However, these requirements
+may be lowered as far as 60% and 50% respectively by participating in
+Discussions and Presentations (see above).
 
 ## Academic Honesty
 
 Academic Honesty is defined in
 [USA's Student Academic Conduct Policy][usa-academic-conduct].
 Any student who is caught
-cheating will immediately forfeit any credit earned for the
-Computation, Knowledge, and Proof specifications.
-This credit may be reearned on subsequent assessments,
-which will be given in the instructor's office by appointment. 
+cheating will permanently forfeit all credit earned for the
+relevant area of the course (Discussions, Presentations,
+Content Mastery, Proofs, or the Final Exam) as well as
+be deducted one letter grade.
 In addition, the incident will be reported to the university.
 
 A second instance of academic dishonesty will immediately
@@ -192,14 +170,11 @@ printed progress reports.
 
 [usa-course-policies]: https://www.southalabama.edu/departments/academicaffairs/resources/policies/additionalacademiccoursepolicies.pdf
 
+[wic]: https://www.southalabama.edu/departments/academicsuccess/wac/wcoursecriteria.html
+
 [usa-academic-conduct]: http://www.southalabama.edu/departments/academicaffairs/resources/policies/Student%20academic%20conduct%20policy-Final%20Version%20October%202014.pdf
 
 [calendar]: calendar/
-[text]: http://jiblm.org/downloads/dlitem.php?id=72&category=jiblmjournal
+[notes]: http://jiblm.org/downloads/jiblmjournal/V160342S/V160342S.pdf
 [drive]: /classes/drive/ 
-[sample-assessment]: pdf/sample-assessment.pdf 
-[home-assessment-1]: pdf/takehome-assessment.pdf 
-[home-assessment-2]: pdf/takehome-assessment-2.pdf 
-[class-assessment-1]: pdf/class-assessment.pdf 
-[class-assessment-2]: pdf/class-assessment-2.pdf 
 
