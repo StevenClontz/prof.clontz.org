@@ -100,10 +100,10 @@ description: "2019 Spring"
   - Mastery Quiz on N2,D1
   - Cover D2
 - Tuesday, Apr 16
-  - Mastery Quiz on N1,D2
-  - Cover D3m
+  - Mastery Quiz on N1,N2
+  - Cover D2,D3m
 - Thursday, Apr 18
-  - Mastery Quiz on N2,D1
+  - Mastery Quiz on D1,D2
   - Cover D3m,D4m
 - Tuesday, Apr 23 
   - Cover D4m
