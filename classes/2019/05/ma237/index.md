@@ -1,21 +1,26 @@
 ---
 layout: page
-title: "MA 238"
-description: "Differential Equations - 2019 Fall"
+title: "MA 237"
+description: "Linear Algebra- 2019 May"
 ---
 
 #### Quick Links
 
 - [Calendar][calendar]
 - Content:
-  - [Readiness materials][readiness]
+  - [Course Slides][slides]
   - [Standards][standards]
-  - [Homework/Practice Exercises][mastr]
-  - [Integral/Transform Table][formula-table]
+  - [Homework/Practice Exercises][homework]
+  - [Sample Solutions][sample]
+  - Readiness materials:
+    - [Module E][readiness-E]
+    - [Module V][readiness-V]
+    - [Module A][readiness-A]
+    - [Module M][readiness-M]
+    - [Module G][readiness-G]
 - Forms:
     - [**✱** Revision][revision-form]
     - [Office Reassessment][office-form]
-    - [Take-Home Project][project-form]
 - Apps:
     - [Google Drive][drive]
     - [Gradescope][gradescope]
@@ -24,18 +29,18 @@ description: "Differential Equations - 2019 Fall"
 
 ## Course Information
 
-* Semester: 2019 Fall
-* Title: Differential Equations
-* Sections: MA 238-101
-  * TR 9:30am-10:45am
+* Semester: 2019 May
+* Title: Linear Algebra
+* Sections: MA 237-111
+  * TR 9:00am-11:46am
   * MSPB 360
 * Office Hours
-  * TR 10:45am-01:45pm
+  * TR 12:30pm-02:00pm
   * MSPB 314
 
 ## Course Content
 
-The course is split into four **Modules**, each of which is split into
+The course is split into five **Modules**, each of which is split into
 several [**Standards**][standards] of learning.
 
 ## Textbook and Resources
@@ -45,30 +50,30 @@ or uploaded to [Google Drive](drive/).
 
 The textbook carried in the univeristy bookstore is available for reference,
 but will not be required.
-A free online respository of homework exercises will be provided instead.
+A free online respository of [notes][slides] and 
+[homework exercises][homework] will be provided instead.
 
 The use of any calculator is allowed on assessments, 
 as long as it does not support communication
-functionality or internet connectivity. You may also use the provided
-[Integral/Transform Table][formula-table] (which will be more useful
-later in the course).
+functionality or internet connectivity. 
 
 ## Grading
 
 Grades in this course are determined based upon your mastery of the
 Course Standards. Each time you successfully demonstrate
-mastery of a Standard by correctly completing a relevant exercise/project, you will
+mastery of a Standard by correctly completing a relevant exercise, you will
 earn a **Mastery Mark ✓**. Up to two **✓** per Standard will be awarded
-for the 17 standards assessed in-class, and one **✓** per Standard will be awarded
-for the 9 assessed on take-home projects, for a maximum of 43 **✓**.
+for the 24 standards, for a maximum of 48 **✓**. Two additional
+**✓** may be earned on the final exam for answering questions related to
+applications of linear algebra discussed at the end of the course.
 
 Letter grades are assigned based on how much content was learned
 by each student, measured by how many **✓** were earned.
 
-* **A**: **40✓**
-* **B**: **35✓**
-* **C**: **30✓**
-* **D**: **25✓**
+* **A**: **46✓**
+* **B**: **41✓**
+* **C**: **36✓**
+* **D**: **31✓**
 
 ## Student Data
 
@@ -83,7 +88,7 @@ By default all students are considered **Active** in the course. However,
 students that meet any of the following criteria may be designated as
 **Inactive**:
 
-- Accumulating two unexcused absences within three weeks of each other.
+- Accumulating two or more unexcused absences.
 - Failing a Readiness Quiz. 
 - Receiving excessive negative feedback on a Peer Evaluation Survey
   (or neglecting to complete it).
@@ -91,7 +96,7 @@ students that meet any of the following criteria may be designated as
 When a student meets any of these criteria, they will receive an email 
 from the instructor with a list of requirements to maintain their Active status,
 along with a deadline. Inactive status may be returned to Active status
-at the discretion of the instructor.
+only at the discretion of the instructor.
 
 ## Teams
 
@@ -117,7 +122,7 @@ All excused absences must be documented via email with the instructor.
 ## Readiness Assurance
 
 Periodically throughout the course, students will be given a 
-[list of materials](readiness) for review. Preparedness will then
+list of materials for review. Preparedness will then
 be assessed on a multiple-choice **Readiness
 Quiz**, first individually and then as a team.
 High scores reflect sufficient preparedness for the module, while low
@@ -128,10 +133,8 @@ a full-response retake of the quiz to the instructor.
 
 ## Class Activities
 
-The instructor will introduce each course [Standard][standards],
-providing theory, formulas, and examples. After this introduction,
-students will collaborate on one or more team activities similar to exercises
-that will be assigned for that standard.
+Students will be led through each [Standard][standards] by a sequence
+of team activies designed to break down each concept.
 These should be completed by each team on the
 provided whiteboard, showing all details. Photos of this work will then be 
 uploaded to Google Drive.
@@ -140,16 +143,15 @@ uploaded to Google Drive.
 
 During most class days,
 Active students will be able to complete a short **Mastery Quiz**.
-Except for the standards assessed by take-home projects,
-each standard will appear on up to three Mastery Quizzes,
-at most once a week.
+Each standard covered in class will appear on up to three Mastery Quizzes.
 A schedule of which standards are covered on each quiz is available on
 the [Calendar][calendar].
 Inactive students will not receive credit for these quizzes.
 
-In addition, all students (Active and Inactive) will
-be offered two 75-minute **Comprehensive Mastery Quizzes**
-and a 120-minute **Final Exam**
+In addition, during the last week of class
+all students (Active and Inactive) will
+be offered a full-class **Comprehensive Mastery Quiz**
+and **Final Exam**
 that include exercises for every standard covered
 in the class to that date.
 
@@ -176,58 +178,51 @@ Each submitted solution will be marked as follows:
 
 Only **✓** affect a student's letter grade for the course;
 all other accumulated marks will be ignored at the end of the semester.
-So, a student who earns 35 **✓** and 3 **✘** throughout the semester
+So, a student who earns 37 **✓** and 3 **✘** throughout the semester
 will earn the same grade
-as a student who earns 35 **✓** and 300 **✘**.
+as a student who earns 37 **✓** and 300 **✘**.
 
 ### Revising Solutions
 
 A student may improve a solution marked as **✱** to **✓** by completing a
 [Revision Form][revision-form] outside of class and promptly submitting
-it in class, usually the following Tuesday. 
+it within two class days of the quiz. 
 
 This submission will be marked as usual, with at most one additional
 re-revision allowed in the case of a very minor mistake.
 
-## Take-Home Projects 
-
-As they are covered in class, take-home projects will
-be assigned for certain standards. 
-These will be marked similarly to quizzes for feedback purposes,
-but **ⓘ** and **✘** marks may also be revised.
-
-Each project has several due dates; the instructor will give feedback
-as soon as possible after each due date. All students who don't receive
-mastery credit on a due date for whatever reason may submit for
-grading on the next due date. After (usually) three due dates, students
-must meet with the instructor during office hours to discuss further
-submissions, or submit a final revision at the final exam.
-
 ## Office Reassessments
 
-During office hours each week, Active students may take advantage of
+During office hours, Active students may take advantage of
 Office Reassessments. Students that meet the requirements given on the 
 [Office Reassessment Form][office-form] will be given the opportunity
 to solve a new exercise for credit.
 
-Students may earn at most two **✓** in this way each week.
-Availability for this opportunity may be more limited due to
-student demand later in the semester.
+Students may earn at most one **✓** in this way each day, resulting in
+about ten maximum for the course.
 
 ## Missed Quizzes 
 
 Students that miss one or more Mastery Quizzes due to excused
-absences may choose to take a Makeup Quiz. These are offered around
-midsemester and near the end of the semester. These quizzes are
-comprehensive, but the number of responses the student may give
-is limited by the number of quizzes missed due to excused absences. 
+absences will be given extra time on the Final Exam. 
 
 ## Final Exam
 
 The **Final Exam** is the same format as a Comprehensive Mastery Quiz,
-except that students will have 120 minutes and no revisions will be allowed.
-Instead, up to four **✱** marks earned on the Final Exam
+except that no revisions will be allowed.
+Instead, up to five **✱** marks earned on the Final Exam
 will be automatically upgraded to **✓**.
+
+## Suggested Daily Schedule
+
+Due to the very quick pacing of the course, I recommend you follow
+a daily schedule similar to:
+
+- 8:30-9am: Review for daily Mastery Quiz
+- 9-11:46am: Class
+- 11:46am-12:30pm: Lunch
+- 12:30-2pm: Office Hours (Reassessments and instructor questions)
+- Afternoon/Evening (2 hours): Review for next Mastery Quiz
 
 ## Academic Honesty
 
@@ -256,15 +251,21 @@ USAOnline.
 
 [calendar]: calendar/
 
-[standards]: standards/
+[standards]: pdf/ma237-standards.pdf
+[homework]: pdf/exercise-library.pdf
 
-[readiness]: readiness/
+[readiness-E]: pdf/handout-E-readiness.pdf
+[readiness-A]: pdf/handout-A-readiness.pdf
+[readiness-G]: pdf/handout-G-readiness.pdf
+[readiness-M]: pdf/handout-M-readiness.pdf
+[readiness-V]: pdf/handout-V-readiness.pdf
+[sample]: pdf/sample-exercises.pdf
 
 [revision-form]: pdf/revision-form.pdf
 [office-form]: pdf/office-form.pdf
 [project-form]: pdf/project-form.pdf
 [formula-table]: pdf/table.pdf
+[slides]: pdf/course-slides.pdf
 
 [gradescope]: https://www.gradescope.com
-[mastr]: https://mastr.clontz.org
 [drive]: https://drive.google.com
