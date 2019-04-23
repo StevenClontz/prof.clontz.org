@@ -32,10 +32,10 @@ description: "Linear Algebra- 2019 May"
 * Semester: 2019 May
 * Title: Linear Algebra
 * Sections: MA 237-111
-  * TR 9:00am-11:46am
+  * MTWRF 9:00am-11:46am
   * MSPB 360
 * Office Hours
-  * TR 12:30pm-02:00pm
+  * MTWRF 12:30pm-02:00pm
   * MSPB 314
 
 ## Course Content
