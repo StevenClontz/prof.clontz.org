@@ -193,8 +193,8 @@ re-revision allowed in the case of a very minor mistake.
 
 As they are covered in class, take-home projects will
 be assigned for certain standards. 
-These will be marked similarly to quizzes for feedback purposes,
-but **ⓘ** and **✘** marks may also be revised.
+These will only be marked as **✓**,
+**ⓘ**, or **✘**, but all submissions are allowed to be revised.
 
 Each project has several due dates; the instructor will give feedback
 as soon as possible after each due date. All students who don't receive
