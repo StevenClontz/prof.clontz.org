@@ -36,7 +36,7 @@ description: "Linear Algebra- 2019 May"
   * MTWRF 9:00am-11:46am
   * MSPB 360
 * Office Hours
-  * MTWRF 12:30pm-02:00pm
+  * MTWRF 01:00pm-02:30pm
   * MSPB 314
 
 ## Course Content
@@ -222,11 +222,11 @@ will be automatically upgraded to **✓**.
 Due to the very quick pacing of the course, I recommend you follow
 a daily schedule similar to:
 
-- 8:30-9am: Review for daily Mastery Quiz
-- 9-11:46am: Class
-- 11:46am-12:30pm: Lunch
-- 12:30-2pm: Office Hours (Reassessments and instructor questions)
-- Afternoon/Evening (2 hours): Review for next Mastery Quiz
+- 8:30-9:00am: Review for daily Mastery Quiz
+- 9:00-11:46am: Class
+- 11:46am-01:00pm: Lunch (while instructor grades quizzes)
+- 1:00-2:30pm: Office Hours (Reassessments and instructor questions)
+- Afternoon/Evening: Practice homework exercises
 
 ## Academic Honesty
 
