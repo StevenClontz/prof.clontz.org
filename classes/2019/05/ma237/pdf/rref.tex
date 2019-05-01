@@ -1,0 +1,1648 @@
+\documentclass{article}
+\usepackage{amsmath,ifthen,amsthm,amssymb,enumerate}
+\usepackage[margin=1in]{geometry}
+\usepackage[colorlinks=true,linkcolor=blue]{hyperref}
+
+
+\newcommand{\IR}{\mathbb{R}}
+\newcommand{\IC}{\mathbb{C}}
+\renewcommand{\P}{\mathcal{P}}
+\newcommand{\setList}[1]{\left\{#1\right\}}
+\let\Im\relax\DeclareMathOperator{\Im}{Im}
+\DeclareMathOperator{\RREF}{RREF}
+\DeclareMathOperator{\vspan}{span}
+\newcommand{\setBuilder}[2]{\left\{#1\,\middle|\,#2\right\}}
+
+\makeatletter
+\renewcommand*\env@matrix[1][*\c@MaxMatrixCols c]{%
+  \hskip -\arraycolsep
+  \let\@ifnextchar\new@ifnextchar
+  \array{#1}}
+\makeatother
+
+
+
+\begin{document}
+
+
+
+%----E2-----
+
+\[\RREF 
+\begin{bmatrix}[ccc]
+1 & 2 & -1 \\
+2 & 0 & 6  \\
+4 & -1 & 3
+\end{bmatrix} =
+\begin{bmatrix}[ccc]
+1 & 0 & 0 \\
+0 & 1 & 0  \\
+0 & 0 & 1
+\end{bmatrix}
+\]
+
+
+\[ \RREF
+\begin{bmatrix}[cccc]
+1 & -4 & 2 & 0 \\
+1 & -3 & 0 & 4 \\
+-1 & 2 & 4 & 4
+\end{bmatrix}=
+\begin{bmatrix}[cccc]
+1 & 0 & 0 & 52 \\
+0 & 1 & 0 & 16 \\
+0 & 0 & 1 & 6
+\end{bmatrix}
+\]
+
+\[ \RREF
+\begin{bmatrix}[cccc]
+1 & 0 & 1  \\
+3 & 3 & 3 \\
+5 & 3 &5 \\
+-6 & 5 & -6
+\end{bmatrix}=
+\begin{bmatrix}[cccc]
+1 & 0 & 1  \\
+0 & 1 & 0 \\
+0 & 0 &0 \\
+0 & 0 & 0
+\end{bmatrix} 
+\]
+
+\[ \RREF \begin{bmatrix}[cccc]
+2 & 3 & -1 & -2 \\
+4 & 5 & -3 & -2 \\
+-1 & 3 &5 & -8
+\end{bmatrix}=
+\begin{bmatrix}[cccc]
+1 & 0 & -2 & 2 \\
+0 & 1& 1  & -2 \\
+0 & 0 & 0 & 0
+\end{bmatrix}
+\]
+
+\[ \RREF \begin{bmatrix}[cccc]
+-1 & -5 & -4 & -29 \\
+-1 & -4 & -3 & -24 \\
+1 & 10 & 8 & 54
+\end{bmatrix} =
+\begin{bmatrix}[cccc]
+1 & 0 & 0 & 4 \\
+0 & 1 & 0 & 5 \\
+0 & 0 & 1 & 0
+\end{bmatrix}
+\]
+
+\[ \RREF \begin{bmatrix}[cccc]
+-1 & 5 & -3 & -12 \\
+1 & -3 & 3 & 4 \\
+-2 & 11 & -6 & -28
+\end{bmatrix} =
+\begin{bmatrix}[cccc]
+1 & 0 & 3 & -8 \\
+0 & 1 & 0 & -4 \\
+0 & 0 & 0 & 0
+\end{bmatrix}
+\]
+
+\[ \RREF \begin{bmatrix}[cccc]
+-4 & 1 & -2 & -30 \\
+1 & 28 & -52 & -33 \\
+0 & 7 & -13 & -10
+\end{bmatrix} =
+\begin{bmatrix}[cccc]
+1 & 0 & 0 & 7 \\
+0 & 1 & 0 & 6 \\
+0 & 0 & 1 & 4
+\end{bmatrix}
+\]
+
+\[ \RREF \begin{bmatrix}[cccc]
+2 & 2 & 4 & 2 \\
+-14 & -9 & -18 & 11 \\
+-3 & -2 & -4 & 2
+\end{bmatrix} =
+\begin{bmatrix}[cccc]
+1 & 0 & 0 & -4 \\
+0 & 1 & 2 & 5 \\
+0 & 0 & 0 & 0
+\end{bmatrix}
+\]
+
+%----E3----
+
+ \[\RREF\left( \begin{bmatrix}[ccc|c] 2 & 3 & -1 & 4 \\ 4 & 5 &-3 & -4 \\ -1 & 3 & 5 & 7 \end{bmatrix} \right) = \begin{bmatrix}[ccc|c] 1 &0 & -2 & 0 \\ 0 &1 &1 & 0 \\ 0 & 0& 0& 1 \end{bmatrix} \] 
+
+
+\[\RREF\left( \begin{bmatrix}[ccc|c]
+1 & 1& 2&5 \\ -2 &-1 &3 & 1\\ 2 & 0 &2 & 2
+\end{bmatrix} \right) 
+= \begin{bmatrix}[ccc|c]
+1 & 0 &0 &-\frac{1}{6} \\ 0& 1& 0 & \frac{17}{6} \\ 0 &0 & 1& \frac{7}{6} 
+\end{bmatrix}\]
+
+
+
+\[\RREF\left( \begin{bmatrix}[cccc|c]
+0 & 1 & -3 & 4 &1  \\
+2 & -2 &1 & 0 & -1 \\
+2 & -1 & -2 & 4 & 0\\
+-6 & 4 & 3 & -8 & 1
+\end{bmatrix} \right) 
+= \begin{bmatrix}[cccc|c] 
+1 & 0 & -5/2 & 4 &1/2  \\
+0 & 1 & -3 & 4 & 1 \\
+0 & 0 & 0 & 0 & 0\\
+0 & 0 & 0 & 0 & 0
+\end{bmatrix}
+\]
+
+
+\[\RREF\left( \begin{bmatrix}[cccc|c]
+3 & -3 & 5 & 5 & 46 \\
+ 1 & 3 & 4 & -5 & -19\\
+ 2 & 1 & -4 & -4 & -34 \\
+ -6 & -4 & 1 & 3 & 26
+\end{bmatrix} \right) 
+= \begin{bmatrix}[cccc|c]
+1 & 0 & 0 & 0 & 0\\ 
+0 & 1 & 0 & 0 & -2\\
+0 & 0 & 1 & 0 &3\\
+0 & 0 & 0 & 1 & 5
+\end{bmatrix}\]
+
+
+\[\RREF\left( \begin{bmatrix}[ccc|c]
+3 & -5 & -2 &11 \\
+-3 & -1 & -4 & -5\\
+4 & 0 & 4 & 8
+\end{bmatrix} \right) 
+= \begin{bmatrix}[ccc|c]
+1 & 0 &1 & 2 \\
+0 & 1 & 1 & -1 \\
+0 & 0 & 0 & 0 
+\end{bmatrix}\]
+
+
+\[\RREF\left( \begin{bmatrix}[ccc|c]
+-3 & -3 & -4 & 8 \\
+5 & 5 & -1 & 4 \\
+-2 & -2 & 3 & 12 
+\end{bmatrix} \right) 
+= \begin{bmatrix}[ccc|c] 
+1 & 1 & 0 & 0 \\ 
+0 & 0 & 1 & 0 \\
+ 0 & 0 & 0 & 1
+\end{bmatrix}
+\]
+
+
+\[\RREF\left( \begin{bmatrix}[cccc|c]
+0 & 2 & 2 & 4 &0  \\
+1 & 0 & -1 & -3 & 0 \\
+2 & 3 & 1 & -1 & 0\\
+-2 & 1 & 3 & -2 & 0
+\end{bmatrix} \right) 
+= \begin{bmatrix}[cccc|c] 
+1 & 0 & -1 & 0 &0  \\
+0 & 1 & 1 & 0 & 0 \\
+0 & 0 & 0 & 1 & 0\\
+0 & 0 & 0 & 0 & 0
+\end{bmatrix}
+\]
+
+
+\[\RREF\left( \begin{bmatrix}[ccc|c]
+1 & 2 & 3 & 6  \\
+0 & 1 & 1 & 2  \\
+2 & 3 & 5 & 5 \\
+-1 & 1 & 0 & 0 
+\end{bmatrix} \right) 
+= \begin{bmatrix}[ccc|c] 
+1 & 0 & 1 & 0 \\
+0 & 1 & 1 & 0 \\
+0 & 0 & 0 & 1 \\
+0 & 0 & 0 & 0 
+\end{bmatrix}
+\]
+
+
+%--V2--
+
+	\[\RREF\left(\left[\begin{array}{cc|c}
+	 3 & -2 & -19 \\ 
+	 2 & 2 &4 \\ 
+	 -5 & -2 & 5 \\ 
+	 -3 & 3 & -6
+	 \end{array} \right] \right)= \left[ \begin{array}{cc|c} 
+	 1 & 0 & 0 \\
+	  0 & 1 & 0 \\ 
+	  0 & 0 & 1 \\ 
+	  0 & 0 & 0 
+	  \end{array} \right]  \] 
+	
+\[\RREF\left(\left[\begin{array}{ccc|c} 
+		1 & -2 & 10 & -10 \\ 
+		2 & 4 & -12 & 14 \\ 
+		-2 & 3 & -16 & 21 \\ 
+		-3 & -5 & 14 & -16 
+		\end{array} \right] \right)= 
+		\left[ \begin{array}{ccc|c} 
+		1 & 0 & 2 & 0 \\
+		 0 & 1 & -4 & 0 \\
+		  0 & 0 & 0 & 1 \\ 
+		  0 & 0 & 0 & 0 
+		  \end{array} \right]\]
+
+	\[\RREF\left(\left[\begin{array}{cc|c} 
+	0 & -2 & 22 \\
+	 -1 & 0 & -13 \\ 
+	 -4 & -3 & -17 
+	 \end{array} \right] \right)= \left[ \begin{array}{cc|c} 1 & 0 & 0 \\ 0 & 1 & 0 \\ 0 & 0 & 1 \end{array} \right]  \]
+	
+	\[\RREF\left(\left[\begin{array}{ccc|c} 3 & -2 & -8 & 18 \\ 5 & -1 & 3 & -19 \\ 1 & -2 & -12 & 34 \end{array} \right] \right)= \left[ \begin{array}{ccc|c} 1 & 0 & 2 & -8\\ 0 & 1 & 7 & -21 \\ 0 & 0 & 0 & 0 \end{array} \right]\]
+	
+	
+\[\RREF 
+\left(\left[\begin{array}{cc|c}
+1 & 5 & -3 \\
+2 & 6 & -2 \\ 
+3 & 7 & -1 \\ 
+4 & 8 & 0
+\end{array}
+\right] \right)
+= \left[
+\begin{array}{cc|c}
+1 & 0 & 2 \\
+0 & 1 & -1 \\
+0 & 0 & 0 \\ 
+0 & 0 & 0
+\end{array}
+\right]\]
+
+%
+	\[\RREF 
+\left(\left[\begin{array}{cc|c}
+-2 & 4 & 1 \\
+1 & 8 & 2 \\ 
+-4 & 3 & 1 \\ 
+-1 & -8 & -2
+\end{array}
+\right] \right)
+= \left[
+\begin{array}{cc|c}
+1 & 0 & 0 \\
+0 & 1 & 0 \\
+0 & 0 & 1 \\ 
+0 & 0 & 0
+\end{array}
+\right]\]
+
+\[\RREF 
+\left(\left[\begin{array}{ccc|c}
+-1 & 1 & -3 & -2\\
+-2 & 1 & -6 & 0\\ 
+-1 & 1 & -3 &1
+\end{array}
+\right] \right)
+= \left[
+\begin{array}{ccc|c}
+1 & 3 & 0 & 0\\
+0 & 0 & 1 & 0\\ 
+0 & 0 & 0 &1
+\end{array}
+\right]\]
+
+
+
+\[\RREF 
+\left(\left[\begin{array}{ccc|c}
+-9 & 6 & 2 & 8\\
+-7 & 4 & 1 & 2\\ 
+-5 & 3 & 1 &3
+\end{array}
+\right] \right)
+= \left[
+\begin{array}{ccc|c}
+1 & 0 & 0 & 2\\
+0 & 1 & 0 & 3\\ 
+0 & 0 & 1 & 4
+\end{array}
+\right]\]
+	
+	
+%-- V3--
+
+\[\RREF\left(\begin{bmatrix}
+8 & -3 \\
+-5 & 2 \\
+1 & 0
+\end{bmatrix}\right)=
+\begin{bmatrix} 
+1 & 0 \\
+0 & 1 \\
+0 & 0
+\end{bmatrix}\]
+
+
+\[\RREF\left(\begin{bmatrix}
+-4 & 6 & 7\\
+-1 & 3 & 3\\
+-1 & 1 & 1
+\end{bmatrix}\right)=
+\begin{bmatrix} 
+1 & 0 & 0\\
+0 & 1 & 0\\
+0 & 0 & 1
+\end{bmatrix}\]
+
+
+
+\[\RREF\left(\begin{bmatrix}
+-4 & -2 & -1\\
+6 & 3 & 1\\
+7 & 3 & 1
+\end{bmatrix}\right)=
+\begin{bmatrix}
+1& 0 & 0\\
+0& 1 &0\\
+0 & 0 & 1\\
+\end{bmatrix} \]
+
+
+
+
+\[\RREF\left(\begin{bmatrix}
+2 & -9 & 0 & 1 \\
+0 & -3 & 1 & -1\\
+4 & 0 & 0 & -1\\
+2 & 9 & 2 & -1
+\end{bmatrix}\right)=
+\begin{bmatrix} 
+1 & 0 & 0 & 0\\
+0 & 1 & 0 & 0\\
+0 & 0 & 1 & 0 \\
+0 & 0 & 0 & 1
+\end{bmatrix}\]
+
+
+
+\[
+  \RREF\begin{bmatrix}
+    3 &  -2 & -3 \\
+    2 & -3 & -1 \\
+    -1 & 2 & 5 \\
+    4 & 5 & 0 \\
+    1 & 1 & 1
+  \end{bmatrix} =
+  \begin{bmatrix}
+    1 & 0 & 0\\
+    0 & 1 & 0\\
+    0 & 0 & 1\\
+    0 & 0 & 0\\
+    0 & 0 & 0
+  \end{bmatrix}
+\]
+
+
+
+\[\RREF\left(\begin{bmatrix}
+2 & -5 & 5\\
+-2 & 5 & 3\\
+-1 & 0 & 5
+\end{bmatrix}\right)=
+\begin{bmatrix} 
+1 & 0 & 0 \\
+0 & 1 & 0\\
+0 & 0 & 1
+\end{bmatrix}\]
+
+
+\[\RREF\left(\begin{bmatrix}
+4 & -4 & -4\\
+1 & -1 & -1\\
+3 & -5 & -1
+\end{bmatrix}\right)=
+\begin{bmatrix} 
+1 & 0 & -2\\
+0 & 1 & -1\\
+0 & 0 & 0
+\end{bmatrix}\]
+
+\[\RREF\left(\begin{bmatrix}
+-3 & 5 & -3 \\
+2 & -5 & 2 \\
+0 & -4 & -5 \\
+2 & 5 & -2 
+\end{bmatrix}\right)=
+\begin{bmatrix} 
+1 & 0 & 0 \\
+0 & 1 & 0 \\
+0 & 0 & 1 \\
+0 & 0 & 0
+\end{bmatrix}\]
+
+\[
+  \RREF\begin{bmatrix}
+    -2 & 0 & -4 & 5 & -3 \\
+    2 & 0 & 1 & 1 & 3 \\
+    -3 & -1 & 2 & -1 & -4 \\
+    3 & -5 & 3 & 4 & 5 \\
+    -3 & 4 & -2 & -3 & -2
+  \end{bmatrix} =
+  \begin{bmatrix}
+    1 & 0 & 0 & 0 &0 \\
+    0 & 1 & 0 & 0 & 0\\
+    0 & 0 & 1 & 0 & 0 \\
+    0 & 0 & 0 & 1 & 0\\
+    0 & 0 & 0 & 0 & 1
+  \end{bmatrix}
+\]
+
+
+
+%--V5--
+
+\[
+  \RREF\left(
+    \begin{bmatrix} 
+-1 & 6 & 4 \\ 
+5 & 3 & -5 \\ 
+1 & 2 & 5 
+\end{bmatrix}
+  \right)
+    =
+  \begin{bmatrix} 1 & 0 &0 \\ 0 & 1 & 0 \\ 0 & 0 & 1\end{bmatrix}
+\]
+
+
+\[
+  \RREF\left(
+    \begin{bmatrix} -3 & 0 & 6 \\ 1 & 3 & 7 \\ 5 & 3 & -1 \end{bmatrix}
+  \right)
+    =
+  \begin{bmatrix} 1 & 0 & -2 \\ 0 & 1 & 3 \\ 0 & 0 & 0\end{bmatrix}
+\]
+%
+\[
+  \RREF\left(
+    \begin{bmatrix} 2 & -1 & -3 \\ -3 & -4 & -3 \\ -2 & 5 & -4 \\ 4 & 5 & -3 \\ \end{bmatrix}
+  \right)
+    =
+  \begin{bmatrix} 1 & 0 & 0 \\ 0 & 1 & 0 \\ 0 & 0 & 1 \\ 0 & 0 & 0 \end{bmatrix}
+\]
+
+
+\[
+  \RREF\left(
+    \begin{bmatrix} 4 & 5 & 25 \\ -3 & 5 & -10 \\ 3 & -4 & 11 \\ 2 & -5 & 5 \\ \end{bmatrix}
+  \right)
+    =
+  \begin{bmatrix} 1 & 0 & 5 \\ 0 & 1 & 1 \\ 0 & 0 & 0 \\ 0 & 0 & 0 \end{bmatrix}
+\]
+
+\[
+  \RREF\left(
+    \begin{bmatrix} 2 & -1 & 5 \\ 1 & 3 & 2 \\ 1 & 2 & -4 \end{bmatrix}
+  \right)
+    =
+  \begin{bmatrix} 1 & 0 &0 \\ 0 & 1 & 0 \\ 0 & 0 & 1\end{bmatrix}
+\]
+
+\[
+  \RREF\left(
+    \begin{bmatrix} 
+    1 & 1 & -3 & 4\\ 
+    2 &-1 & 2 & 5 \\
+    0 & 1 &-1 & 3 \\
+    2 & 0 & 1 & 8
+    \end{bmatrix}
+  \right)
+    =
+  \begin{bmatrix} 1 & 0 &0 &0 \\ 0 & 1 & 0&0 \\ 0 & 0 & 1& 0 \\ 0 & 0 & 0 &1 \end{bmatrix}
+\]
+
+
+
+
+\[
+  \RREF\left(
+    \begin{bmatrix} 
+2 & -9 & 0 & 1 \\
+0 & -3 & 1 & -1\\
+4 & 0 & 0 & -1\\
+2 & 9 & 2 &-1
+    \end{bmatrix}
+  \right)
+    =
+\begin{bmatrix} 1 & 0 & 0 & 0 \\ 0 & 1 & 0 & 0 \\ 0 & 0 & 1 & 0 \\ 0 & 0 & 0 & 1 \end{bmatrix}
+\]
+
+
+\[
+  \RREF\left(
+    \begin{bmatrix} 
+    1 & 2 & 3 & -1\\ 
+    -1 &1 & 2 & 4 \\
+    0 & 3 &5 & 3 \\
+    1 & -1 & 8 & 1
+    \end{bmatrix}
+  \right)
+    =
+  \begin{bmatrix} 1 & 0 &0 & -17/6 \\ 0 & 1 & 0& 1/6 \\ 0 & 0 & 1& 1/2 \\ 0 & 0 & 0 &0 \end{bmatrix}
+\]
+
+
+
+%--V6--
+
+\[\RREF\left(\begin{bmatrix} 
+2 & 5 & 7 \\ 
+7 & -4 & 1 \\
+-5 & -2 & -7 
+\end{bmatrix} \right)
+= \begin{bmatrix} 1 & 0 &0 \\ 0 & 1 & 0 \\ 0 & 0 & 1\end{bmatrix}\]
+
+\[\RREF\left(\begin{bmatrix} 
+-1 & -7 & -1 & 6 \\ 
+3 & -5 & 4 & 5 \\ 
+-4 & -4 & -4 & -6 
+\\ 6 & -1 & -6 & -7
+ \end{bmatrix} \right) 
+ =\begin{bmatrix} 1 & 0 & 0 & 0 \\ 0 & 1 & 0 & 0 \\ 0 & 0 & 1 & 0 \\ 0 & 0 & 0 & 1 \end{bmatrix}\]
+ 
+ 
+ \[\RREF\left(\begin{bmatrix} 
+ -2 & 1 & 8  \\ 
+ -3 & -1 & 7  \\ 
+ 7 & -5 & -31  
+ \end{bmatrix} \right) 
+ = 
+\begin{bmatrix} 1 & 0 & -3  \\ 0 & 1 & 2  \\ 0 & 0 & 0 \end{bmatrix}\]
+
+
+\[\RREF\left(\begin{bmatrix} 
+-4 & 8 & 36 & 28 \\ 
+-3 & -4 & -23 & -9 \\ 
+4 & -7 & -31 & -25 \\ 
+4 & -3 & -11 & -13
+ \end{bmatrix}\right) 
+= \begin{bmatrix} 1 & 0 & 1 & -1 \\ 0 & 1 & 5 & 3 \\ 0 & 0 & 0 & 0 \\ 0 & 0 & 0 & 0  \end{bmatrix}\]
+
+   \[\RREF\left(
+    \begin{bmatrix}
+      -1 & 5 & -3 \\
+      1 & -3 & 3 \\
+      -2 & 11 & -6 \\
+    \end{bmatrix} \right)= \begin{bmatrix}
+      1 & 0 & 3\\
+      0 & 1 & 0 \\
+      0 & 0 & 0 
+    \end{bmatrix}
+  \]
+  
+  
+      \[\RREF\left(
+    \begin{bmatrix}
+      -1 & 5 & -3 & -12 \\
+      1 & -3 & 3 & 4\\
+      -2 & 11 & -6 & -28\\
+      -12 & 0 & -2 &3
+    \end{bmatrix} \right)= \begin{bmatrix}
+      1 & 0 & 0 & -7/34\\
+      0 & 1 & 0 & -4 \\
+      0 & 0 & 1 & -93/34\\
+      0 & 0 & 0 & 0
+    \end{bmatrix}
+  \]
+  
+  
+      \[\RREF\left(
+    \begin{bmatrix}
+      2 & -9 & 0 & 1 \\
+      0 & -3 & 1 & -1\\
+     4 & 0 & 0 & -1\\
+      2 & 9 & 2 & -1
+    \end{bmatrix} \right)= \begin{bmatrix}
+      1 & 0 & 0 & 0\\
+      0 & 1 & 0 &0 \\
+      0 & 0 & 1 & 0\\
+      0 & 0 & 0 & 1
+    \end{bmatrix}
+  \]
+  
+  
+     \[\RREF\left(
+    \begin{bmatrix}
+      1 & 1 & 3 \\
+      2 & 1 & 4\\
+     1& 1 & 3
+    \end{bmatrix} \right)= \begin{bmatrix}
+      1 & 0 & 3 \\
+      0 & 1 & 0  \\
+      0 & 0 & 0 
+    \end{bmatrix}
+  \]
+
+
+%--V7--
+
+	\[  \RREF\left(\begin{bmatrix}
+    1 & 3 & 11 & 7 \\
+    2 & 2 & 10 & 6 \\
+    2 & 1 & 7 & 4 
+  \end{bmatrix} \right) =
+  \begin{bmatrix}
+    1 & 0 & 2 & 1 \\
+    0 & 1 & 3 & 2 \\
+    0 & 0 & 0 & 0\\
+  \end{bmatrix}
+\]
+
+
+\[  \RREF\left(\begin{bmatrix}
+    1 & 0 & 1 & 1 & -1 \\
+    1 & 1 & 0 & 1 & -5 \\
+    0 & 2 & 1 & -6 & 1 \\
+    -1 & 1 & -1 & -3 & 0 
+  \end{bmatrix} \right) =
+  \begin{bmatrix}
+    1 & 0 & 0 & 3 & -4 \\
+    0 & 1 & 0 & -2 & -1 \\
+    0 & 0 & 1 & -2 & 3 \\
+    0 & 0 & 0 & 0 & 0 
+  \end{bmatrix}
+\]
+
+\[
+  \RREF\left(\begin{bmatrix}
+    1 & 0 & 1 & 2 \\
+    1 & 1 & 0 & 3 \\
+    -2 & 0 & -2 & -4 \\
+    1 & 1 & 0 & 3
+  \end{bmatrix} \right) =
+  \begin{bmatrix}
+    1 & 0 & 1 & 2 \\
+    0 & 1 & -1 & 1 \\
+    0 & 0 & 0 & 0 \\
+    0 & 0 & 0 & 0 
+  \end{bmatrix}
+\]
+
+\[
+  \RREF\left(\begin{bmatrix}
+    1 & 0 & -1 & 1 \\
+    0 & 1 & 1 & 1 \\
+    0 & 1 & 1 & 1 \\
+    1 & 0 & -1 & 1
+  \end{bmatrix} \right) =
+  \begin{bmatrix}
+    1 & 0 & -1 & 1 \\
+    0 & 1 & 1 & 1 \\
+    0 & 0 & 0 & 0 \\
+    0 & 0 & 0 & 0 
+  \end{bmatrix}
+\]
+
+
+  
+\[\RREF \left( 
+\begin{bmatrix} 
+-1 &5 & -3 & -12 \\ 
+1 & -3 & 3 &4 \\ 
+-2 & 11 & -6 & -28 \\ 
+-12 & 0 & -2 & 3 
+\end{bmatrix} \right) = 
+\begin{bmatrix} 
+1 & 0 & 0 & 0.20588 \\ 
+0 & 1 & 0 & -4 \\ 
+0 & 0 & 1 & -2.73529 \\ 
+0 & 0 & 0 & 0
+\end{bmatrix}\]
+
+  
+  
+\[\RREF \left( 
+\begin{bmatrix} 
+1 & 2 & 8 & 4 \\ 
+1 & 1 & 5 & 1 \\ 
+0 & 1 & 3 & 1 \\ 
+1 & 1 & 5 & 1 
+\end{bmatrix} \right) = 
+\begin{bmatrix} 
+1 & 0 & 2 & 0 \\ 
+0 & 1 & 3 & 0 \\ 
+0 & 0 & 0 & 1 \\ 
+0 & 0 & 0 & 0
+\end{bmatrix}\]
+
+\[\RREF \left( 
+\begin{bmatrix} 
+2 & 2 & 3 & 4 \\ 
+-1 & -2 & -7 & 3 \\ 
+1 & 1 & 0 & 1 \\ 
+3 & 1 & -3 & 2 
+\end{bmatrix} \right) = 
+\begin{bmatrix} 
+1 & 0 & 0 & 0 \\ 
+0 & 1 & 0 & 0 \\ 
+0 & 0 & 1 & 0 \\ 
+0 & 0 & 0 & 1
+\end{bmatrix}\]
+
+\[\RREF \left( 
+\begin{bmatrix} 
+2 & 2 & 3 & 4 \\ 
+-1 & -2 & -7 & 3 \\ 
+1 & 1 & 0 & 1 \\ 
+3 & 3 & -3 & 2 
+\end{bmatrix} \right) = 
+\begin{bmatrix} 
+1 & 0 & 0 & 0 \\ 
+0 & 1 & 0 & 0 \\ 
+0 & 0 & 1 & 0 \\ 
+0 & 0 & 0 & 1
+\end{bmatrix}\]
+
+\[\RREF \left(  \begin{bmatrix} 
+2 & 4 & 2 & 8 & 3 & -4 \\ 
+-1 & -2 & -2 & -7 & -7 & 13\\ 
+1 & 2 & 1 & 4 & 0 &1\\ 
+3 & 6 & 1 & 6 &3 & 9
+\end{bmatrix} \right)= 
+\begin{bmatrix} 
+1 & 2 & 0 & 1 & 0 & 1 \\ 
+0 & 0 & 1 & 3 &0 & 0\\ 
+0 & 0 & 0 & 0 & 1 & -2\\ 
+0 & 0 & 0 & 0&0 &0 
+\end{bmatrix}\]
+
+
+%-V8--
+
+
+\[
+  \RREF\left(\begin{bmatrix}
+    1 & 2 & 4 & 0 \\
+    1 & 3 & 1 & 1 \\
+    -1 & 4 & -1 & -1 \\
+  \end{bmatrix} \right) =
+  \begin{bmatrix}
+    1 & 0 & 0 & 4/3 \\
+    0 & 1 & 0 & 0 \\
+    0 & 0 & 1 & -1/3 \\
+  \end{bmatrix}
+\]
+
+
+\[
+  \RREF\left(\begin{bmatrix}
+    1 & 3 & 1 \\
+    -1 & -1 & 0 \\
+    0 & 2 & 0 \\
+    2 & 1 & 1
+  \end{bmatrix} \right) =
+  \begin{bmatrix}
+    1 & 0 & 0 \\
+    0 & 1 & 0 \\
+    0 & 0 & 1 \\
+    0 & 0 & 0
+  \end{bmatrix}
+\]
+
+\[
+  \RREF\left(\begin{bmatrix}
+    3 & -1 & 0 \\
+    2 & 2 & 1 \\
+    2 & 1 & 0 \\
+  \end{bmatrix} \right) =
+  \begin{bmatrix}
+    1 & 0 & 0  \\
+    0 & 1 & 0 \\
+    0 & 0 & 1 \\
+  \end{bmatrix}
+\]
+%
+%
+\[
+  \RREF\left(\begin{bmatrix}
+    0 & -1 & 1 & 2 \\
+    0 & 1 & 1 & 1 \\
+    1 & 1 & 0 & 2 \\
+    1 & 2 & 0 & 1
+  \end{bmatrix} \right) =
+  \begin{bmatrix}
+    1 & 0 & 0 & 0 \\
+    0 & 1 & 0 & 0 \\
+    0 & 0 & 1 & 0 \\
+    0 & 0 & 0 & 1
+  \end{bmatrix}
+\]
+%
+
+
+
+\[\RREF \left( 
+\begin{bmatrix} 
+1 & 2 & 8 & 4 \\ 
+1 & 1 & 5 & 1 \\ 
+0 & 1 & 3 & 1 \\ 
+1 & 1 & 5 & 1 
+\end{bmatrix} \right) = 
+\begin{bmatrix} 
+1 & 0 & 2 & 0 \\ 
+0 & 1 & 3 & 0 \\ 
+0 & 0 & 0 & 1 \\ 
+0 & 0 & 0 & 0
+\end{bmatrix}\]
+
+%
+%\[\RREF \left( 
+%\begin{bmatrix} 
+%2 & 2 & 3 & 4 \\ 
+%-1 & -2 & -7 & 3 \\ 
+%1 & 1 & 0 & 1 \\ 
+%3 & 1 & -3 & 2 
+%\end{bmatrix} \right) = 
+%\begin{bmatrix} 
+%1 & 0 & 0 & 0 \\ 
+%0 & 1 & 0 & 0 \\ 
+%0 & 0 & 1 & 0 \\ 
+%0 & 0 & 0 & 1
+%\end{bmatrix}\]
+%
+%\[\RREF \left(  \begin{bmatrix} 
+%2 & 4 & 2 & 8 & 3 & -4 \\ 
+%-1 & -2 & -2 & -7 & -7 & 13\\ 
+%1 & 2 & 1 & 4 & 0 &1\\ 
+%3 & 6 & 1 & 6 &3 & 9
+%\end{bmatrix} \right)= 
+%\begin{bmatrix} 
+%1 & 2 & 0 & 1 & 0 & 1 \\ 
+%0 & 0 & 1 & 3 &0 & 0\\ 
+%0 & 0 & 0 & 0 & 1 & -2\\ 
+%0 & 0 & 0 & 0&0 &0 
+%\end{bmatrix}\]
+
+%-V9---
+
+
+
+\[  \RREF\left(\begin{bmatrix}
+    1 & 0 & 1 & 1 \\
+    1 & 1 & 0 & 1 \\
+    0 & 2 & 1 & -6 \\
+    -1 & 1 & -1 & -3  
+  \end{bmatrix} \right) =
+  \begin{bmatrix}
+    1 & 0 & 0 & 3 \\
+    0 & 1 & 0 & -2 \\
+    0 & 0 & 1 & -2 \\
+    0 & 0 & 0 & 0 
+  \end{bmatrix}
+\]
+
+\[
+  \RREF\left(\begin{bmatrix}
+    1 & 0 & 1 & 2 \\
+    1 & 1 & 0 & 3 \\
+    -2 & 0 & -2 & -4 \\
+    1 & 1 & 0 & 3
+  \end{bmatrix} \right) =
+  \begin{bmatrix}
+    1 & 0 & 1 & 2 \\
+    0 & 1 & -1 & 1 \\
+    0 & 0 & 0 & 0 \\
+    0 & 0 & 0 & 0 
+  \end{bmatrix}
+\]
+
+
+\[
+  \RREF\left(\begin{bmatrix}
+    1 & 0 & -1 & 1 \\
+    0 & 1 & 1 & 1 \\
+    0 & 1 & 1 & 1 \\
+    1 & 0 & -1 & 1
+  \end{bmatrix} \right) =
+  \begin{bmatrix}
+    1 & 0 & -1 & 1 \\
+    0 & 1 & 1 & 1 \\
+    0 & 0 & 0 & 0 \\
+    0 & 0 & 0 & 0 
+  \end{bmatrix}
+\]
+
+
+
+
+
+
+
+\[\RREF\left( 
+\begin{bmatrix} 
+ 1 & -1 & 1 & 3 \\
+ 2 & -2 & 2 & 6\\
+ 3 & -3 & -3 & -9\\
+ 4 & -4 & 4 & 12
+\end{bmatrix} \right)
+ =
+  \begin{bmatrix}
+    1 & -1 & 0 & 0 \\
+    0 & 0 & 1 & 3 \\
+    0 & 0 & 0 & 0 \\
+    0 & 0 & 0 & 0 
+  \end{bmatrix}
+\]
+
+
+
+\[\RREF \left(  \begin{bmatrix}
+2 & 3 & 0 \\
+-7 & 2 & -2 \\ 
+0 & 2 & 4
+\end{bmatrix}  \right) = \begin{bmatrix} 
+1 & 0 & 0 \\ 
+0 & 1 &0 \\ 
+0 & 0 & 1 \end{bmatrix}\]
+
+%%
+%\[\RREF \left(  \begin{bmatrix} 
+%2 & 4 & 2 & 8 & 3 & -4 \\ 
+%-1 & -2 & -2 & -7 & -7 & 13\\ 
+%1 & 2 & 1 & 4 & 0 &1\\ 
+%3 & 6 & 1 & 6 &3 & 9
+%\end{bmatrix} \right)
+%= 
+%\begin{bmatrix} 
+%1 & 2 & 0 & 1 & 0 & 0 \\ 
+%0 & 0 & 1 & 3 &0 & 0\\ 
+%0 & 0 & 0 & 0 & 1 & 0\\ 
+%0 & 0 & 0 & 0&0 &1 
+%\end{bmatrix}
+%\]
+
+
+%--V10---
+
+
+\[\RREF   \left(  \begin{bmatrix}[cccc|c]
+    -6 & 4 & -2 & -34 & 0 \\
+    1 & -3 & -9 & 1 & 0 \\
+    4 & 8 & 44 & 44 & 0 \\
+    -7 & -1 & -25 & -51 & 0
+  \end{bmatrix}  \right)=
+  \begin{bmatrix}[cccc|c]
+    1 & 0 & 3 & 7 & 0 \\
+    0 & 1 & 4 & 2 & 0 \\
+    0 & 0 & 0 & 0 & 0 \\
+    0 & 0 & 0 & 0 & 0
+  \end{bmatrix} 
+\]
+
+
+\[\RREF   \left(   \begin{bmatrix}[cccc|c]
+    -2 & -4 & -8 & -7 & 0 \\
+    1 & 7 & 19 & -6& 0 \\
+    3 & -1 & -9 & 0 & 0 \\
+    -7 & 3 & 23 & -5 & 0
+  \end{bmatrix} \right)=
+  \begin{bmatrix}[cccc|c]
+    1 & 0 & -2 & 0 & 0 \\
+    0 & 1 & 3 & 0 & 0 \\
+    0 & 0 & 0 & 1 & 0 \\
+    0 & 0 & 0 & 0 & 0
+  \end{bmatrix} 
+\]
+%
+\[ \RREF \left(  \begin{bmatrix}[cccc|c]
+    -7 & -5 & -6 & -24 & 0 \\
+    2 & -5 & 3 & 21 & 0 \\
+    -7 & 4 & -2 & -38 & 0 \\
+    -9 & -3 & 5 & -25 & 0
+  \end{bmatrix} \right)=
+  \begin{bmatrix}[cccc|c]
+    1 & 0 & 0 & 4 & 0 \\
+    0 & 1 & 0 & -2 & 0 \\
+    0 & 0 & 1 & 1 & 0 \\
+    0 & 0 & 0 & 0 & 0
+  \end{bmatrix} 
+\]
+%
+\[ \RREF   \left( \begin{bmatrix}[cccc|c]
+    4 & 9 & 30 & -8 & 0 \\
+    5 & -8 & -1 & -7& 0 \\
+    2 & 2 & 10 & -8 & 0 \\
+    4 & 2 & 16 & 3 & 0
+  \end{bmatrix}  \right)=
+  \begin{bmatrix}[cccc|c]
+    1 & 0 & 3 & 0 & 0 \\
+    0 & 1 & 2 & 0 & 0 \\
+    0 & 0 & 0 & 1 & 0 \\
+    0 & 0 & 0 & 0 & 0
+  \end{bmatrix}
+\]
+%
+\[\RREF\left( \begin{bmatrix}[ccc|c]
+3 & -5 & -2 &0 \\
+-3 & -1 & -4 & 0\\
+4 & 0 & 4 & 0
+\end{bmatrix} \right) 
+= \begin{bmatrix}[ccc|c]
+1 & 0 &1 & 0 \\
+0 & 1 & 1 & 0 \\
+0 & 0 & 0 & 0 
+\end{bmatrix}\]
+%
+\[\RREF\left( \begin{bmatrix}[cccc|c]
+0 & 1 & -3 & 4 &0  \\
+2 & -2 &1 & 0 & 0 \\
+2 & -1 & -2 & 4 & 0\\
+-6 & 4 & 3 & -8 & 0
+\end{bmatrix} \right) 
+= \begin{bmatrix}[cccc|c] 
+1 & 0 & -5/2 & 4 &0  \\
+0 & 1 & -3 & 4 & 0 \\
+0 & 0 & 0 & 0 & 0\\
+0 & 0 & 0 & 0 & 0
+\end{bmatrix}
+\]
+
+\[\RREF\left( \begin{bmatrix}[ccccc|c]
+1 & 1 & -1 &3 &-1 &0  \\
+-2 & -2 &2 & -1 & -3 &0\\
+1 & 1 & -1 & 0 & 2 &0
+\end{bmatrix} \right) 
+= \begin{bmatrix}[ccccc|c] 
+1 & 1 & -1 & 0 &2 & 0  \\
+0 & 0 & 0 & 1& -1 &0\\
+0 & 0 & 0 & 0 & 0 &0
+\end{bmatrix}
+\]
+
+
+%----A3---
+
+\[
+  \RREF \left( \begin{bmatrix}
+    -3 & -5 & 1 & 0 \\
+    -2 & 2 & 3 & 0 \\
+    -3 & 0 & 3 & 0 \\
+    -5 & 2 & 6 & 0
+  \end{bmatrix} \right) = \begin{bmatrix}
+    1 & 0 & 0 & 0 \\
+    0 & 1 & 0 & 0 \\
+    0 & 0 & 1 & 0 \\
+    0 & 0 & 0 & 0
+  \end{bmatrix}
+\]
+
+\[
+  \RREF \left( \begin{bmatrix}
+    -2 & 1 & -1 & 0 \\
+    1 & 4 & 2 & 0 \\
+    -1 & 5 & 1 & 0 \\
+    -3 & 6 & 0 & 0
+  \end{bmatrix} \right) = \begin{bmatrix}
+    1 & 0 & 2/3 & 0 \\
+    0 & 1 & 1/3 & 0 \\
+    0 & 0 & 0 & 0 \\
+    0 & 0 & 0 & 0
+  \end{bmatrix}
+\]
+
+\[
+  \RREF \left( \begin{bmatrix}
+    -4 & -7 & -1 & 0 \\
+    4 & -1 & -2 & 0 \\
+    0 & -8 & -3 & 0 \\
+    8 & -2 & -4 & 0
+  \end{bmatrix} \right) = \begin{bmatrix}
+    1 & 0 & -13/32 & 0 \\
+    0 & 1 & 3/8 & 0 \\
+    0 & 0 & 0 & 0 \\
+    0 & 0 & 0 & 0
+  \end{bmatrix}
+\]
+
+\[
+  \RREF \left( \begin{bmatrix}
+    5 & -1 & -3 & 0 \\
+    5 & 8 & -1 & 0 \\
+    0 & -7 & -2 & 0 \\
+    5 & -8 & -5 & 0
+  \end{bmatrix} \right) = \begin{bmatrix}
+    1 & 0 & 0 & 0 \\
+    0 & 1 & 0 & 0 \\
+    0 & 0 & 1 & 0 \\
+    0 & 0 & 0 & 0
+  \end{bmatrix}
+\]
+
+
+\[\RREF\left( \begin{bmatrix}[ccc|c]
+
+1 & 1& 2 &0 \\ 
+-2 &-1 &3 &0\\ 
+2 & 0 &2 &0
+\end{bmatrix} \right) 
+= \begin{bmatrix}[ccc|c]
+1 & 0 &0 &0 \\ 0& 1& 0  & 0 \\ 0 &0 & 1 &0
+\end{bmatrix}\]
+
+\[\RREF\left( \begin{bmatrix}[cccc|c]
+0 & 2 & 2 & 4 &0  \\
+1 & 0 & -1 & -3 & 0 \\
+2 & 3 & 1 & -1 & 0\\
+-2 & 1 & 3 & -2 & 0
+\end{bmatrix} \right) 
+= \begin{bmatrix}[cccc|c] 
+1 & 0 & -1 & 0 &0  \\
+0 & 1 & 1 & 0 & 0 \\
+0 & 0 & 0 & 1 & 0\\
+0 & 0 & 0 & 0 & 0
+\end{bmatrix}
+\] 
+
+
+\[
+\RREF\left(\begin{bmatrix}
+ 1 & 4 \\ 0 &1 \\3 &2 \\ 5 &-1
+\end{bmatrix}\right)
+=
+\begin{bmatrix}
+ 1 & 0 \\ 0 & 1 \\0 & 0 \\ 0 & 0
+\end{bmatrix}
+\]
+
+
+\[
+  \RREF \left( \begin{bmatrix}
+    2 & 5 & 0 \\
+    3 & 0 & 1 \\
+    0 & -1 & 1 \\
+    1 & 1 & 1
+  \end{bmatrix} \right) = \begin{bmatrix}
+    1 & 0 & 0 \\
+    0 & 1 & 0 \\
+    0 & 0 & 1 \\
+    0 & 0 & 0
+  \end{bmatrix}
+\]
+
+%----A4---
+
+\[
+\RREF \left( \begin{bmatrix} -5 & 3 \\ -4 & -4 \\ -1 & 5 \end{bmatrix} \right) 
+= \begin{bmatrix} 1 & 0 \\ 0 & 1 \\ 0 & 0 \end{bmatrix}
+\]
+
+\[
+\RREF\left( \begin{bmatrix} -3 &  2 & -8 \\ 5 & -5 & 15 \\ 3 & -2 & 8 \end{bmatrix} \right)
+= \begin{bmatrix} 1 &  0 & 2 \\ 0  & 1 & -1\\ 0 & 0 & 0  \end{bmatrix}
+\]
+
+\[
+\RREF\left( \begin{bmatrix} -5 &  -4 & -7 \\ -4 & -2 & -2 \\ -2 & 1 & 5 \end{bmatrix} \right) 
+= \begin{bmatrix} 1 &  0 & -1 \\ 0 & 1 & 3 \\ 0 & 0 & 0  \end{bmatrix}
+\]
+
+\[
+\RREF \left( \begin{bmatrix} -3 & -5 \\ -2 & 3 \\ 4 & -5 \end{bmatrix} \right)
+= \begin{bmatrix} 1 & 0 \\ 0 & 1 \\ 0 & 0 \end{bmatrix}
+\]
+
+\[
+\RREF\left(\begin{bmatrix} 4 & -5 \\ 5 & 1 \end{bmatrix}\right)
+=\begin{bmatrix}1 & 0 \\ 0 & 1 \end{bmatrix}.
+\]
+
+\[
+\RREF\left(\begin{bmatrix} -4 & 3 & 0 & 5 \\ -4 & 3 & 0 & 5 \\ -2 & 5 & 14 & -1 \end{bmatrix}\right)
+= \begin{bmatrix} 1 & 0 & 3 & -2 \\ 0 & 1 & 4 & -1 \\ 0 & 0 & 0 & 0\end{bmatrix}
+\]
+
+
+\[
+\RREF\left(\begin{bmatrix} 1 & -5 \\ -1 & -3 \\ 0 & -3 \\ -4 & 2 \end{bmatrix}\right)
+=\begin{bmatrix}1 & 0 \\ 0 & 1 \\ 0 & 0 \\ 0 & 0  \end{bmatrix}.
+\]
+
+\[
+\RREF\left(\begin{bmatrix} -1 & -5 & 0 & -17 \\ -1 & 2 & -7 & 4 \\ 4 & 4 & 16 & 20 \end{bmatrix}\right)
+= \begin{bmatrix} 1 & 0  & 5 & 2 \\ 0 & 1 & -1 & 3 \\ 0 & 0 & 0 & 0 \end{bmatrix}
+\]
+
+ \[\RREF
+\begin{bmatrix}[cccc]
+-1 & -5 & -4 & -29 \\
+-1 & -4 & -3 & -24 \\
+1 & 10 & 8 & 54
+\end{bmatrix}=
+\begin{bmatrix}[cccc]
+1 & 0 & 0 & 4 \\
+0 & 1 & 0 & 5 \\
+0 & 0 & 1 & 0
+\end{bmatrix}
+\]
+
+$$\RREF(\begin{bmatrix}[cccc]
+2 & 2 &  \\
+-14 & -9  \\
+-3 & -2 
+\end{bmatrix})=\begin{bmatrix}[cccc]
+1 & 0  \\
+0 & 1  \\
+0 & 0 
+\end{bmatrix}$$
+
+\[\RREF
+\begin{bmatrix}[cccc]
+-4 &1 & 0 \\
+1 &28 & 7\\
+-2 &-52 &-13 \\
+-30 & -33 &-10
+\end{bmatrix}=
+\begin{bmatrix}[cccc]
+1 & 0 & 0\\
+0 & 1 & 0 \\
+0 & 0 & 1\\
+7 & 6 &4
+\end{bmatrix}
+\]
+
+$$\RREF \begin{bmatrix}[cccc]
+1 & 0 & 1  \\
+3 & 3 & 3 \\
+5 & 3 &5 \\
+-6 & 5 & -6
+\end{bmatrix}=\begin{bmatrix}[cccc]
+1 & 0 & 1  \\
+0 & 1 & 0 \\
+0 & 0 &0 \\
+0 & 0 & 0
+\end{bmatrix} $$
+
+ \[\RREF
+\begin{bmatrix}[ccc]
+3 & -5 & -2 \\
+-3 & -1 & -4\\
+4 & 0 & 4 
+\end{bmatrix} 
+= \begin{bmatrix}[ccc]
+1 & 0 &1  \\
+0 & 1 & 1  \\
+0 & 0 & 0 
+\end{bmatrix}
+\]
+
+
+$$\RREF \begin{bmatrix}[cccc]
+3 & -3 & 5 \\
+1 & 3 & 4 \\
+2 & 1 & -4
+\end{bmatrix}=\begin{bmatrix}[cccc]
+1 & 0 & 0 \\
+0 & 1 & 0 \\
+0 & 0 &1
+\end{bmatrix} $$
+
+\[\RREF \begin{bmatrix}[ccc]
+-3 & -4 \\
+3 &2 \\
+4 & 0 \\
+2 & -5
+\end{bmatrix}
+= \begin{bmatrix}[ccc]
+1&0\\
+0 &1\\
+0 & 0\\
+0&0
+\end{bmatrix}
+ \]
+ 
+ 
+ \[\RREF \begin{bmatrix}[cccc]
+2 & 0 & 1 & -1 \\
+1 & -1 & 1 &3\\
+\end{bmatrix}
+= \begin{bmatrix}[cccc]
+1 & 0 & 0.5 & -0.5\\
+0 & 1 & -0.5 & -3.5
+\end{bmatrix}
+ \]
+ 
+ 
+ %--M2----
+ 
+ 
+ \[\
+\RREF \begin{bmatrix}-2 & -3 & 0 \\ -5 & -5 & 0 \\ 3 & -4 & 4\end{bmatrix}
+= \begin{bmatrix} 1 & 0 & 0 \\ 0 & 1 & 0 \\ 0 & 0 & 1 \end{bmatrix}
+\]
+
+\[\
+\RREF \begin{bmatrix}3 & 3 & 3 \\ -2 & -2 & -2 \\ -3 & -4 & -3\end{bmatrix}
+= \begin{bmatrix} 1 & 0 & 1 \\ 0 & 1 & 0 \\ 0 & 0 & 0 \end{bmatrix}
+\]
+
+	\[\
+\RREF \begin{bmatrix}2 & 2 & 3 & 1 \\ 4 & 2 & -4 & -4 \\ 0 & -3 & 1 & 5 \\ -2 & 0 & 2 & -1\end{bmatrix}
+= \begin{bmatrix} 1 & 0 & 0 & 0 \\ 0 & 1 & 0 & 0 \\ 0 & 0 & 1 & 0 \\ 0 & 0 & 0 & 1 \end{bmatrix}
+\]
+
+	\[\
+\RREF \begin{bmatrix}4 & -1 & -1 & 5 \\ 5 & 4 & 4 & 0 \\ -2 & 1 & 1 & -5 \\ 3 & 2 & 2 & 2\end{bmatrix}
+= \begin{bmatrix} 1 & 0 & 0 & 0 \\ 0 & 1 & 1 & 0 \\ 0 & 0 & 1 & 0 \\ 0 & 0 & 0 & 0 \end{bmatrix}
+\]
+
+  \[
+  \RREF \left( \begin{bmatrix}
+    -3 & -5 & 1  \\
+    -2 & 2 & 3  \\
+    -3 & 0 & 3 
+  \end{bmatrix} \right) = \begin{bmatrix}
+    1 & 0 & 0  \\
+    0 & 1 & 0  \\
+    0 & 0 & 1  
+  \end{bmatrix}
+\]
+
+
+ \[\RREF\left( \begin{bmatrix}[cccc]
+0 & 2 & 2 & 4 \\
+1 & 0 & -1 & -3  \\
+2 & 3 & 1 & -1 \\
+-2 & 1 & 3 & -2 
+\end{bmatrix} \right) 
+= \begin{bmatrix}[cccc] 
+1 & 0 & -1 & 0   \\
+0 & 1 & 1 & 0  \\
+0 & 0 & 0 & 1 \\
+0 & 0 & 0 & 0 
+\end{bmatrix}
+\] 
+
+  \[\RREF \left( 
+\begin{bmatrix} 
+2 & 2 & 3 & 4 \\ 
+-1 & -2 & -7 & 3 \\ 
+1 & 1 & 0 & 1 \\ 
+3 & 1 & -3 & 2 
+\end{bmatrix} \right) = 
+\begin{bmatrix} 
+1 & 0 & 0 & 0 \\ 
+0 & 1 & 0 & 0 \\ 
+0 & 0 & 1 & 0 \\ 
+0 & 0 & 0 & 1
+\end{bmatrix}\]
+
+  \[  \RREF\left(\begin{bmatrix}
+    1 & 3 & 11  \\
+    2 & 2 & 10  \\
+    2 & 1 & 7 
+  \end{bmatrix} \right) =
+  \begin{bmatrix}
+    1 & 0 & 2  \\
+    0 & 1 & 3  \\
+    0 & 0 & 0 \\
+  \end{bmatrix}
+\]
+
+%--M3--
+
+
+  \[\begin{bmatrix}[ccc|ccc]
+  1 & 2 & 3 & 1 & 0 & 0  \\
+  1 & 1 & 2   & 0 & 1 & 0 \\
+  0 & 1 & 2   & 0 & 0 & 1
+\end{bmatrix}\sim\begin{bmatrix}[ccc|ccc]
+  1 & 0 & 0 & 0 & 1 & -1 \\
+  0 & 1 & 0 & 2 & -2 & -1 \\
+  0 & 0 & 1 & -1 & 1 & 1
+\end{bmatrix}\]
+
+
+  \[\begin{bmatrix}[ccc|ccc]
+  1 & 1 & 1   & 1 & 0 & 0  \\
+  1 & 2 & 3   & 0 & 1 & 0 \\
+  0 & 1 & 1   & 0 & 0 & 1
+\end{bmatrix}\sim\begin{bmatrix}[ccc|ccc]
+  1 & 0 & 0 & 1 & 0 & -1 \\
+  0 & 1 & 0 & 1 & -1 & 2 \\
+  0 & 0 & 1 & -1 & 1 & -1
+\end{bmatrix}\]
+
+\[\begin{bmatrix}[cccc|cccc]
+  1 & 1 & 1 & 1   & 1 & 0 & 0 & 0  \\
+  1 & 2 & -1 & 2   & 0 & 1 & 0 & 0 \\
+  1 & -1 & 2 & 1   & 0 & 0 & 1 & 0 \\
+  1 & 3 & 3 & 2    & 0 & 0 & 0 & 1
+\end{bmatrix}\sim\begin{bmatrix}[cccc|cccc]
+  1 & 0 & 0 & 0 & 7/3 & -1/3 & -1/3 & -2/3 \\
+  0 & 1 & 0 & 0 & 4/9 & -1/9 & -4/9 & 1/9 \\
+  0 & 0 & 1 & 0 & -1/9 & -2/9 & 1/9 & 2/9 \\
+  0 & 0 & 0 & 1 & -5/3 & 2/3 & 2/3 & 1/3
+\end{bmatrix}\]
+
+
+  \[\begin{bmatrix}[cccc|cccc]
+  1 & 1 & 2 & 1   & 1 & 0 & 0 & 0  \\
+  0 & -2 & 0 & 0   & 0 & 1 & 0 & 0 \\
+  1 & 2 & 1 & -2   & 0 & 0 & 1 & 0 \\
+  0 & 3 & 2 & 1    & 0 & 0 & 0 & 1
+\end{bmatrix}\sim\begin{bmatrix}[cccc|cccc]
+  1 & 0 & 0 & 0 & 1 & -1 & 0 & -1 \\
+  0 & 1 & 0 & 0 & 0 & -1/2 & 0 & 0 \\
+  0 & 0 & 1 & 0 & -1/5 & 1 & 1/5 & 3/5 \\
+  0 & 0 & 0 & 1 & 2/5 & -1/2 & -2/5 & -1/5
+\end{bmatrix}\]
+
+\[ \RREF  \begin{bmatrix}[cccc|cccc]
+1 &2& -1& 2& 1& 0 &0& 0 \\
+2 &-1& 3& 1& 0& 1& 0& 0\\
+1 &1 &0 & 1 &0& 0& 1& 0\\
+3 &1 &-3 &2 &0 &0 &0 &1
+\end{bmatrix}\sim\begin{bmatrix}[cccc|cccc]
+1 & 0 & 0 & 0 & -0.9 & -0.1 & 1.5 & 0.2\\ 
+0 & 1 & 0 & 0 & -0.6 & -0.4& 2 & -0.2 \\ 
+0 & 0 & 1 & 0 & -0.1 & 0.1 & 0.5 & -0.2\\ 
+0 & 0 & 0 & 1 & 1.5 & 0.5 & -2.5 & 0
+\end{bmatrix}\]
+
+\[\RREF  \begin{bmatrix}[ccc|ccc]
+ 1  & 2 & -1 &  1 &  0&   0\\
+  2 &  1 &  3 & 0  & 1  & 0\\
+  1 &  1 &  2 &  0 &  0 &  1
+\end{bmatrix}\sim\begin{bmatrix}[ccc|ccc]
+1  & 0 &  0 &  0.25&   1.25&   -1.75\\
+0  & 1  & 0  & 0.25 & -0.75  & 1.25\\
+0  & 0  & 1 & -0.25 & -0.25  & 0.75
+\end{bmatrix}\]
+
+\[\RREF  \begin{bmatrix}[ccc|ccc]
+ -1   &2  & 1 &  1 &  0 &  0\\
+   1  &-2  & 2  & 0  & 1 &  0\\
+   1  &-1 &  2 &  0 &  0   &1
+\end{bmatrix}\sim\begin{bmatrix}[ccc|ccc]
+   1 & 0&   0&  -2/3&  -5/3 & 2\\
+   0  & 1  & 0  &0  &-1  & 1\\
+   0  & 0  & 1 &  1/3 &  1/3&   0\\
+\end{bmatrix}\]
+
+\[\RREF  \begin{bmatrix}[cccc|cccc]
+-1  & 2&   1&  -2&   1&   0&   0&   0\\
+1  &-2  & 2   &1  & 0  & 1  & 0   &0\\
+1  &-1 &  2 & -1 &  0 &  0 &  1 &  0\\
+2 & -1  & 2 & -2  & 0 &  0  & 0  & 1
+\end{bmatrix}\sim\begin{bmatrix}[cccc|cccc]
+1  &0 &  0 &  0&    0.5&   1.25&   -3.25&   1.75\\
+0 &1 &  0 &  0 &   1    & 1.5&    -3.5 &   1.5\\
+0  & 0 &  1 &  0  &  0.5  &0.75 &  -0.75  & 0.25\\
+0  & 0 &  0 &  1    &0.5 &  1.25 &  -2.25 &  0.75\\
+\end{bmatrix}\]
+
+
+%----G4------
+
+\[
+\RREF\left(
+\begin{bmatrix} [cccc|c]
+0 & 0 & 0 & 0 & 0 \\ 
+-10 & 15 & 0 & -3 & 0 \\ 
+-40 & 0 & 24 & 0 & 0 \\ 
+0 & 0 & 0 & 18 & 0 
+\end{bmatrix}
+\right) =
+  \begin{bmatrix}[cccc|c]
+    1 & 0 & -3/5 & 0 & 0 \\
+    0 & 1 & -2/5 & 0 & 0 \\
+    0 & 0 & 0 & 1 & 0 \\
+    0 & 0 & 0 & 0 & 0
+  \end{bmatrix}
+\]
+
+
+\[
+\RREF\left(
+\begin{bmatrix}  [cccc|c]
+24& -219 & 129 & -153 &0 \\
+66 & -282 & 248 & -314 &0\\
+-21 & 123 & -90& 111 &0 \\
+-51 & 168 & -175 &226 &0
+\end{bmatrix}
+\right) =
+  \begin{bmatrix}[cccc|c]
+    1 & 0 & 7/3 & -10/3 & 0 \\
+    0 & 1 & -1/3 & 1/3 & 0 \\
+    0 & 0 & 0 & 0 & 0 \\
+    0 & 0 & 0 & 0 & 0
+  \end{bmatrix}
+\]
+
+
+\[
+\RREF\left(
+\begin{bmatrix} [cccc|c]
+207 & -219 & -153 & 129 &0 \\
+66 & -99 & -314 & 248 &0 \\
+-21 & 123 & 172 & 32&0 \\
+-51 & 168 & 348 & -114 &0
+\end{bmatrix}
+\right) =
+  \begin{bmatrix}[cccc|c]
+    1 & 0 & 0 & 2 & 0 \\
+    0 & 1 & 0 & 2 & 0 \\
+    0 & 0 & 1 & -1 & 0 \\
+    0 & 0 & 0 & 0 & 0
+  \end{bmatrix}
+\]
+
+
+\[
+\RREF\left(
+\begin{bmatrix} [cccc|c]
+-156& -170 & 160 & 220 &0  \\
+240 & 688& 64 & -1424 &0  \\
+6 & -29 & -32 & 82 &0 \\
+156 & 478 & 64 &-1004 &0
+\end{bmatrix}
+\right) =
+  \begin{bmatrix}[cccc|c]
+    1 & 0 & -20/11 & 15/11 & 0 \\
+    0 & 1 & 8/11 & -28/11 & 0 \\
+    0 & 0 & 0 & 0 & 0 \\
+    0 & 0 & 0 & 0 & 0
+  \end{bmatrix}
+\]
+
+
+\[
+\RREF\left(
+\begin{bmatrix} [cccc|c]
+-2 & -2 & 1 & 0 & 0 \\ 
+0 & -1 & 0 & 0 &0 \\ 
+0 & 0 & -1 & 0 & 0 \\ 
+2 & 2 & -1 & 0 &0 
+\end{bmatrix}
+\right) =
+  \begin{bmatrix}[cccc|c]
+    1 & 0 & 0& 0 & 0 \\
+    0 & 1 & 0 & 0 & 0 \\
+    0 & 0 & 1 & 0 & 0 \\
+    0 & 0 & 0 & 0 & 0
+  \end{bmatrix}
+\]
+
+\[
+\RREF\left(
+\begin{bmatrix} [cccc|c]
+-1& -2 & 1 & 0 & 0 \\
+ 0 & 0& 0 & 0 &0 \\ 
+ 0 & 0 &0 & 0 & 0 \\ 
+ 2 & 2 & -1 & 1 &0 \end{bmatrix}
+\right) =
+  \begin{bmatrix}[cccc|c]
+    1 & 0 & 0& 1 & 0 \\
+    0 & 1 & -0.5 & -0.5 & 0 \\
+    0 & 0 & 0 & 0 & 0 \\
+    0 & 0 & 0 & 0 & 0
+  \end{bmatrix}
+\]
+
+\[
+\RREF\left(
+\begin{bmatrix}  [cccc|c]
+ 1  & 0  & 0 & -1 &0\\
+0  & 0   & 0 &  0 & 0\\
+2 &  0 &  0   &-1 & 0\\
+ 0  & 0&   0&   -1 & 0\end{bmatrix}
+\right) =
+  \begin{bmatrix}[cccc|c]
+    1 & 0 & 0& 0 & 0 \\
+    0 & 0 & 0 & 1 & 0 \\
+    0 & 0 & 0 & 0 & 0 \\
+    0 & 0 & 0 & 0 & 0
+  \end{bmatrix}
+\]
+
+\[
+\RREF\left(
+\begin{bmatrix}  [cccc|c]
+2 & 0  & 0 & -1 &0\\
+0  & 1 & 0 &  0 & 0\\
+2 &  0 &  1   &-1 & 0\\
+ 0  & 0&   0&   0  & 0\end{bmatrix}
+\right) =
+  \begin{bmatrix}[cccc|c]
+    1 & 0 & 0& -0.5 & 0 \\
+    0 & 1 & 0 & 0 & 0 \\
+    0 & 0 & 1 & 0 & 0 \\
+    0 & 0 & 0 & 0 & 0
+  \end{bmatrix}
+\]
+
+
+
+\end{document}

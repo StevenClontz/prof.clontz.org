@@ -11,6 +11,7 @@ description: "Linear Algebra- 2019 May"
   - [Course Slides][slides]
   - [Standards][standards]
   - [Homework/Practice Exercises][homework]
+  - [RREF Table][rref]
   - [Sample Solutions][sample]
   - Readiness materials:
     - [Module E][readiness-E]
@@ -55,7 +56,10 @@ A free online respository of [notes][slides] and
 
 The use of any calculator is allowed on assessments, 
 as long as it does not support communication
-functionality or internet connectivity. 
+functionality or internet connectivity. Students will
+need a calculuator that supports computing reduced
+row echelon form ("RREF"), or may use a provided table
+of [RREFs][rref]. 
 
 ## Grading
 
@@ -263,8 +267,7 @@ USAOnline.
 
 [revision-form]: pdf/revision-form.pdf
 [office-form]: pdf/office-form.pdf
-[project-form]: pdf/project-form.pdf
-[formula-table]: pdf/table.pdf
+[rref]: pdf/rref.pdf
 [slides]: pdf/course-slides.pdf
 
 [gradescope]: https://www.gradescope.com
