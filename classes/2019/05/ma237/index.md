@@ -15,6 +15,7 @@ description: "Linear Algebra- 2019 May"
   - [Sample Solutions][sample]
   - Readiness materials:
     - [Module E][readiness-E]
+    - [RREF video (Standard E2)](https://www.youtube.com/watch?v=Cq0Nxk2dhhU)
     - [Module V][readiness-V]
     - [Module A][readiness-A]
     - [Module M][readiness-M]
