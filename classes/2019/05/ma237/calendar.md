@@ -11,9 +11,9 @@ description: "2019 Maymester"
   - Practice Readiness Quiz for Module E
   - Cover E1-E3
 - **Tue, May 07**
-  - Mastery Quiz on E1-E3
+  - Mastery Quiz on E1-E2
   - Readiness Quiz for Module V
-  - Cover V1-V2
+  - Cover E1-V2
 - **Wed, May 08**
   - Mastery Quiz on E1-V2
   - Cover V3-V5
@@ -27,7 +27,7 @@ description: "2019 Maymester"
 ## Week 2
 
 - **Mon, May 13**
-  - Mastery Quiz on V1-V10
+  - Mastery Quiz on E3-V10
   - Readiness Quiz for Module A
   - Cover A1-A2
 - **Tue, May 14**
