@@ -13,6 +13,7 @@ description: "Linear Algebra- 2019 May"
   - [Homework/Practice Exercises][homework]
   - [RREF Table][rref]
   - [Sample Solutions][sample]
+    - [Extra V1 example](pdf/V1-example.pdf)
   - Readiness materials:
     - [Module E][readiness-E]
     - [RREF video (Standard E2)](https://www.youtube.com/watch?v=Cq0Nxk2dhhU)
