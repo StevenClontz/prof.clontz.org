@@ -18,8 +18,8 @@ description: "2019 Maymester"
   - Mastery Quiz on E1-V1
   - Cover V2-V5
 - **Thu, May 09**
-  - Mastery Quiz on E1-V5
-  - Cover V6-V7
+  - Mastery Quiz on E1-V4
+  - Cover V5-V7
 - **Fri, May 10**
   - Mastery Quiz on E1-V7
   - Cover V8-V10
@@ -34,7 +34,7 @@ description: "2019 Maymester"
   - Mastery Quiz on V2-A2
   - Cover A3-A4
 - **Wed, May 08**
-  - Mastery Quiz on V6-A4
+  - Mastery Quiz on V5-A4
   - Readiness Quiz for Module M
   - Cover M1-M2
 - **Thu, May 09**
