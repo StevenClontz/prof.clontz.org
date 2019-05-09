@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "MA 490" 
-description: "Special Topics- On Numbers and Games - 2020 Spring"
+description: "Special Topics - On Numbers and Games - 2020 Spring"
 ---
 
 ## Interest Form
@@ -10,16 +10,9 @@ Below is a work-in-progress syllabus for a potential special topics course
 to be run in 2020 Spring. Enrollment will require instructor approval,
 typically credit in Foundations of Mathematics or equivalent experience. 
 If you will be enrolled that semester and would
-like to take the course, please complete the below form:
+like to take the course, please complete the below form to receive updates:
 
-[Interest Form][interest]
-
----
-
-#### Quick Links
-
-- [Instructor Notes][notes]
-- [Calendar][calendar]
+[Special Topics Interest Form][interest]
 
 ---
 
@@ -28,11 +21,12 @@ like to take the course, please complete the below form:
 - Semester: 2020 Spring
 - Title: Special Topics
 - Topic: On Numbers and Games
+- Credit Hours: 3
 - Section:
     - MA 490-???
     - MA 590-???
 - Class Time:
-    - ???
+    - ??? (two 75 minute meetings per week)
     - MSPB ???
 - Office Hours
     - ???
@@ -59,23 +53,21 @@ An outline of topics follows.
 - Games vs. numbers (Chapters 8-9)
 - Impartial games (Chapter 11)
 - Infinite-length combinatorial games
-- Contemporary research on games
+- MA590: Contemporary research on games
 
 ## Assessment and Grading
 
-At the end of each topic, a quiz will be given covering that material,
+At the end of each topic outlined above, 
+a quiz will be given covering that material,
 including several multiple choice questions and one full-response
 question. Each mutiple-choice quesiton is worth one point, and the
 full-response question is worth two points. A topic is considered
 Mastered if the student earns at least as many points as there are
 multiple-choice questions.
 
-Unmastered topics will be quizzed again on the midterm and final;
-students that Mastered the topic previously may skip those sections.
-
-Graduate students will give a presentation on a topic of their choice
-toward the end of the course that counts as an extra topic.
-A satisfactory presentation demonstrates Mastery of the topic.
+MA590 students will read a research paper on contemporary combinatorial
+game theory research and give a presentation in class,
+with a satisfactory presentation counting as a Mastered topic.
 
 Letter grades are assigned based on the number of topics Mastered. 
 - **A**: all but one topic Mastered.
@@ -85,20 +77,17 @@ Letter grades are assigned based on the number of topics Mastered.
 
 ## Midterm and Final Exam
 
-As stated above, the midterm and final exam will be comprehensive,
-with the opportunity to Master any previously Unmastered topics.
-Some topics may appear for the first time on these exams, rather
-than on an individual quiz.
+Unmastered topics will be quizzed again on the midterm and final;
+students that Mastered the topic previously may skip those sections.
 
 ## Academic Honesty
 
 Academic Honesty is defined in
 [USA's Student Academic Conduct Policy][usa-academic-conduct].
 Any student who is caught
-cheating will permanently forfeit all credit earned for the
-relevant area of the course (Discussions, Presentations,
-Content Mastery, Proofs, or the Final Exam) as well as
-be deducted one letter grade.
+cheating will lose all mastery credit earned during the
+semester, and must take all future assessments in the instructor's
+office.
 In addition, the incident will be reported to the university.
 
 A second instance of academic dishonesty will immediately
