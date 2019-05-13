@@ -38,7 +38,7 @@ description: "Linear Algebra- 2019 May"
   * MTWRF 9:00am-11:46am
   * MSPB 360
 * Office Hours
-  * MTWR 01:00pm-03:00pm
+  * MTWR 11:46am-1:30pm
   * MSPB 314
 
 ## Course Content
