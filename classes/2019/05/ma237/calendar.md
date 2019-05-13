@@ -22,7 +22,7 @@ description: "2019 Maymester"
   - Cover V5-V9
 - **Fri, May 10**
   - Mastery Quiz on E1-V9
-  - Cover V10-A2
+  - Cover V10-A1
 
 ## Week 2
 
@@ -41,7 +41,7 @@ description: "2019 Maymester"
   - Mastery Quiz on V10-M1
   - Cover M2-M3
 - **Fri, May 10**
-  - Mastery Quiz on A1-M3
+  - Mastery Quiz on A2-M3
   - Readiness Quiz for Module G
   - Cover G1-G2
 
