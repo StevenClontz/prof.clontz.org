@@ -33,14 +33,14 @@ description: "2019 Maymester"
 - **Tue, May 14**
   - Mastery Quiz on V2-A3
   - Readiness Quiz for Module M
-  - Cover A4-M1
-- **Wed, May 08**
+  - Cover A4
+- **Wed, May 15**
   - Mastery Quiz on V5-A4
   - Cover M1-M2
-- **Thu, May 09**
+- **Thu, May 16**
   - Mastery Quiz on V10-M1
   - Cover M2-M3
-- **Fri, May 10**
+- **Fri, May 17**
   - Mastery Quiz on A2-M3
   - Readiness Quiz for Module G
   - Cover G1-G2
