@@ -53,7 +53,7 @@ description: "2019 Maymester"
   - Cover Cryptography application
   - Cover G2-G3
 - **Tue, May 21**
-  - Mastery Quiz on M1-G4
+  - Mastery Quiz on M1-G2
   - Cover G3-G4
   - Cover Applications
 - **Wed, May 22**
