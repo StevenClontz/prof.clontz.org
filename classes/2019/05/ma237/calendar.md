@@ -50,19 +50,19 @@ description: "2019 Maymester"
 
 - **Mon, May 20**
   - Mastery Quiz on A3-G1
-  - Cover Cryptography application
+  - Cover cryptography application (P4)
   - Cover G2-G3
 - **Tue, May 21**
   - Mastery Quiz on M1-G2
   - Cover G3-G4
-  - Cover Applications
+  - Cover Pagerank application (P2)
 - **Wed, May 22**
   - Comprehensive Mastery Quiz
-  - Cover Applications
+  - Cover geology application (P1)
   - Review
 - **Thu, May 23**
   - Quiz on G1-G4
-  - Cover Applications
+  - Cover engineering application (P3)
   - Review
 - **Fri, May 24**
   - Final Exam
