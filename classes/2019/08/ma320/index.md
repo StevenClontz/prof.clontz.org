@@ -66,8 +66,8 @@ Throughout the course, students are expected to engage with the
 data provided to the instructor, the requirements to gain letter
 grades from the Final Exam will be lowered as follows:
 
-- +2 Letter Grades: 90%, to as low as 70%
-- +1 Letter Grade: 80%, to as low as 50%
+- +2 Letter Grades: from 90% to as low as 70%
+- +1 Letter Grade: from 80% to as low as 50%
 
 Put another way, a student who avoids online discussions all semester
 will need to make 80% on the final to improve their course grade
