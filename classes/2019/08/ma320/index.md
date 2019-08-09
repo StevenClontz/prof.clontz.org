@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "MA 320"
-description: "Foundations of Math- 2019 Fall"
+description: "Foundations of Math - 2019 Fall"
 ---
 
 #### Quick Links
@@ -22,7 +22,7 @@ description: "Foundations of Math- 2019 Fall"
     - TR 2:00-3:15pm
     - HUMB 212
 - Office Hours
-    - W 10:45am-1:45pm 
+    - TR 10:45am-1:45pm 
     - MSPB 314
 
 ## Course Content
@@ -33,7 +33,7 @@ functions, and the structure of the number system.
 
 We will spend most of our class time working through freely available
 [course notes][notes] written by B.J. Baker. 
-A textbook is available in the bookstore or online,
+A textbook is available in the bookstore or [online][textbook],
 *Bridge to Higher Mathematics*, by Sam Vandervelde, but it is not required. 
 
 ## Grading
@@ -43,14 +43,13 @@ of three requirements, detailed further below:
 
 - **Content Mastery** 
   - +1 Letter Grade
-- **Proofs Portfolio**
+- **Writing Portfolio**
   - +1 Letter Grade
 - **Final Exam**
   - +2 Letter Grades
-  - The difficulty of each student's final exam will be based upon 
-    that student's
-    contributions to online **Discussions** and in-class
-    **Presentations**.
+  - By default, 90% on the final exam is required to earn
+    both letter grades, but this may be lowered by contributing
+    to class **Discussions** online.
 
 At the end of the course, grades are asssigned as follows:
 
@@ -62,31 +61,20 @@ At the end of the course, grades are asssigned as follows:
 
 ## Discussions
 
-Each Thursday, students will be assigned a portion of the course notes
-to review and discuss over the weekend before class meets again on Tuesday. This material
-will be discussed online at [CampusWire][campuswire], which assigns a reputation score
-to each student based upon contributions and reactions from classmates and the instructor.
+Throughout the course, students are expected to engage with the
+[CampusWire][campuswire] discussion platform. Based on the analytics
+data provided to the instructor, the requirements to gain letter
+grades from the Final Exam will be lowered as follows:
 
-Based on this score, each student will be assigned a
-Final Exam Requirement between 60% and 90%, with the best student being assigned 60%.
-(Earning this requirement on the final will improve your overall grade by one letter.)
+- +2 Letter Grades: from 90% to as low as 70%
+- +1 Letter Grade: from 80% to as low as 50%
 
-## Presentations
-
-When assigning notes for online discussion, individual students will be assigned
-to certain sections of the notes. These students are responsible for presenting
-this material to the class during the following week.
-After each in-class student presentation, the other students will submit a rating of the
-presentation to the instructor.
-
-Based upon these ratings, each student will be assigned a 
-Final Exam Requirement between 60% and 90%, with the best student being assigned 60%.
-(Earning this requirement on the final will improve your overall grade by one letter.)
-
-### Adjustment of Final Exam Requirements
-
-If both the discussion and presentation Final Exam Requirements are within 10%,
-then the lower requirement will be changed to be 10% less than the higher requirement.
+Put another way, a student who avoids online discussions all semester
+will need to make 80% on the final to improve their course grade
+by one letter and 90% for two letters,
+but the student who contributes the most to online discussions
+will only need to earn 50% on the final to improve their course grade
+by one letter and 70% for two letters.
 
 ## Content Mastery 
 
@@ -108,23 +96,25 @@ will be assessed on periodic Mastery Quizzes, which are maked as follows.
 
 Marks other than **✓** may be reattempted on future quizzes. Once a **✓**
 has been earned for a Standard, that Standard is considered Mastered (regardless
-of how many attempts were made).
+of how many reattempts were required).
 
-Students that Master at least 85% of the Standards by the end of the semester 
+Students that Master at least 90% of the Standards by the end of the semester 
 will earn +1 Letter Grade. These Standards will also be on the Final Exam
 and can be Mastered at that time as well (see below).
 
-## Proofs
+## Writing Portfolio
 
 This course is designated as a [Writing-Intensive Course][WIC] by the university.
-As such, students are required to compile a Proofs Portfolio over the course of
+As such, students are required to compile a Writing Portfolio over the course of
 the semester. This portfolio will include one example of each of the types of
-proofs we will cover in this course, in addition to one proof based on introductory
-material from another MA 300/400 course.
+proofs we will cover in this course, in addition to one short paper on a topic
+agreed upon by each student and the instructor.
 
 An important part of this process is instructor and peer review, followed by revisions.
 Students will be required to post drafts to CampusWire as well as provide feedback to
-peers on early drafts.
+peers on early drafts. Students will have a limited number of instructor
+reviews they may use to have the instructor provide feedback on a writing assignment,
+and approve the assignment as satisfactory if possible.
 
 The complete portfolio will be printed and submitted to the instructor at the final exam.
 Students that submit a satisfactory portfolio according to the [rubric][portfolio-rubric]
@@ -134,15 +124,15 @@ will earn +1 Letter Grade.
 
 The Final Exam will be graded out of 100%. Half of this score will be
 based upon Content Mastery exercises (which may also be used to
-meet the Content Mastery requirements for the course). 
+meet the Content Mastery requirements for the course).
 The rest of this score will be based on writing proofs (which do not
-affect the Proofs Portfolio).
+affect the Writing Portfolio).
 
 Any student who earns 90% or better will earn +2 Letter Grades, and any student
-who earns 80% or better will earn at least +1 Letter Grade. 
+who earns 80% or better will earn at least +1 Letter Grade.
 However, these requirements
-may be lowered as far as 60% and 50% respectively by participating in
-Discussions and Presentations (see above).
+may be lowered as far as 70% and 50% respectively by participating in
+online Discussions (see above).
 
 ## Academic Honesty
 
@@ -150,8 +140,8 @@ Academic Honesty is defined in
 [USA's Student Academic Conduct Policy][usa-academic-conduct].
 Any student who is caught
 cheating will permanently forfeit all credit earned for the
-relevant area of the course (Discussions, Presentations,
-Content Mastery, Proofs, or the Final Exam) as well as
+relevant area of the course (Discussions,
+Content Mastery, Writing Portfolio, or the Final Exam) as well as
 be deducted one letter grade.
 In addition, the incident will be reported to the university.
 
@@ -177,4 +167,4 @@ printed progress reports.
 [calendar]: calendar/
 [notes]: http://jiblm.org/downloads/jiblmjournal/V160342S/V160342S.pdf
 [drive]: /classes/drive/ 
-
+[textbook]: https://static1.squarespace.com/static/53f512c0e4b0a95765d3908f/t/55373585e4b07cdf871ec22d/1429681541076/bridgebook.pdf
