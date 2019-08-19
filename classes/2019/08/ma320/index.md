@@ -9,6 +9,9 @@ description: "Foundations of Math - 2019 Fall"
 - [Course Notes][notes]
 - [Calendar][calendar]
 - [CampusWire][campuswire]
+- Resources
+  - [Guidelines for Good Math Writing](pdf/good-math-writing.pdf)
+  - [Math Autobiography](autobio)
 
 ---
 
@@ -168,3 +171,4 @@ printed progress reports.
 [notes]: http://jiblm.org/downloads/jiblmjournal/V160342S/V160342S.pdf
 [drive]: /classes/drive/ 
 [textbook]: https://static1.squarespace.com/static/53f512c0e4b0a95765d3908f/t/55373585e4b07cdf871ec22d/1429681541076/bridgebook.pdf
+[campuswire]: https://campuswire.com/

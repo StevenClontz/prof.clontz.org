@@ -18,6 +18,7 @@ description: "Readiness materials"
   - <https://prof.clontz.org/resources/calculus2/2/5/>
 - Solve systems of two linear equations in two variables.  
   - <https://youtu.be/Y6JsEja15Vk>
+- *In addition, please read* [this article](/assets/growth-mindset.pdf) *on mathematical intelligence.*
 
 # Module F 
 
