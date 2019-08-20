@@ -8,6 +8,7 @@ description: "Foundations of Math - 2019 Fall"
 
 - [Course Notes][notes]
 - [Calendar][calendar]
+- [Standards][standards]
 - [CampusWire][campuswire]
 - Resources
   - [Guidelines for Good Math Writing](pdf/good-math-writing.pdf)
@@ -172,3 +173,4 @@ printed progress reports.
 [drive]: /classes/drive/ 
 [textbook]: https://static1.squarespace.com/static/53f512c0e4b0a95765d3908f/t/55373585e4b07cdf871ec22d/1429681541076/bridgebook.pdf
 [campuswire]: https://campuswire.com/
+[standards]: standards/

@@ -9,3 +9,5 @@ Content Mastery grade specification for this course.
 
 - **1. Guidelines for Good Mathematical Writing**. 
   Read and understand [these guidelines](../pdf/good-math-writing.pdf).
+- **2. Statements**.
+  Be able to identify whether a sentence is a statement or not.
