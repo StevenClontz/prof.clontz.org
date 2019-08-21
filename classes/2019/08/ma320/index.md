@@ -52,8 +52,8 @@ of three requirements, detailed further below:
 - **Final Exam**
   - +2 Letter Grades
   - By default, 90% on the final exam is required to earn
-    both letter grades, but this may be lowered by contributing
-    to class **Discussions** online.
+    both letter grades, but this may be lowered by **Participating**
+    in class as described below.
 
 At the end of the course, grades are asssigned as follows:
 
@@ -63,22 +63,33 @@ At the end of the course, grades are asssigned as follows:
 - **D**: +1 Letter Grades earned
 - **F**: 0 Letter Grades earned
 
-## Discussions
+## Participation
 
 Throughout the course, students are expected to engage with the
 [CampusWire][campuswire] discussion platform. Based on the analytics
-data provided to the instructor, the requirements to gain letter
+data provided to the instructor, and other relevant participation
+data such as attendance, the requirements to gain letter
 grades from the Final Exam will be lowered as follows:
 
 - +2 Letter Grades: from 90% to as low as 70%
 - +1 Letter Grade: from 80% to as low as 50%
 
-Put another way, a student who avoids online discussions all semester
+Put another way, a student who avoids participating all semester
 will need to make 80% on the final to improve their course grade
 by one letter and 90% for two letters,
-but the student who contributes the most to online discussions
+but the student who participates the most
 will only need to earn 50% on the final to improve their course grade
 by one letter and 70% for two letters.
+
+### Absences
+
+Absences may be excused with appropriate documentation. If the
+absence is anticipated, it must be documented and verified by the
+instructor ahead of the absence to be excused. For medical excuses,
+do not send any medical information, but send the note from the
+medical professional asking the instructor to excuse the absence.
+Absences must be documented via email. Only unexcused absences
+count against participation credit for the semester.
 
 ## Content Mastery 
 
@@ -135,8 +146,8 @@ affect the Writing Portfolio).
 Any student who earns 90% or better will earn +2 Letter Grades, and any student
 who earns 80% or better will earn at least +1 Letter Grade.
 However, these requirements
-may be lowered as far as 70% and 50% respectively by participating in
-online Discussions (see above).
+may be lowered as far as 70% and 50% respectively by Participating
+in the course (see above).
 
 ## Academic Honesty
 
@@ -144,7 +155,7 @@ Academic Honesty is defined in
 [USA's Student Academic Conduct Policy][usa-academic-conduct].
 Any student who is caught
 cheating will permanently forfeit all credit earned for the
-relevant area of the course (Discussions,
+relevant area of the course (Participation,
 Content Mastery, Writing Portfolio, or the Final Exam) as well as
 be deducted one letter grade.
 In addition, the incident will be reported to the university.
