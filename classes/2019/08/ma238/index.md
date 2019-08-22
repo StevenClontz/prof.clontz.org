@@ -23,14 +23,15 @@ description: "Differential Equations - 2019 Fall"
 
 ## Course Information
 
-* Semester: 2019 Fall
-* Title: Differential Equations
-* Sections: MA 238-101
-  * TR 9:30am-10:45am
-  * MSPB 360
-* Office Hours
-  * TR 10:45am-1:45pm
-  * MSPB 314
+- Semester: 2019 Fall
+- Title: Differential Equations
+- Instructor: Dr. Steven Clontz
+- Sections: MA 238-101
+  - TR 9:30am-10:45am
+  - MSPB 360
+- Office Hours
+  - TR 10:45am-1:45pm
+  - MSPB 314
 
 ## Course Content
 
