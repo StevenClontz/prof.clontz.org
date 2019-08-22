@@ -16,7 +16,7 @@ description: "Differential Equations - 2019 Fall"
 - Forms:
     - [**✱** Revision][revision-form]
     - [Office Reassessment][office-form]
-- [Google Drive](/classes/drive/)
+- [Google Drive][drive]
 - [Gradescope][gradescope]
 
 ---
@@ -46,7 +46,7 @@ learning outcomes defined by the Association of American Colleges & Universities
 ## Textbook and Resources
 
 Much of the material for this course will be provided on the course website
-or uploaded to [Google Drive](drive/).
+or uploaded to [Google Drive][drive].
 
 The textbook carried in the univeristy bookstore will not be required.
 A free online respository of homework exercises will be provided instead.
@@ -271,3 +271,4 @@ USAOnline.
 [gradescope]: https://www.gradescope.com/
 [mastr]: https://mastr.clontz.org
 [formula-table]: pdf/table.pdf
+[drive]: /classes/drive
