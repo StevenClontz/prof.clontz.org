@@ -14,6 +14,7 @@ description: "2019 Fall"
   - Solving linear systems, C1
 - Tuesday, Aug 27
   - Online lecture covering C1,C2.
+    - <https://youtu.be/a57Gyvgzh74>
 - Thursday, Aug 29
   - Mastery Quiz on C1,C2
   - Cover C3m
