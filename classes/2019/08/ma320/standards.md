@@ -16,3 +16,8 @@ Content Mastery grade specification for this course.
 - **4. Denials of Universal and Existential Qualifiers**.
   Be able to write the denial of an English statement involving a
   universal or existanetial qualifier.
+- **5. Conditionals, Converses, Inverses, and Contrapositives**.
+  Be able to rewrite a conditional as its converse, inverse, and contrapositive,
+  and analyze each statement. 
+- **6. Proving tautologies by truth tables**.
+  Be able to prove a tautology by generating its truth table.
