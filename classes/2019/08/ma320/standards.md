@@ -25,4 +25,4 @@ Content Mastery grade specification for this course.
   Be able to identify whether a proof is direct, indirect, or contrapositive.
 - **8. Set operations**
   Be able to compute and illustrate a combination of set operations, including intersections,
-  unions, complements, power sets, and cardinalities.
+  unions, complements, subtractions, power sets, and cardinalities.
