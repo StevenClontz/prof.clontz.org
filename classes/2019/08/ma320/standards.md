@@ -21,3 +21,8 @@ Content Mastery grade specification for this course.
   and analyze each statement. 
 - **6. Proving tautologies by truth tables**.
   Be able to prove a tautology by generating its truth table.
+- **7. Direct, indirect, and contrapositive proofs**
+  Be able to identify whether a proof is direct, indirect, or contrapositive.
+- **8. Set operations**
+  Be able to compute and illustrate a combination of set operations, including intersections,
+  unions, complements, power sets, and cardinalities.
