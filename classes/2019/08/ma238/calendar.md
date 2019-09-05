@@ -28,10 +28,10 @@ description: "2019 Fall"
   - Mastery Quiz on C1,C2
   - Cover C4,C5
 - Tuesday Sep 10
-  - Mastery Quiz on C4,C5
-  - Cover C6
+  - Mastery Quiz on C4
+  - Cover C5,C6
 - Thursday, Sep 12
-  - Mastery Quiz on C2
+  - Mastery Quiz on C2,C5
   - Cover C6,C7m
 - Tuesday, Sep 17
   - Mastery Quiz on C4,C6
