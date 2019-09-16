@@ -26,3 +26,5 @@ Content Mastery grade specification for this course.
 - **8. Set operations**
   Be able to compute and illustrate a combination of set operations, including intersections,
   unions, complements, subtractions, power sets, and cardinalities.
+- **9. Valid and Invalid Proofs**
+  Be able to identify a proof as valid or invalid, and give a reason why.
