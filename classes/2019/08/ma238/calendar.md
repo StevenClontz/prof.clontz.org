@@ -35,25 +35,25 @@ description: "2019 Fall"
   - Cover C6,C7m
 - Tuesday, Sep 17
   - Mastery Quiz on C4,C6
-  - Cover C7m
   - Module F Readiness
+  - Cover F1
 - Thursday, Sep 19
-  - Mastery Quiz on C5
-  - Cover F1,F2
+  - Mastery Quiz on C5,F1
+  - Cover F2
 - Tuesday, Sep 24
-  - Mastery Quiz on C4,F1
-  - Cover F2,F3m
+  - Mastery Quiz on C4,F2
+  - Cover F3m
 - Thursday, Sep 26
-  - Mastery Quiz on C6,F2
+  - Mastery Quiz on C6,F1
   - Cover F3m,F4
 
 ### October
 
 - Tuesday, Oct 01
-  - Mastery Quiz on C5,F1
+  - Mastery Quiz on C5,F2
   - Cover F4,F5
 - Thursday, Oct 03
-  - Mastery Quiz on C6,F2,F4
+  - Mastery Quiz on C6,F4
   - Cover F6
 - Tuesday, Oct 08
   - Comprehensive Mastery Quiz on C1-F6
