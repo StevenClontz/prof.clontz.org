@@ -49,24 +49,24 @@ description: "2019 Fall"
 ### October
 
 - Tuesday, Oct 01
-  - Mastery Quiz on C5,F2
+  - Mastery Quiz on C5,F1,F2
   - Cover F4,F5
 - Thursday, Oct 03
-  - Mastery Quiz on C6,F4
+  - Mastery Quiz on C6,F4,F5
   - Cover F6
 - Tuesday, Oct 08
   - Comprehensive Mastery Quiz on C1-F6
 - Thursday, Oct 10
   - **Fall Break**
 - Tuesday, Oct 15
-  - Mastery Quiz on F1,F5
+  - Mastery Quiz on F5
   - Module S Readiness
   - Cover S1
 - Thursday, Oct 17
-  - Mastery Quiz on F2,F6
+  - Mastery Quiz on F4,F6
   - Cover S2m
 - Tuesday, Oct 22
-  - Mastery Quiz on F5,S1
+  - Mastery Quiz on S1
   - Cover S3
 - Thursday, Oct 24
   - Mastery Quiz on F6,S3
