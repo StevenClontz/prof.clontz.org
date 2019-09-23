@@ -38,13 +38,12 @@ description: "2019 Fall"
   - Module F Readiness
   - Cover F1
 - Thursday, Sep 19
-  - Mastery Quiz on C5,F1
-  - Cover F2
+  - *Canceled due to instructor absence*
 - Tuesday, Sep 24
-  - Mastery Quiz on C4,F2
-  - Cover F3m
+  - Mastery Quiz on C5,F1
+  - Cover F2,F3m
 - Thursday, Sep 26
-  - Mastery Quiz on C6,F1
+  - Mastery Quiz on C4,C6,F1,F2
   - Cover F3m,F4
 
 ### October
