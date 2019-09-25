@@ -28,3 +28,6 @@ Content Mastery grade specification for this course.
   unions, complements, subtractions, power sets, and cardinalities.
 - **9. Valid and Invalid Proofs**
   Be able to identify a proof as valid or invalid, and give a reason why.
+- **10. Equivalence Relations**
+  Given a non-equivalence relation and three elements, explain which pairs are related, and 
+  explain why the relation is not an equivalence relation based on those elements.
