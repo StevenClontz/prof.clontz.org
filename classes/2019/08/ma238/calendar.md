@@ -43,7 +43,7 @@ description: "2019 Fall"
   - Mastery Quiz on C5,F1
   - Cover F2,F3m
 - Thursday, Sep 26
-  - Mastery Quiz on C4,C6,F1,F2
+  - Mastery Quiz on C4,C6,F2
   - Cover F3m,F4
 
 ### October
