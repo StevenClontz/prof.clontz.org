@@ -45,6 +45,7 @@ description: "2019 Fall"
 - Thursday, Sep 26
   - Mastery Quiz on C4,C6,F2
   - Cover F3m,F4
+  - Follow-up video on F4: <https://youtu.be/sIm1fFgU3aI>
 
 ### October
 
