@@ -31,3 +31,6 @@ Content Mastery grade specification for this course.
 - **10. Equivalence Relations**
   Given a non-equivalence relation and three elements, explain which pairs are related, and 
   explain why the relation is not an equivalence relation based on those elements.
+- **11. Functions**
+  Be able to analyze a given function, including computing things such as pre-images,
+  and identifying functions as onto or one-to-one.
