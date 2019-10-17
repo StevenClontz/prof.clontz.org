@@ -62,35 +62,34 @@ description: "2019 Fall"
 - Tuesday, Oct 15
   - Mastery Quiz on F5
   - Module S Readiness
-  - Cover S1
+  - Cover S1,S2m
 - Thursday, Oct 17
   - Mastery Quiz on F4,F6
   - Cover S2m
 - Tuesday, Oct 22
   - Mastery Quiz on S1
-  - Cover S3
+  - Cover S2m,S3
 - Thursday, Oct 24
-  - Mastery Quiz on F6,S3
-  - Cover S4m
+  - Mastery Quiz on F6
+  - Cover S3,S4m
 - Tuesday, Oct 29
-  - Mastery Quiz on F5,S1
+  - Mastery Quiz on S1,S3
   - Cover S4m
 - Thursday, Oct 31
-  - Mastery Quiz on S3
   - Module N Readiness
   - Cover N1
 
 ### November
 
 - Tuesday, Nov 05
-  - Mastery Quiz on S1 
+  - Mastery Quiz on S1,S3
   - Cover N1,N2
 - Thursday, Nov 07
-  - Mastery Quiz on S3,N1
+  - Mastery Quiz on N1
   - Cover N3m
   - Module D Readiness
 - Tuesday, Nov 12
-  - Mastery Quiz on N2
+  - Mastery Quiz on S3,N2
   - Cover D1
 - Thursday, Nov 14
   - Mastery Quiz on S1,N1
