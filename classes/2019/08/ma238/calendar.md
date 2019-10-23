@@ -68,10 +68,10 @@ description: "2019 Fall"
   - Cover S2m
 - Tuesday, Oct 22
   - Mastery Quiz on S1
-  - Cover S2m,S3
+  - Cover S2m
 - Thursday, Oct 24
   - Mastery Quiz on F6
-  - Cover S3,S4m
+  - Cover S3
 - Tuesday, Oct 29
   - Mastery Quiz on S1,S3
   - Cover S4m
