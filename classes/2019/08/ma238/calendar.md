@@ -76,6 +76,7 @@ description: "2019 Fall"
   - Mastery Quiz on S1,S3
   - Cover S4m
 - Thursday, Oct 31
+  - Mastery Quiz on F5,F6
   - Module N Readiness
   - Cover N1
 
