@@ -34,3 +34,5 @@ Content Mastery grade specification for this course.
 - **11. Functions**
   Be able to analyze a given function, including computing things such as pre-images,
   and identifying functions as onto or one-to-one.
+- **12. Binary Operations**
+  Be able to compute a given binary operation and identify it as commutative or associative. 
