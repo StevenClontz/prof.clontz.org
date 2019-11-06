@@ -36,3 +36,5 @@ Content Mastery grade specification for this course.
   and identifying functions as onto or one-to-one.
 - **12. Binary Operations**
   Be able to compute a given binary operation and identify it as commutative or associative. 
+- **13. Finite Sums**
+  Be able to compute finite sums and express them in sigma notation.
