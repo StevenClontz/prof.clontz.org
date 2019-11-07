@@ -88,13 +88,13 @@ description: "2019 Fall"
 - Thursday, Nov 07
   - Mastery Quiz on N1
   - Cover N3m
-  - Module D Readiness
 - Tuesday, Nov 12
   - Mastery Quiz on S3,N2
-  - Cover D1
+  - Cover N3m
+  - Module D Readiness
 - Thursday, Nov 14
   - Mastery Quiz on S1,N1
-  - Cover D1,D2
+  - Cover D1
 - Tuesday, Nov 19
   - Mastery Quiz on N2,D1
   - Cover D2
