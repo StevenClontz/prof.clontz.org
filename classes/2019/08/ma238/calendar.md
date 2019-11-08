@@ -84,10 +84,10 @@ description: "2019 Fall"
 
 - Tuesday, Nov 05
   - Mastery Quiz on S1,S3
-  - Cover N1,N2
+  - Cover N1
 - Thursday, Nov 07
   - Mastery Quiz on N1
-  - Cover N3m
+  - Cover N2,N3m
 - Tuesday, Nov 12
   - Mastery Quiz on S3,N2
   - Cover N3m
