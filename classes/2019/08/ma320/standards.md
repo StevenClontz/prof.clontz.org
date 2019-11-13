@@ -38,3 +38,6 @@ Content Mastery grade specification for this course.
   Be able to compute a given binary operation and identify it as commutative or associative. 
 - **13. Finite Sums**
   Be able to compute finite sums and express them in sigma notation.
+- **14. Upper and Lower Bounds**
+  Be able to identify upper and lower bounds for sets of real numbers, 
+  including least upper bounds and greatest lower bounds.
