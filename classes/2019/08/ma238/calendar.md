@@ -98,10 +98,10 @@ description: "2019 Fall"
   - Mastery Quiz on S1,N1
   - Cover D1
 - Thursday, Nov 21
-  - Mastery Quiz on N1,N2,D1
+  - Mastery Quiz on N1,N2
   - Cover D1,D2
 - Tuesday, Nov 26
-  - Mastery Quiz on D1,D2
+  - Mastery Quiz on D1
   - Cover D2
 - Thursday, Nov 28
   - **Thanksgiving Holiday**
@@ -109,7 +109,7 @@ description: "2019 Fall"
 ### December
 
 - Tuesday, Dec 03
-  - Mastery Quiz on D1,D2
+  - Mastery Quiz on D2
   - Cover D3m,D4m
 - Thursday, Dec 05
   - Comprehensive Mastery Quiz
