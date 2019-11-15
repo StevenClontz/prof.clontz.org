@@ -93,17 +93,16 @@ description: "2019 Fall"
   - Cover N3m
   - Module D Readiness
 - Thursday, Nov 14
+  - *Canceled due to instructor absence*
+- Tuesday, Nov 19
   - Mastery Quiz on S1,N1
   - Cover D1
-- Tuesday, Nov 19
-  - Mastery Quiz on N2,D1
-  - Cover D2
 - Thursday, Nov 21
-  - Mastery Quiz on N1,N2
-  - Cover D2,D3m
+  - Mastery Quiz on N1,N2,D1
+  - Cover D1,D2
 - Tuesday, Nov 26
   - Mastery Quiz on D1,D2
-  - Cover D3m,D4m
+  - Cover D2
 - Thursday, Nov 28
   - **Thanksgiving Holiday**
 
@@ -111,7 +110,7 @@ description: "2019 Fall"
 
 - Tuesday, Dec 03
   - Mastery Quiz on D1,D2
-  - Cover D4m
+  - Cover D3m,D4m
 - Thursday, Dec 05
   - Comprehensive Mastery Quiz
 
