@@ -109,7 +109,7 @@ description: "2019 Fall"
 ### December
 
 - Tuesday, Dec 03
-  - Mastery Quiz on D2
+  - Mastery Quiz on D1,D2
   - Cover D3m,D4m
 - Thursday, Dec 05
   - Comprehensive Mastery Quiz
