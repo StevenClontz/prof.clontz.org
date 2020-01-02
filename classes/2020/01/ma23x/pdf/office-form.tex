@@ -1,0 +1,88 @@
+\documentclass[12pt]{article}
+
+\usepackage[letterpaper,margin=1in]{geometry}
+
+\setlength{\parindent}{0pt}
+
+\usepackage{amssymb}
+\usepackage{amsmath}
+
+\usepackage{multicol}
+
+\usepackage{tikz}
+
+\newcommand{\headerText}{
+  MA 238 | 2019 Fall | Dr. Clontz
+}
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0pt}% Default \headrulewidth is 0.4pt
+\renewcommand{\footrulewidth}{0pt}% Default \footrulewidth is 0pt
+\chead{\footnotesize\bf\headerText}
+\cfoot{}
+
+\newcommand{\csch}{\operatorname{csch}}
+\newcommand{\sech}{\operatorname{sech}}
+
+\newcommand{\issuesMark}{\raisebox{.5pt}{\textcircled{\raisebox{-1pt}{i}}}}
+
+
+
+
+
+
+\newcommand{\theForm}{
+\begin{tikzpicture}[x=1in,y=1in]
+  \draw[color=black!20] (0,0) rectangle (4.5,1);
+  \draw[color=black!20] (0,0.67) -- (4.5,0.67);
+  \draw[color=black!20] (3,0.33) -- (3,0.67);
+  \draw[color=black!20] (0,0.33) -- (4.5,0.33);
+
+  \node[anchor=west] at (0.1,0.83) {Name:};
+  \node[anchor=west] at (0.1,0.5) {J\#:};
+  \node[anchor=west] at (3.1,0.5) {Team:};
+  \node[anchor=west] at (0.1,0.17) {Date:};
+
+  \node at (5.5,0.5) {Office Reassessment Form}; 
+\end{tikzpicture}
+
+\vspace{1em}
+
+\begin{tikzpicture}[x=1in,y=1in]
+  \draw[color=black!50] (0,0) rectangle (6.4,1);
+  \draw[color=black!50] (1,0) -- (1,1);
+  \draw[color=black!50] (5.4,0) -- (5.4,1);
+
+  \node[anchor=north west,color=black!70] at (0,0.95) {\footnotesize Standard:};
+  \node[anchor=north west,color=black!70] at (5.4,0.95) {\footnotesize Mark:};
+\end{tikzpicture}
+
+Check each box to agree.
+\begin{itemize}
+  \item My status in the course is Active: 
+    \(\square\)
+  \item I attended or will attend class today (if applicable).
+    \(\square\)
+  \item I previously received a mark of \issuesMark{} or better for this standard.
+    \(\square\)
+  \item This standard will not be assessed on a Mastery Quiz given in class today:
+    \(\square\)
+  \item I have not already submitted two Office Reassessment forms today.
+    \(\square\)
+  \item I have not already earned two \(\checkmark\)s from Office Reassessments
+        this week.
+    \(\square\)
+  \item I have attached at least five correctly worked exercises related to this standard
+        and have no questions about them. \(\square\)
+\end{itemize}
+
+If you meet all these requirements,
+bring this form to the instructor's office hours to attempt a new exercise
+related to this standard for credit. 
+}
+\begin{document}
+\theForm
+\newpage
+\theForm
+\end{document}
