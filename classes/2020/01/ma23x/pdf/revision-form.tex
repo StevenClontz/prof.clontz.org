@@ -36,13 +36,14 @@
 \begin{tikzpicture}[x=1in,y=1in]
   \draw[color=black!20] (0,0) rectangle (4.5,1);
   \draw[color=black!20] (0,0.67) -- (4.5,0.67);
-  \draw[color=black!20] (3,0.33) -- (3,0.67);
+  \draw[color=black!20] (3,0) -- (3,0.67);
   \draw[color=black!20] (0,0.33) -- (4.5,0.33);
 
   \node[anchor=west] at (0.1,0.83) {Name:};
   \node[anchor=west] at (0.1,0.5) {J\#:};
-  \node[anchor=west] at (3.1,0.5) {Team:};
+  \node[anchor=west] at (3.1,0.5) {Class:};
   \node[anchor=west] at (0.1,0.17) {Date:};
+  \node[anchor=west] at (3.1,0.17) {Team:};
 
   \node at (5.5,0.5) {Revision Form (\(\ast\) req.)};
 \end{tikzpicture}
@@ -59,6 +60,7 @@
   \node[anchor=north west,color=black!70] at (1,0.95) {\footnotesize Mastery Quiz:};
   \node[anchor=north west,color=black!70] at (3.2,0.95) {\footnotesize Exercise Version:};
   \node[anchor=north west,color=black!70] at (5.4,0.95) {\footnotesize New Mark:};
+  \node[anchor=south east,color=black!70] at (6.4,0) {\tiny Instructor Only};
 \end{tikzpicture}
 
 Complete all fields at the top of the page (except ``New Mark''),
