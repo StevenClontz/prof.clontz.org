@@ -11,16 +11,17 @@ This page is currently a work-in-progress.
 - Content:
   - [Practice Exercises][mastr]
   - MA237 Linear Algebra
-    - [Calendar][calendar]
-    - Standards
-    - Readiness Materials
-    - Activity Slides
+    - [Calendar](ma237-calendar)
+    - [Standards](pdf/ma237-standards.pdf)
+    - [Readiness Materials](pdf/ma237-readiness.pdf)
+    - [RREF Video Tutorial](https://www.youtube.com/watch?v=Cq0Nxk2dhhU)
+    - [Activity Slides](pdf/ma237-course-slides.pdf)
     - [Octave Online](https://octave-online.net/)
   - MA238 Differential Equations
-    - [Calendar][calendar]
-    - Standards
-    - Readiness Materials
-    - [Modeling Projects][modeling]
+    - [Calendar](ma238-calendar)
+    - [Standards](ma238-standards)
+    - [Readiness Materials](ma238-readiness)
+    - [Take-Home Projects][modeling]
     - [Integral/Transform Table][formula-table]
 - Forms:
     - [**✱** Revision][revision-form]
@@ -213,17 +214,19 @@ take advantage of this early.
 ## Missed Quizzes 
 
 Students that miss one or more quizzes due to excused
-absences may request additional time on a Comprehensive Mastery Quiz.
+absences may request additional time on a Comprehensive Mastery Quiz
+or the Final Exam.
 
 ## Take-Home Projects 
 
-Some standards are too involved to be assessed
-on daily quizzes. Instead, each student will complete a unique take-home project
-based on that topic. Each project will have one or more deadlines;
+Some **MA238** standards are too involved to be assessed
+on timed daily quizzes. Instead, each student will complete a take-home project
+based on that topic. Each project will have one or more submission deadlines;
 after each deadline, the instructor will mark the submitted project with
 **✓**, **ⓘ**, or **✘**. If a **✓** is not awarded, the student may
-revise and resubmit the same project at the next deadline, if available.
-All projects may also be submitted for credit at the final exam.
+revise and resubmit the same project at the next submission deadline.
+Even once all submission deadlines have passed, any project may be submitted
+for credit at the final exam.
 
 ## Final Exam
 
