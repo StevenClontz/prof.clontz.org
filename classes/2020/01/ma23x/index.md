@@ -219,7 +219,7 @@ or the Final Exam.
 
 ## Take-Home Projects 
 
-Some **MA238** standards are too involved to be assessed
+Some standards are too involved to be assessed
 on timed daily quizzes. Instead, each student will complete a take-home project
 based on that topic. Each project will have one or more submission deadlines;
 after each deadline, the instructor will mark the submitted project with
