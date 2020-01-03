@@ -21,7 +21,7 @@ This page is currently a work-in-progress.
     - [Calendar](ma238-calendar)
     - [Standards](ma238-standards)
     - [Readiness Materials](ma238-readiness)
-    - [Take-Home Projects][modeling]
+    - Take-Home Projects (todo)
     - [Integral/Transform Table][formula-table]
 - Forms:
     - [**✱** Revision][revision-form]
