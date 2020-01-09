@@ -76,10 +76,10 @@ Letter grades are assigned based on how much content was learned
 by each student, measured by how many **✓** were earned.
 
 - MA237 Linear Algebra (out of 48 possible)
-  - **A**: **46✓**
-  - **B**: **41✓**
-  - **C**: **36✓**
-  - **D**: **31✓**
+  - **A**: **45✓**
+  - **B**: **40✓**
+  - **C**: **35✓**
+  - **D**: **30✓**
 - MA238 Differential Equations (out of 40 possible)
   - **A**: **38✓**
   - **B**: **34✓**
