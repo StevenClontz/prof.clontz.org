@@ -60,7 +60,9 @@ The use of any calculator is allowed on assessments,
 as long as it does not support communication
 functionality or internet connectivity.
 
-- **MA237 students** will greatly benefit
+### MA237 calculator
+
+Linear algebra students will greatly benefit
 from a calculator that has an RREF function supporting matrices as large
 as \\(6\times 6\\).
 
@@ -217,9 +219,9 @@ Students that miss one or more quizzes due to excused
 absences may request additional time on a Comprehensive Mastery Quiz
 or the Final Exam.
 
-## Take-Home Projects 
+## Take-Home Projects (MA238)
 
-Some standards are too involved to be assessed
+Some differential equations standards are too involved to be assessed
 on timed daily quizzes. Instead, each student will complete a take-home project
 based on that topic. Each project will have one or more submission deadlines;
 after each deadline, the instructor will mark the submitted project with
