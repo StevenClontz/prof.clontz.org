@@ -62,7 +62,7 @@ functionality or internet connectivity.
 
 - **MA237 students** will greatly benefit
 from a calculator that has an RREF function supporting matrices as large
-as \\(5\times 5\\).
+as \\(6\times 6\\).
 
 ## Grading
 
