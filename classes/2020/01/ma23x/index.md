@@ -4,8 +4,6 @@ title: "MA 237/238"
 description: "Linear Algebra and Differential Equations - 2020 Spring"
 ---
 
-This page is currently a work-in-progress.
-
 #### Quick Links
 
 - Content:
@@ -33,7 +31,7 @@ This page is currently a work-in-progress.
 
 ## Course Information
 
-- Semester: 2020 Fall
+- Semester: 2020 Spring
 - Instructor: Dr. Steven Clontz
 - Sections:
   - MA 237-104 Linear Algebra
@@ -137,7 +135,7 @@ All excused absences must be documented via email with the instructor.
 ## Readiness Assurance
 
 Before each module of the course, students are given a 
-[list of materials](readiness)
+list of materials
 for review. Readiness for that module will be assessed on a **Readiness
 Quiz**, first individually and then as a team.
 High scores reflect sufficient preparedness for the module, while low
