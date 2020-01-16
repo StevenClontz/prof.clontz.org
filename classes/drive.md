@@ -9,7 +9,7 @@ description: "Instructions for my classes"
 * Log in with your `@jagmail.southalabama.edu` 
   account (if you aren't already).
 * Using the left menu bar, click/tap `Shared Drives`.
-* Click/tap on the Team Drive whose name matches our course.
+* Click/tap on the Shared Drive whose name matches our course.
 * Use the `(+)` button to upload documents to the appropriate folder.
 * Warning: uploaded documents can only be deleted by the instructor;
   please use care in uploading files.
