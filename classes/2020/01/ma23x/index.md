@@ -20,7 +20,7 @@ description: "Linear Algebra and Differential Equations - 2020 Spring"
     - [Calendar](ma238-calendar)
     - [Standards](ma238-standards)
     - [Readiness Materials](ma238-readiness)
-    - Take-Home Projects (todo)
+    - [Take-Home Projects](pdf/ma238-workbook.pdf)
     - [Integral/Transform Table][formula-table]
 - Forms:
     - [**✱** Revision][revision-form]
