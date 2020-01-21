@@ -7,13 +7,14 @@ description: "Linear Algebra and Differential Equations - 2020 Spring"
 #### Quick Links
 
 - Content:
-  - [Practice Exercises][mastr]
+  - [Homework / Practice Exercises][mastr]
   - MA237 Linear Algebra
     - [Calendar](ma237-calendar)
     - [Standards](pdf/ma237-standards.pdf)
     - [Readiness Materials](pdf/ma237-readiness.pdf)
-    - [RREF Video Tutorial](https://www.youtube.com/watch?v=Cq0Nxk2dhhU)
+      - [RREF Video Tutorial](https://www.youtube.com/watch?v=Cq0Nxk2dhhU)
     - [Activity Slides](pdf/ma237-course-slides.pdf)
+    - [Sample Full Solutions](pdf/ma237-sample-solutions.pdf)
     - [Octave Online](https://octave-online.net/)
   - MA238 Differential Equations
     - [Calendar](ma238-calendar)
