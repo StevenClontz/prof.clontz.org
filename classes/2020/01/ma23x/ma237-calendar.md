@@ -17,8 +17,9 @@ description: "2020 Spring - Linear Algebra"
 - **Thu, Jan 23**
   - Cover E2,E3
 - **Tue, Jan 28**
-  - Readiness Quiz for Module V
   - Mastery Quiz on E1,E2
+  - Cover E3
+  - Readiness Quiz for Module V
   - Cover V1
 - **Thu, Jan 30**
   - Mastery Quiz on E3
