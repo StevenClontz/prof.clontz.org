@@ -20,25 +20,24 @@ description: "2020 Spring - Linear Algebra"
   - Mastery Quiz on E1,E2
   - Cover E3
   - Readiness Quiz for Module V
-  - Cover V1
 - **Thu, Jan 30**
   - Mastery Quiz on E3
-  - Cover V1,V2
+  - Cover V1
 
 ## February
 
 - **Tue, Feb 04**
   - Mastery Quiz on E1,E2,V1
-  - Cover V2,V3
+  - Cover V2
 - **Thu, Feb 06**
   - Mastery Quiz on E3,V2
-  - Cover V3,V4
+  - Cover V3
 - **Tue, Feb 11**
   - Mastery Quiz on V1,V3
-  - Cover V4,V5
+  - Cover V4
 - **Thu, Feb 13**
   - Mastery Quiz on E3,V2,V4
-  - Cover V5-V7
+  - Cover V5,V6
 - **Tue, Feb 18**
   - Mastery Quiz on V1,V3,V5
   - Cover V6,V7
