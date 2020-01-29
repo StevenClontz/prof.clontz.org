@@ -33,7 +33,7 @@ description: "2020 Spring - Linear Algebra"
   - Mastery Quiz on E3,V2
   - Cover V3
 - **Tue, Feb 11**
-  - Mastery Quiz on V1,V3
+  - Mastery Quiz on E2,V1,V3
   - Cover V4
 - **Thu, Feb 13**
   - Mastery Quiz on E3,V2,V4
