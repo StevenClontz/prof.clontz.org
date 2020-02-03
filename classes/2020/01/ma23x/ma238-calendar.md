@@ -22,16 +22,16 @@ description: "2020 Spring - Diff EQ"
   - Cover C5,C6
 - **Thu, Jan 30**
   - Mastery Quiz on C2,C5
-  - Cover C6
+  - Cover C6,C7m
 
 ## February
 
 - **Tue, Feb 04**
   - Mastery Quiz on C1,C4,C6
   - Cover C7m
+  - Readiness Quiz for Module D
 - **Thu, Feb 06**
   - Mastery Quiz on C2,C5
-  - Readiness Quiz for Module D
   - Cover D1
 - **Tue, Feb 11**
   - Mastery Quiz on C4,C5
