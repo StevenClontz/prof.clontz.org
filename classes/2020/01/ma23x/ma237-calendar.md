@@ -36,25 +36,25 @@ description: "2020 Spring - Linear Algebra"
   - Mastery Quiz on E2,V1,V3
   - Cover V4
 - **Thu, Feb 13**
-  - Mastery Quiz on E3,V2,V4
-  - Cover V5,V6
+  - Mastery Quiz on E3,V2
+  - Cover V4,V5
 - **Tue, Feb 18**
-  - Mastery Quiz on V1,V3,V5
-  - Cover V6,V7
+  - Mastery Quiz on V3,V2
+  - Cover V5,V6
 - **Thu, Feb 20**
-  - Mastery Quiz on V2,V4,V6
-  - Cover V7,V8
+  - Mastery Quiz on V1,V2,V5
+  - Cover V6,V7
 - **Tue, Feb 25**
   - *Mardi Gras Holiday*
 - **Thu, Feb 27**
-  - Mastery Quiz on V3,V5,V7
+  - Mastery Quiz on V3,V5,V6
   - Cover V8,V9
 
 ## March
 
 - **Tue, Mar 03**
-  - Mastery Quiz on V4,V6,V8,V9
-  - Cover V10
+  - Mastery Quiz on V4,V6,V8
+  - Cover V9,V10
 - **Thu, Mar 05**
   - Comprehensive Mastery Quiz on E1-V10
 - **Mar 10&12**
@@ -67,10 +67,10 @@ description: "2020 Spring - Linear Algebra"
   - Mastery Quiz on V8,V10
   - Cover A1,A2
 - **Tue, Mar 24**
-  - Mastery Quiz on A1
+  - Mastery Quiz on V9,A1
   - Cover A2,A3
 - **Thu, Mar 26**
-  - Mastery Quiz on A2
+  - Mastery Quiz on V10,A2
   - Cover A3,A4
 - **Tue, Mar 31**
   - Mastery Quiz on A3,A4
