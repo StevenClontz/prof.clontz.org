@@ -40,10 +40,10 @@ description: "2020 Spring - Diff EQ"
   - Mastery Quiz on C6
   - Cover D2,D3m
 - **Tue, Feb 18**
-  - Mastery Quiz on D1,D2
+  - Mastery Quiz on D1,C6
   - Cover D3m,D4m
 - **Thu, Feb 20**
-  - Mastery Quiz on C6
+  - Mastery Quiz on D2
   - Cover D4m
 - **Tue, Feb 25**
   - *Mardi Gras Holiday*
