@@ -4,6 +4,17 @@ title: "MA 237 Calendar"
 description: "2020 Spring - Linear Algebra"
 ---
 
+### Office Hours
+
+- Wed Feb 19: 9:30-3:30
+- Fri Feb 21: 9:30-12:30
+- (No OH Mardi Gras week)
+- Mon Mar 02: 8:30-2:30
+- Wed Mar 04: 9:30-3:30 (No office reassessments allowed this day)
+- (Spring Break)
+- Mon Mar 16: 9:30-3:30
+- Wed Mar 25: 9:30-3:30
+
 ## January
 
 - **Tue, Jan 14**
