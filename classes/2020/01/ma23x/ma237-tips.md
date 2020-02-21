@@ -44,4 +44,7 @@ meaning.
 These tips are specific to our linear algebra course, but for general advice
 on how to clearly communicate mathematics,
 [Prof. Francis Su](/classes/2019/08/ma320/pdf/good-math-writing.pdf)
-has written a great overview.
+has written a great overview. To see what "professional" mathematical writing
+looks like, here's an example of a
+[research paper](https://github.com/StevenClontz/research/blob/master/articles/dual-selection-games/article.pdf)
+I've written. Or just look in your favorite textbook.
