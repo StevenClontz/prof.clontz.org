@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "MA 237 Solution Tips"
+title: "MA 237 Writing Tips"
 description: "2020 Spring - Linear Algebra"
 ---
 
