@@ -35,5 +35,13 @@ with the (often) "yes" or "no" answer.
 The [sample solutions PDF](../pdf/ma237-sample-solutions.pdf) will help you
 find the right words, but it's important you know what those words mean:
 it's very easy for me to tell when a student has memorized a sentence without
-understanding it most of the time, because the sentence they wrote isn't
+understanding it most of the time, because the sentence they wrote usually isn't
 exactly what I said (and no longer makes any sense because of the error).
+Students who know what they're trying to say won't write exactly what I put
+in the sample solution, but they'll write something else with the same
+meaning.
+
+These tips are specific to our linear algebra course, but for general advice
+on how to clearly communicate mathematics,
+[Prof. Francis Su](/classes/2019/08/ma320/pdf/good-math-writing.pdf)
+has written a great overview.
