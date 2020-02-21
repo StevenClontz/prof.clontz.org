@@ -16,6 +16,7 @@ description: "Linear Algebra and Differential Equations - 2020 Spring"
     - [Activity Slides](pdf/ma237-course-slides.pdf)
     - [Sample Full Solutions](pdf/ma237-sample-solutions.pdf)
     - [Octave Online](https://octave-online.net/)
+    - [Writing Advice](ma237-tips)
   - MA238 Differential Equations
     - [Calendar](ma238-calendar)
     - [Standards](ma238-standards)
