@@ -31,6 +31,10 @@ pointing out a feature of an RREF matrix, but you need to explain why that
 feature is relevant to the exercise.
 - *Answer the question asked.* After your explanation, be sure to conclude
 with the (often) "yes" or "no" answer.
+- *Don't write a sentence in place of an established mathematical symbol.*
+For example, "we now use technology to compute the RREF of the matrix A to
+result in the matrix B" could be much more quickly communicated by just writing
+$$\operatorname{RREF}(A)=B$$ or $$A\sim B$$.
 
 The [sample solutions PDF](../pdf/ma237-sample-solutions.pdf) will help you
 find the right words, but it's important you know what those words mean:
