@@ -52,3 +52,21 @@ has written a great overview. To see what "professional" mathematical writing
 looks like, here's an example of a
 [research paper](https://github.com/StevenClontz/research/blob/master/articles/dual-selection-games/article.pdf)
 I've written. Or just look in your favorite textbook.
+
+## Tips on explaining spanning/independence
+
+We've covered lots of ways to tell if a set of vectors is spanning
+or independent, but here the basic definitions I'd appeal to in order
+to *explain* why a set of vectors is spanning or linearly indepednent (since they
+directly involve vector equations you can solve with an augmented matrix).
+
+- A set \\(\\{\vec v_1,\dots,\vec v_n\\}\\) of vectors spans a space \\(V\\)
+provided that for each \\(\vec v\in V\\), there is at least one solution to the vector
+equation \\(x_1\vec v_1+\dots+x_n\vec v_n = \vec v\\).
+- A set \\(\\{\vec v_1,\dots,\vec v_n\\}\\) of Euclidean vectors is linearly independent
+provided that the only solution to the vector
+equation \\(x_1\vec v_1+\dots+x_n\vec v_n = \vec 0\\) is
+\\(x_1=\dots=x_n=0\\).
+
+If you need to show something about spanning or independence to solve a larger
+problem, then feel free to just say something about pivots, rows, and/or columns.
