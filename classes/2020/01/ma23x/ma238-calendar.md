@@ -66,18 +66,18 @@ description: "2020 Spring - Diff EQ"
 ## March
 
 - **Tue, Mar 03**
-  - Mastery Quiz on D2,F1
-  - Cover F2
+  - Mastery Quiz on D2
+  - Cover F1
 - **Thu, Mar 05**
   - Comprehensive Mastery Quiz on C1-F2
 - **Mar 10&12**
   - *Spring Break*
 - **Tue, Mar 17**
   - Mastery Quiz on F1
-  - Cover F3m
+  - Cover F2,F3m
 - **Thu, Mar 19**
   - Mastery Quiz on F2
-  - Cover F4
+  - Cover F3m,F4
 - **Tue, Mar 24**
   - Mastery Quiz on F1,F4
   - Cover F5
