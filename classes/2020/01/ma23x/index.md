@@ -291,6 +291,6 @@ USAOnline.
 [office-form]: pdf/office-form.pdf
 
 [gradescope]: https://www.gradescope.com/
-[mastr]: https://mastr.clontz.org
+[mastr]: http://masterit.clontz.org
 [formula-table]: pdf/table.pdf
 [drive]: /classes/drive
