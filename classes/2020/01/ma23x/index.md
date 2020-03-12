@@ -4,6 +4,17 @@ title: "MA 237/238"
 description: "Linear Algebra and Differential Equations - 2020 Spring"
 ---
 
+## COVID-19 Mitigation Plan
+
+(Updated 03-12 noon.)
+
+As of now the university will be in session as usual next week. However,
+I personally will not require attendance in my classes on March 17/19. Watch
+this space for a link to watch (hopefully live, but definitely recorded)
+if you won't be in class
+as we will continue to cover new material. There will be no in-class
+quizzes on March 17/19.
+
 #### Quick Links
 
 - Content:
