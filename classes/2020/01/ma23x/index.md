@@ -6,14 +6,30 @@ description: "Linear Algebra and Differential Equations - 2020 Spring"
 
 ## COVID-19 Mitigation Plan
 
-(Updated 03-12 noon.)
+(Updated 03-16)
 
-As of now the university will be in session as usual next week. However,
-I personally will not require attendance in my classes on March 17/19. Watch
-this space for a link to watch (hopefully live, but definitely recorded)
-if you won't be in class
-as we will continue to cover new material. There will be no in-class
-quizzes on March 17/19.
+***This draft is open for comments - please email me by Wednesday with
+any questions or concerns.***
+
+The remaining content for the course will be delivered via PDFs uploaded to our shared Google Drive explaining the material and prerecorded videos uploaded to YouTube working through examples of each type of exercise.
+
+I will hold virtual office hours via Google Meet on Wednesdays 9am-4pm and 9pm-10pm at this link: <https://meet.google.com/ddp-mwmo-hgj> Please log in using your Jagmail account.
+
+For the remainder of the semester, we will use Gradescope remotely for assessment. Each Thursday, a quiz covering newer standards will become available to view/download/print. Using the printout or any other paper, you will write full solutions for each exercise, photograph your work, and upload to Gradescope before the end of the day.
+
+We will also use Gradescope for reassessment. Each Tuesday, a quiz covering older standards will become available. You may attempt any of these, but you are additionally required to upload photos of work on 5 exercises from <https://masterit.clontz.org> for each standard you attempt.
+
+For all submissions, I will give minimal feedback on the first pass to get results back to you as quickly as possible; if possible, you should try to figure out specific mistakes for yourself to help you learn from them. However, you may use the “Regrade Request” feature on any of your submissions for me to provide more detailed feedback (or ask for feedback during office hours).
+
+Submissions marked as revisable with a star may be revised by sending me an email with a photograph of your revision. Please include all the information asked on the [Revision Form](https://prof.clontz.org/classes/2020/01/ma23x/pdf/revision-form.pdf).
+
+Final grades will be reported according to the original syllabus. All enrolled students are considered “Active” for the remainder of the semester.
+
+I will send emails each Monday with updated progress reports and updates.
+
+The following calendar outlines the quizzing schedule for the remainder of the semester:
+
+- TODO
 
 #### Quick Links
 
