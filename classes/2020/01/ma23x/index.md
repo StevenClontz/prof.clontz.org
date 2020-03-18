@@ -6,9 +6,9 @@ description: "Linear Algebra and Differential Equations - 2020 Spring"
 
 ## COVID-19 Mitigation Plan
 
-(Updated 03-16)
+(Updated 03-18)
 
-***This draft is open for comments - please email me by Wednesday with
+***This draft is open for comments - please drop in our 03-19 virtual office hours with
 any questions or concerns.***
 
 The remaining content for the course will be delivered via PDFs uploaded to our shared Google Drive explaining the material and prerecorded videos uploaded to YouTube working through examples of each type of exercise.
@@ -27,9 +27,13 @@ Final grades will be reported according to the original syllabus. All enrolled s
 
 I will send emails each Monday with updated progress reports and updates.
 
-The following calendar outlines the quizzing schedule for the remainder of the semester:
+- Updated Calendars:
+    - [MA237](ma237-calendar)
+    - [MA238](ma238-calendar)
 
-- TODO
+---
+
+## Original Syllabus
 
 #### Quick Links
 

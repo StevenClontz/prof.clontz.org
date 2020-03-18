@@ -70,53 +70,40 @@ description: "2020 Spring - Diff EQ"
   - Cover F1,F2
 - **Thu, Mar 05**
   - Comprehensive Mastery Quiz on C1-F1
-- **Mar 10&12**
-  - *Spring Break*
-- **Tue, Mar 17**
-  - Mastery Quiz on F1
-  - Cover F2
-- **Thu, Mar 19**
-  - Mastery Quiz on F2
-  - Cover F4
+
+
+
+## Post-COVID19 Mitigation Quizzing Schedule
+
+Reassessments on older topics available on Tuesdays (HW required).
+Assessments on newer topics available on Thursdays.
+
+Go to Gradescope to see schedule for "take-home projects".
+
 - **Tue, Mar 24**
-  - Mastery Quiz on F1,F4
-  - Cover F3m,F5
+  - C1-C6
 - **Thu, Mar 26**
-  - Mastery Quiz on F2
-  - Cover F5,F6
+  - F1-F4
 - **Tue, Mar 31**
-  - Mastery Quiz on F5,F6
-  - Readiness Quiz on Module S
-  - Cover S1
-
-## April
-
+  - C4-D2
 - **Thu, Apr 02**
-  - Mastery Quiz on F2,F4,S1
-  - Cover S2m
+  - F1-F6
 - **Tue, Apr 07**
-  - Mastery Quiz on F5,F6
-  - Cover S3
+  - D1-F2
 - **Thu, Apr 09**
-  - Mastery Quiz on S1,S3
-  - Cover S4m
+  - F4-S3
 - **Tue, Apr 14**
-  - Mastery Quiz on F5,F6
-  - Readiness Quiz on Module N
-  - Cover N1
+  - F1-F4
 - **Thu, Apr 16**
-  - Mastery Quiz on S1,S3
-  - Cover N1,N2
+  - F5-N2
 - **Tue, Apr 21**
-  - Mastery Quiz on N1
-  - Cover N2,N3m
+  - To be announced
 - **Thu, Apr 23**
-  - Mastery Quiz on S3,N2
-  - Cover N3m
+  - S1-N2
 - **Tue Apr 28**
-  - Mastery Quiz on N1,N2
-  - Flex day (convolutions?)
+  - To be announced
 - **Thu Apr 30**
-  - Comprehensive Mastery Quiz
+  - C1-N2
 
-Final Exam schedule available at <https://www.southalabama.edu/departments/registrar/finalexamschedule-spring.html>
+
+Final exam info TBA

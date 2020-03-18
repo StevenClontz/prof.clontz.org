@@ -68,54 +68,38 @@ description: "2020 Spring - Linear Algebra"
   - Discuss writing tips for V3,V5
   - Mastery Quiz on V4,V6,V9,V10
 - **Thu, Mar 05**
-  - Comprehensive Mastery Quiz on E1-A1
-- **Mar 10&12**
-  - *Spring Break*
-- **Tue, Mar 17**
-  - Mastery Quiz on V7,V9
-  - Cover A1,A2
-- **Thu, Mar 19**
-  - Mastery Quiz on A1,V8,V10
-  - Cover A2,A3
+  - Comprehensive Mastery Quiz on E1-V10
+
+## Post-COVID19 Mitigation Quizzing Schedule
+
+Reassessments on older topics available on Tuesdays (HW required).
+Assessments on newer topics available on Thursdays.
+
 - **Tue, Mar 24**
-  - Mastery Quiz on A2
-  - Cover A3,A4
+  - E1-V2
 - **Thu, Mar 26**
-  - Mastery Quiz on A1
-  - Cover A4
+  - V7-A2
 - **Tue, Mar 31**
-  - Mastery Quiz on A1,A3
-  - Readiness Quiz on Module M
-  - Cover M1
-
-## April
-
+  - E3-V4
 - **Thu, Apr 02**
-  - Mastery Quiz on A2,A4
-  - Cover M1,M2
+  - A1-M1
 - **Tue, Apr 07**
-  - Mastery Quiz on A3,A4,M1
-  - Cover M2,M3
+  - V3-V8
 - **Thu, Apr 09**
-  - Mastery Quiz on A2,M2
-  - Cover M3
+  - A1-M3
 - **Tue, Apr 14**
-  - Mastery Quiz on A4,M1,M3
-  - Readiness Quiz on Module G
-  - Cover G1
+  - V5-V10
 - **Thu, Apr 16**
-  - Mastery Quiz on A3,M2
-  - Cover G1,G2
+  - A3-G2
 - **Tue, Apr 21**
-  - Mastery Quiz on M1,M3,G1
-  - Cover G2,G3
+  - To be announced
 - **Thu, Apr 23**
-  - Mastery Quiz on M2,G2
-  - Cover G3,G4
+  - M1-G4
 - **Tue Apr 28**
-  - Mastery Quiz on G3,G4
-  - Applications of Linear Algebra
+  - To be announced
 - **Thu Apr 30**
-  - Comprehensive Mastery Quiz
+  - E1-G4
+
+Final exam info TBA
 
 Final Exam schedule available at <https://www.southalabama.edu/departments/registrar/finalexamschedule-spring.html>
