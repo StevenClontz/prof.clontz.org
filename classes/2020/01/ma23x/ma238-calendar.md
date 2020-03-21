@@ -4,16 +4,42 @@ title: "MA 238 Calendar"
 description: "2020 Spring - Diff EQ"
 ---
 
-### Office Hours
+## Post-COVID19 Mitigation Quizzing Schedule
 
-- Wed Feb 19: 9:30-3:30
-- Fri Feb 21: 9:30-12:30
-- (No OH Mardi Gras week)
-- Mon Mar 02: 8:30-2:30
-- Wed Mar 04: 9:30-3:30 (No office reassessments allowed this day)
-- (Spring Break)
-- Mon Mar 16: 9:30-3:30
-- Wed Mar 25: 9:30-3:30
+Reassessments on older topics available on Tuesdays (HW required).
+Assessments on newer topics available on Thursdays.
+
+Go to Gradescope to see schedule for "take-home projects".
+
+- **Tue, Mar 24**
+  - C1-C6
+- **Thu, Mar 26** (NEW: F2-F4)
+  - F1-F4
+- **Tue, Mar 31**
+  - C4-D2
+- **Thu, Apr 02** (NEW: F5-F6)
+  - F1-F6
+- **Tue, Apr 07**
+  - D1-F2
+- **Thu, Apr 09** (NEW: S1-S3)
+  - F4-S3
+- **Tue, Apr 14**
+  - F1-F4
+- **Thu, Apr 16** (NEW: S4m-N3m)
+  - F5-N2
+- **Tue, Apr 21**
+  - To be announced
+- **Thu, Apr 23**
+  - S1-N2
+- **Tue Apr 28**
+  - To be announced
+- **Thu Apr 30**
+  - C1-N2
+
+
+Final exam info TBA
+
+# Older calendar info
 
 ## January
 
@@ -73,37 +99,3 @@ description: "2020 Spring - Diff EQ"
 
 
 
-## Post-COVID19 Mitigation Quizzing Schedule
-
-Reassessments on older topics available on Tuesdays (HW required).
-Assessments on newer topics available on Thursdays.
-
-Go to Gradescope to see schedule for "take-home projects".
-
-- **Tue, Mar 24**
-  - C1-C6
-- **Thu, Mar 26**
-  - F1-F4
-- **Tue, Mar 31**
-  - C4-D2
-- **Thu, Apr 02**
-  - F1-F6
-- **Tue, Apr 07**
-  - D1-F2
-- **Thu, Apr 09**
-  - F4-S3
-- **Tue, Apr 14**
-  - F1-F4
-- **Thu, Apr 16**
-  - F5-N2
-- **Tue, Apr 21**
-  - To be announced
-- **Thu, Apr 23**
-  - S1-N2
-- **Tue Apr 28**
-  - To be announced
-- **Thu Apr 30**
-  - C1-N2
-
-
-Final exam info TBA

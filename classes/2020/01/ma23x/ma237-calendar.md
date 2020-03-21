@@ -4,16 +4,39 @@ title: "MA 237 Calendar"
 description: "2020 Spring - Linear Algebra"
 ---
 
-### Office Hours
+## Post-COVID19 Mitigation Quizzing Schedule
 
-- Wed Feb 19: 9:30-3:30
-- Fri Feb 21: 9:30-12:30
-- (No OH Mardi Gras week)
-- Mon Mar 02: 8:30-2:30
-- Wed Mar 04: 9:30-3:30 (No office reassessments allowed this day)
-- (Spring Break)
-- Mon Mar 16: 9:30-3:30
-- Wed Mar 25: 9:30-3:30
+Reassessments on older topics available on Tuesdays (HW required).
+Assessments on newer topics available on Thursdays.
+
+- **Tue, Mar 24**
+  - E1-V2
+- **Thu, Mar 26** (NEW: A1-A2)
+  - V7-A2
+- **Tue, Mar 31**
+  - E3-V4
+- **Thu, Apr 02** (NEW: A3-M1)
+  - A1-M1
+- **Tue, Apr 07**
+  - V3-V8
+- **Thu, Apr 09** (NEW: M2-M3)
+  - A1-M3
+- **Tue, Apr 14**
+  - V5-V10
+- **Thu, Apr 16** (NEW: G1-G2)
+  - A3-G2
+- **Tue, Apr 21**
+  - To be announced
+- **Thu, Apr 23** (NEW G3-G4)
+  - M1-G4
+- **Tue Apr 28**
+  - To be announced
+- **Thu Apr 30**
+  - E1-G4
+
+Final exam info TBA
+
+# Older calendar info
 
 ## January
 
@@ -70,36 +93,3 @@ description: "2020 Spring - Linear Algebra"
 - **Thu, Mar 05**
   - Comprehensive Mastery Quiz on E1-V10
 
-## Post-COVID19 Mitigation Quizzing Schedule
-
-Reassessments on older topics available on Tuesdays (HW required).
-Assessments on newer topics available on Thursdays.
-
-- **Tue, Mar 24**
-  - E1-V2
-- **Thu, Mar 26**
-  - V7-A2
-- **Tue, Mar 31**
-  - E3-V4
-- **Thu, Apr 02**
-  - A1-M1
-- **Tue, Apr 07**
-  - V3-V8
-- **Thu, Apr 09**
-  - A1-M3
-- **Tue, Apr 14**
-  - V5-V10
-- **Thu, Apr 16**
-  - A3-G2
-- **Tue, Apr 21**
-  - To be announced
-- **Thu, Apr 23**
-  - M1-G4
-- **Tue Apr 28**
-  - To be announced
-- **Thu Apr 30**
-  - E1-G4
-
-Final exam info TBA
-
-Final Exam schedule available at <https://www.southalabama.edu/departments/registrar/finalexamschedule-spring.html>

@@ -6,30 +6,77 @@ description: "Linear Algebra and Differential Equations - 2020 Spring"
 
 ## COVID-19 Mitigation Plan
 
-(Updated 03-18)
 
-***This draft is open for comments - please drop in our 03-19 virtual office hours with
-any questions or concerns.***
+The remaining content for the course will be delivered prerecorded
+videos uploaded to Panopto, weekly office hours,
+and feedback on weekly quiz attempts. Here is the weekly schedule:
 
-The remaining content for the course will be delivered via PDFs uploaded to our shared Google Drive explaining the material and prerecorded videos uploaded to YouTube working through examples of each type of exercise.
+### Tuesdays
 
-I will hold virtual office hours via Google Meet on Wednesdays 9am-4pm and 9pm-10pm at this link: <https://meet.google.com/ddp-mwmo-hgj> Please log in using your Jagmail account.
+You should watch the 
+[videos on USAOnline (Panopto tab)](https://ecampus.southalabama.edu/portal/directtool/c3cda410-70e7-4ae0-ab0a-9c87d30cd7f8/) (use your Jag# with your Jagmail password)
+and attempt
+[practice exercises](https://masterit.clontz.org) related to the
+material being assessed on Thursday's quiz (see below). MA237 students
+may also use the [MA 237 course slides](pdf/ma237-course-slides.pdf),
+and I've made my [MA 238 fall lecture notes](https://drive.google.com)
+for the second half of the semester available on our shared Google Drive.
 
-For the remainder of the semester, we will use Gradescope remotely for assessment. Each Thursday, a quiz covering newer standards will become available to view/download/print. Using the printout or any other paper, you will write full solutions for each exercise, photograph your work, and upload to Gradescope before the end of the day.
+Also, a quiz
+covering standards from earlier in the semester is available each Tuesday
+(replacing office reassessments),
+submitted on Gradescope.
+You may attempt
+any of these, but you are required to upload photos of work on 5 exercises from
+<https://masterit.clontz.org> for each standard you attempt.
+Your options for this quiz are outlined in your course calendar.
 
-We will also use Gradescope for reassessment. Each Tuesday, a quiz covering older standards will become available. You may attempt any of these, but you are additionally required to upload photos of work on 5 exercises from <https://masterit.clontz.org> for each standard you attempt.
+### Wednesdays
 
-For all submissions, I will give minimal feedback on the first pass to get results back to you as quickly as possible; if possible, you should try to figure out specific mistakes for yourself to help you learn from them. However, you may use the “Regrade Request” feature on any of your submissions for me to provide more detailed feedback (or ask for feedback during office hours).
+I will hold virtual office hours via Google Meet on Wednesdays 9am-4pm
+and 9pm-10pm at this link: <https://meet.google.com/ddp-mwmo-hgj>.
+Please log in using your Jagmail account. This is your chance to follow up
+with the prerecorded videos with questions, or show me your attempts at
+solving the practice exercises.
 
-Submissions marked as revisable with a star may be revised by sending me an email with a photograph of your revision. Please include all the information asked on the [Revision Form](https://prof.clontz.org/classes/2020/01/ma23x/pdf/revision-form.pdf).
+### Thursdays
 
-Final grades will be reported according to the original syllabus. All enrolled students are considered “Active” for the remainder of the semester.
+Each Thursday, a quiz covering newer standards will become available
+to view/download/print. Using the printout or any other paper, you will write full
+solutions for each exercise, photograph your work, and upload to Gradescope before
+the end of the day.
+Your course calendar lists which standards are included on each quiz.
+
+### Info on grading
+
+For all submissions, I will give minimal feedback on the first pass to get results
+back to you as quickly as possible; if possible, you should try to figure out
+specific mistakes for yourself to help you learn from them. However, you may use the
+"Regrade Request" feature on any of your submissions for me to provide more detailed
+feedback (or ask for feedback during office hours).
+
+### Revising submissions
+
+Submissions marked as revisable with a star (on both Tues/Thurs quizzes) may be revised
+by sending me an email with a photograph of your revision. Please include all the information
+asked on the [Revision Form](https://prof.clontz.org/classes/2020/01/ma23x/pdf/revision-form.pdf).
+
+### Grading 
+
+Final grades will be reported according to the original syllabus.
+
+### Active/Inactive
+
+All enrolled students are considered "Active" for the remainder of the semester.
+
+### Communication
 
 I will send emails each Monday with updated progress reports and updates.
 
-- Updated Calendars:
-    - [MA237](ma237-calendar)
-    - [MA238](ma238-calendar)
+### Course Calendars
+
+- [MA237](ma237-calendar)
+- [MA238](ma238-calendar)
 
 ---
 
