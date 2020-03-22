@@ -71,7 +71,12 @@ All enrolled students are considered "Active" for the remainder of the semester.
 
 ### Communication
 
-I will send emails each Monday with updated progress reports and updates.
+I will send emails each Monday with updates.
+
+### Progress Reports
+
+I've shared a Google Drive spreadsheet with each student that is periodically synced to my gradebook
+for progress reporting. Log into Google Drive with your Jagmail to view it.
 
 ### Course Calendars
 
