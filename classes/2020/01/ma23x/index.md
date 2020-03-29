@@ -8,14 +8,14 @@ description: "Linear Algebra and Differential Equations - 2020 Spring"
 
 
 The remaining content for the course will be delivered prerecorded
-videos uploaded to Panopto, weekly office hours,
+videos uploaded to Panopto, virtual office hours,
 and feedback on weekly quiz attempts. Here is the weekly schedule:
 
 ### Tuesdays
 
-You should watch the 
-[videos on USAOnline (Panopto tab)](https://ecampus.southalabama.edu/portal/directtool/c3cda410-70e7-4ae0-ab0a-9c87d30cd7f8/) (use your Jag# with your Jagmail password)
-and attempt
+You should watch the appropriate
+[videos on USAOnline (Panopto tab)](https://ecampus.southalabama.edu/portal/directtool/c3cda410-70e7-4ae0-ab0a-9c87d30cd7f8/)
+(use your Jag# with your Jagmail password) and attempt
 [practice exercises](https://masterit.clontz.org) related to the
 material being assessed on Thursday's quiz (see below). MA237 students
 may also use the [MA 237 course slides](pdf/ma237-course-slides.pdf),
@@ -38,6 +38,9 @@ and 9pm-10pm at this link: <https://meet.google.com/ddp-mwmo-hgj>.
 Please log in using your Jagmail account. This is your chance to follow up
 with the prerecorded videos with questions, or show me your attempts at
 solving the practice exercises.
+
+If you have trouble connecting via that link and would prefer to use Zoom,
+email me and we'll set it up.
 
 ### Thursdays
 
@@ -63,7 +66,9 @@ asked on the [Revision Form](https://prof.clontz.org/classes/2020/01/ma23x/pdf/r
 
 ### Grading 
 
-Final grades will be reported according to the original syllabus.
+Final grades will be reported according to the original syllabus. Note that this
+semester you have the option to convert A/B/C grades to S, and D/F grades to U.
+S/U grades do not affect your GPA, but S grades count as passing the course.
 
 ### Active/Inactive
 
