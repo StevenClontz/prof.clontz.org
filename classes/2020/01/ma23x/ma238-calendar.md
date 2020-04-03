@@ -7,9 +7,10 @@ description: "2020 Spring - Diff EQ"
 ## Post-COVID19 Mitigation Quizzing Schedule
 
 Reassessments on older topics available on Tuesdays (HW required).
-Assessments on newer topics available on Thursdays.
 
-Go to Gradescope to see schedule for "take-home projects".
+Take-home projects may be submitted by each Wednesday.
+
+Assessments on newer topics available on Thursdays.
 
 - **Tue, Mar 24**
   - C1-C6
