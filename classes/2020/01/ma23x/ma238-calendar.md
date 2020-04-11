@@ -26,11 +26,11 @@ Assessments on newer topics available on Thursdays.
   - F4-S3
 - **Tue, Apr 14**
   - F1-F4
-- **Thu, Apr 16** (NEW: S4m-N3m)
+- **Thu, Apr 16** (NEW: S4m-N1)
   - F5-N2
 - **Tue, Apr 21**
   - To be announced
-- **Thu, Apr 23**
+- **Thu, Apr 23** (NEW: N2-N3m)
   - S1-N2
 - **Tue Apr 28**
   - To be announced
