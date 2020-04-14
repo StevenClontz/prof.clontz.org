@@ -28,17 +28,27 @@ Assessments on newer topics available on Thursdays.
   - F1-F4
 - **Thu, Apr 16** (NEW: S4m-N1)
   - F5-N1
+
+The last two weeks of class will cover
+all standards for the course, with half
+due Tuesday and half due Thursday. No HW
+is necessary to submit solutions.
+
 - **Tue, Apr 21**
-  - To be announced
+  - C1-F1
 - **Thu, Apr 23** (NEW: N2-N3m)
-  - S1-N2
-- **Tue Apr 28**
-  - To be announced
-- **Thu Apr 30**
-  - C1-N2
+  - F2-N2
+- **Tue, Apr 28**
+  - C1-F1
+- **Thu, Apr 30**
+  - F2-N2
 
+The final exam is the same format as the regular quizzes,
+and will cover all standards for the semester (besides
+take-home projects).
 
-Final exam info TBA
+- **Tue, May 05**
+  - Comprehensive Final: C1-N2
 
 # Older calendar info
 

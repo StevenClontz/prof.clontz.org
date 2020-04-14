@@ -34,7 +34,25 @@ Assessments on newer topics available on Thursdays.
 - **Thu Apr 30**
   - E1-G4
 
-Final exam info TBA
+The last two weeks of class will cover
+all standards for the course, with half
+due Tuesday and half due Thursday. No HW
+is necessary to submit solutions.
+
+- **Tue, Apr 21**
+  - E1-V09
+- **Thu, Apr 23** (NEW: G3-G4)
+  - V10-G4
+- **Tue, Apr 28**
+  - E1-V09
+- **Thu, Apr 30**
+  - V10-G4
+
+The final exam is the same format as the regular quizzes,
+and will cover all standards for the semester.
+
+- **Thu, May 07**
+  - Comprehensive Final: E1-G4
 
 # Older calendar info
 
