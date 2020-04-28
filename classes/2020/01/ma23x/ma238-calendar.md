@@ -44,7 +44,7 @@ is necessary to submit solutions.
   - F2-N2
 
 Extra office hours will be held during finals week:
-9am-4pm and 9pm-10pm on Monday, May 04.
+9am-4pm on Monday, May 04.
 
 The final exam is the same format as the regular quizzes,
 and will cover all standards for the semester (besides
