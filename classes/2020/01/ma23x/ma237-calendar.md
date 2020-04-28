@@ -48,6 +48,9 @@ is necessary to submit solutions.
 - **Thu, Apr 30**
   - V10-G4
 
+Extra office hours will be held during finals week:
+9am-4pm and 9pm-10pm on Monday, May 04.
+
 The final exam is the same format as the regular quizzes,
 and will cover all standards for the semester.
 
